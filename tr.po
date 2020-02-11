@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2017-02-24 04:55+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Turkish\n"
+"PO-Revision-Date: 2020-02-12 17:16+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Zanata 4.4.5\n"
-"Plural-Forms: nplurals=2; plural=(n>1)\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: src/client.js:484
 msgid "$0 key ID"
@@ -30,9 +31,8 @@ msgid "$0 packages"
 msgstr ""
 
 #: src/index.html:92
-#, fuzzy
 msgid "- Add New Repository"
-msgstr "Depo"
+msgstr "- Yeni Depo Ekle"
 
 #: src/index.html:90
 msgid "Add"
@@ -63,9 +63,8 @@ msgid "Cancel"
 msgstr "İptal"
 
 #: src/index.html:134
-#, fuzzy
 msgid "Change Repository"
-msgstr "Depo"
+msgstr "Depoyu Değiştir"
 
 #: src/index.html:210
 msgid "Check for Updates"
@@ -80,9 +79,8 @@ msgid "Connecting to OSTree"
 msgstr ""
 
 #: src/remotes.js:181
-#, fuzzy
 msgid "Couldn't load settings for '$0': $1"
-msgstr "Kullanıcı verisi yüklenemedi"
+msgstr "'$0' için ayarlar yüklenemedi: $1"
 
 #: src/index.html:184
 msgid "Currently using:"
@@ -101,9 +99,8 @@ msgid "Downgrades"
 msgstr ""
 
 #: src/remotes.js:327
-#, fuzzy
 msgid "Error loading remotes: $0"
-msgstr "Yetkilendirilmiş anahtarın kaydedilmesinde hata:"
+msgstr "Uzak depolar yüklenirken hata oluştu: $0"
 
 #: src/index.html:290
 msgid "Expired Signature"
@@ -134,9 +131,8 @@ msgid "No OSTree deployments found"
 msgstr ""
 
 #: src/remotes.js:112
-#, fuzzy
 msgid "No configuration data found"
-msgstr "Bilinmeyen konfigrasyon"
+msgstr "Hiçbir yapılandırma verisi bulunamadı"
 
 #: src/index.html:294
 msgid "No signature avaliable"
@@ -171,14 +167,12 @@ msgid "Packages"
 msgstr ""
 
 #: src/remotes.js:261
-#, fuzzy
 msgid "Please provide a valid URL"
-msgstr "Bir adres girin"
+msgstr "Lütfen geçerli bir URL girin"
 
 #: src/remotes.js:254
-#, fuzzy
 msgid "Please provide a valid name"
-msgstr "Bir adres girin"
+msgstr "Lütfen geçerli bir ad girin"
 
 #: src/index.html:241
 msgid "Rebase and Reboot"
