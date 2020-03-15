@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-02-12 17:16+0000\n"
+"PO-Revision-Date: 2020-03-16 15:38+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
@@ -16,19 +16,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 3.11.3\n"
 
 #: src/client.js:484
 msgid "$0 key ID"
-msgstr ""
+msgstr "$0 anahtar kimliği"
 
 #: src/app.js:459
 msgid "$0 package"
-msgstr ""
+msgstr "$0 paket"
 
 #: src/app.js:459
 msgid "$0 packages"
-msgstr ""
+msgstr "$0 paket"
 
 #: src/index.html:92
 msgid "- Add New Repository"
@@ -40,11 +40,11 @@ msgstr "Ekle"
 
 #: src/index.html:75
 msgid "Add Another Key"
-msgstr ""
+msgstr "Başka Anahtar Ekle"
 
 #: src/index.html:313 src/index.html:331
 msgid "Additions"
-msgstr ""
+msgstr "Eklemeler"
 
 #: src/index.html:39
 msgid "Apply"
@@ -52,11 +52,11 @@ msgstr "Uygula"
 
 #: src/index.html:255
 msgid "Available"
-msgstr ""
+msgstr "Mevcut"
 
 #: src/index.html:68
 msgid "Begins with '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
-msgstr ""
+msgstr "'-----BEGIN PGP PUBLIC KEY BLOCK-----' ile başlar"
 
 #: src/index.html:164
 msgid "Cancel"
@@ -68,15 +68,15 @@ msgstr "Depoyu Değiştir"
 
 #: src/index.html:210
 msgid "Check for Updates"
-msgstr ""
+msgstr "Güncellemeleri kontrol et"
 
 #: src/app.js:303
 msgid "Checking for updates"
-msgstr ""
+msgstr "Güncellemeler kontrol ediliyor"
 
 #: src/index.html:418
 msgid "Connecting to OSTree"
-msgstr ""
+msgstr "OSTree'ye bağlanılıyor"
 
 #: src/remotes.js:181
 msgid "Couldn't load settings for '$0': $1"
@@ -84,7 +84,7 @@ msgstr "'$0' için ayarlar yüklenemedi: $1"
 
 #: src/index.html:184
 msgid "Currently using:"
-msgstr ""
+msgstr "Şu anda kullanılan:"
 
 #: src/index.html:253
 msgid "Default"
@@ -96,7 +96,7 @@ msgstr "Sil"
 
 #: src/index.html:319 src/index.html:349
 msgid "Downgrades"
-msgstr ""
+msgstr "Eski bir sürüme düşürmeler"
 
 #: src/remotes.js:327
 msgid "Error loading remotes: $0"
@@ -104,19 +104,19 @@ msgstr "Uzak depolar yüklenirken hata oluştu: $0"
 
 #: src/index.html:290
 msgid "Expired Signature"
-msgstr ""
+msgstr "Süresi Dolmuş İmza"
 
 #: src/index.html:258
 msgid "Failed"
-msgstr ""
+msgstr "Başarısız"
 
 #: src/index.html:289
 msgid "Good Signature"
-msgstr ""
+msgstr "Geçerli İmza"
 
 #: src/index.html:291
 msgid "Invalid Signature"
-msgstr ""
+msgstr "Geçersiz İmza"
 
 #: src/index.html:99
 msgid "Name"
@@ -124,11 +124,11 @@ msgstr "İsim"
 
 #: src/index.html:420
 msgid "No Deployments"
-msgstr ""
+msgstr "Dağıtım Yok"
 
 #: src/app.js:104
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "OSTree dağıtımı bulunamadı"
 
 #: src/remotes.js:112
 msgid "No configuration data found"
@@ -136,35 +136,35 @@ msgstr "Hiçbir yapılandırma verisi bulunamadı"
 
 #: src/index.html:294
 msgid "No signature avaliable"
-msgstr ""
+msgstr "İmza yok"
 
 #: src/app.js:83
 msgid "Not authorized to update software on this system"
-msgstr ""
+msgstr "Bu sistemdeki yazılımı güncelleme yetkiniz yok"
 
 #: src/client.js:585 src/client.js:681
 msgid "OS $0 not found"
-msgstr ""
+msgstr "$0 işletim sistemi bulunamadı"
 
 #: src/app.js:85
 msgid "OSTree is not available on this system"
-msgstr ""
+msgstr "OSTree bu sistemde mevcut değil"
 
 #: src/index.html:301
 msgid "Operating System"
-msgstr ""
+msgstr "İşletim Sistemi"
 
 #: src/index.html:375
 msgid "Operating System Updates"
-msgstr ""
+msgstr "İşletim Sistemi Güncellemeleri"
 
 #: src/index.html:307
 msgid "Origin"
-msgstr ""
+msgstr "Kaynak"
 
 #: src/index.html:266
 msgid "Packages"
-msgstr ""
+msgstr "Paketler"
 
 #: src/remotes.js:261
 msgid "Please provide a valid URL"
@@ -176,35 +176,35 @@ msgstr "Lütfen geçerli bir ad girin"
 
 #: src/index.html:241
 msgid "Rebase and Reboot"
-msgstr ""
+msgstr "Rebase Yap ve Yeniden Başlat"
 
 #: src/client.js:56
 msgid "Receiving delta parts"
-msgstr ""
+msgstr "Delta parçaları alınıyor"
 
 #: src/client.js:58
 msgid "Receiving metadata objects"
-msgstr ""
+msgstr "Meta veri nesneleri alınıyor"
 
 #: src/client.js:61
 msgid "Receiving objects: $0%"
-msgstr ""
+msgstr "Nesneler alınıyor: %$0"
 
 #: src/index.html:423
 msgid "Reconnect"
-msgstr ""
+msgstr "Yeniden bağlan"
 
 #: src/index.html:305
 msgid "Released"
-msgstr ""
+msgstr "Yayınlanma tarihi"
 
 #: src/index.html:315 src/index.html:337
 msgid "Removals"
-msgstr ""
+msgstr "Kaldırmalar"
 
 #: src/index.html:237
 msgid "Roll Back and Reboot"
-msgstr ""
+msgstr "Geri Al ve Yeniden Başlat"
 
 #: src/index.html:251
 msgid "Running"
@@ -212,19 +212,19 @@ msgstr "Çalışıyor"
 
 #: src/client.js:66
 msgid "Scanning metadata"
-msgstr ""
+msgstr "Meta veriler taranıyor"
 
 #: src/index.html:267
 msgid "Signature"
-msgstr ""
+msgstr "İmza"
 
 #: src/index.html:279
 msgid "Signed by"
-msgstr ""
+msgstr "İmzalayan"
 
 #: src/index.html:23 src/manifest.json
 msgid "Software Updates"
-msgstr ""
+msgstr "Yazılım Güncellemeleri"
 
 #: src/index.html:288
 msgid "Status"
@@ -233,35 +233,35 @@ msgstr "Durum"
 #: src/index.html:327
 msgid ""
 "This deployment contains the same packages as your currently booted system"
-msgstr ""
+msgstr "Bu dağıtım, şu anda çalışan sisteminizle aynı paketleri içermektedir"
 
 #: src/index.html:265
 msgid "Tree"
-msgstr ""
+msgstr "Ağaç"
 
 #: src/index.html:48 src/index.html:109
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/index.html:419
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "OSTree ile iletişim kurulamadı"
 
 #: src/index.html:233
 msgid "Update and Reboot"
-msgstr ""
+msgstr "Güncelle ve Yeniden Başlat"
 
 #: src/index.html:317 src/index.html:343
 msgid "Updates"
-msgstr ""
+msgstr "Güncellemeler"
 
 #: src/index.html:262
 msgid "Updating"
-msgstr ""
+msgstr "Güncelleniyor"
 
 #: src/index.html:59 src/index.html:121
 msgid "Use trusted GPG key"
-msgstr ""
+msgstr "Güvenilir GPG anahtarı kullan"
 
 #: src/index.html:303
 msgid "Version"
@@ -269,15 +269,15 @@ msgstr "Sürüm"
 
 #: src/index.html:282
 msgid "When"
-msgstr ""
+msgstr "Ne zaman"
 
 #: src/client.js:64
 msgid "Writing objects"
-msgstr ""
+msgstr "Nesneler yazılıyor"
 
 #: src/index.html:186
 msgid "at"
-msgstr ""
+msgstr "şurada"
 
 #~ msgid "$0 Block Device"
 #~ msgstr "$0 Blok Device"
