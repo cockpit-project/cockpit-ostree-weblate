@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-03-16 15:38+0000\n"
+"PO-Revision-Date: 2020-03-17 16:38+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
@@ -88,7 +88,7 @@ msgstr "Şu anda kullanılan:"
 
 #: src/index.html:253
 msgid "Default"
-msgstr "Ön tanımlı"
+msgstr "Varsayılan"
 
 #: src/index.html:38
 msgid "Delete"
