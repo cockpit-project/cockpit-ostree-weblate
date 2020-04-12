@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-03-17 16:38+0000\n"
+"PO-Revision-Date: 2020-04-13 22:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
@@ -88,7 +88,7 @@ msgstr "Şu anda kullanılan:"
 
 #: src/index.html:253
 msgid "Default"
-msgstr "Varsayılan"
+msgstr "Öntanımlı"
 
 #: src/index.html:38
 msgid "Delete"
@@ -184,7 +184,7 @@ msgstr "Delta parçaları alınıyor"
 
 #: src/client.js:58
 msgid "Receiving metadata objects"
-msgstr "Meta veri nesneleri alınıyor"
+msgstr "Üst veri nesneleri alınıyor"
 
 #: src/client.js:61
 msgid "Receiving objects: $0%"
@@ -212,7 +212,7 @@ msgstr "Çalışıyor"
 
 #: src/client.js:66
 msgid "Scanning metadata"
-msgstr "Meta veriler taranıyor"
+msgstr "Üst veriler taranıyor"
 
 #: src/index.html:267
 msgid "Signature"
