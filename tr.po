@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-04-13 22:40+0000\n"
+"PO-Revision-Date: 2020-04-16 13:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 3.11.3\n"
+"X-Generator: Weblate 4.0.1\n"
 
 #: src/client.js:484
 msgid "$0 key ID"
@@ -52,7 +52,7 @@ msgstr "Uygula"
 
 #: src/index.html:255
 msgid "Available"
-msgstr "Mevcut"
+msgstr "Kullanılabilir"
 
 #: src/index.html:68
 msgid "Begins with '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
@@ -148,7 +148,7 @@ msgstr "$0 işletim sistemi bulunamadı"
 
 #: src/app.js:85
 msgid "OSTree is not available on this system"
-msgstr "OSTree bu sistemde mevcut değil"
+msgstr "OSTree bu sistemde kullanılabilir değil"
 
 #: src/index.html:301
 msgid "Operating System"
