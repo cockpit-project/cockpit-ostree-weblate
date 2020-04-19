@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-02-04 22:16+0000\n"
-"Last-Translator: Martin Pitt <mpitt@redhat.com>\n"
+"PO-Revision-Date: 2020-04-20 08:40+0000\n"
+"Last-Translator: Jens Maucher <jensmaucher@gmail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/de/>\n"
 "Language: de\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.3\n"
+"X-Generator: Weblate 4.0.1\n"
 
 #: src/client.js:484
 msgid "$0 key ID"
@@ -129,7 +129,7 @@ msgstr "Name"
 
 #: src/index.html:420
 msgid "No Deployments"
-msgstr ""
+msgstr "Keine Bereitstellungen"
 
 #: src/app.js:104
 msgid "No OSTree deployments found"
@@ -239,6 +239,8 @@ msgstr "Status"
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
+"Diese Bereitstellung enthält dieselben Pakete wie Ihr aktuell gestartetes "
+"System"
 
 #: src/index.html:265
 msgid "Tree"
