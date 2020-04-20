@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-19 17:50+0200\n"
-"PO-Revision-Date: 2020-04-16 13:40+0000\n"
+"PO-Revision-Date: 2020-04-21 18:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
@@ -68,11 +68,11 @@ msgstr "Depoyu Değiştir"
 
 #: src/index.html:210
 msgid "Check for Updates"
-msgstr "Güncellemeleri kontrol et"
+msgstr "Güncellemeleri denetle"
 
 #: src/app.js:303
 msgid "Checking for updates"
-msgstr "Güncellemeler kontrol ediliyor"
+msgstr "Güncellemeler denetleniyor"
 
 #: src/index.html:418
 msgid "Connecting to OSTree"
