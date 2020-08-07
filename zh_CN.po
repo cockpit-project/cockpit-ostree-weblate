@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-19 17:50+0200\n"
+"POT-Creation-Date: 2020-02-03 07:56+0000\n"
 "PO-Revision-Date: 2020-07-23 07:28+0000\n"
 "Last-Translator: Charles Lee <lchopn@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
@@ -20,15 +20,15 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#: src/client.js:484
+#: src/client.js:480
 msgid "$0 key ID"
 msgstr "$0 密钥编号"
 
-#: src/app.js:459
+#: src/app.js:455
 msgid "$0 package"
 msgstr "$0 软件包"
 
-#: src/app.js:459
+#: src/app.js:455
 msgid "$0 packages"
 msgstr "$0 软件包"
 
@@ -72,7 +72,7 @@ msgstr "变更源"
 msgid "Check for Updates"
 msgstr "检查更新"
 
-#: src/app.js:303
+#: src/app.js:299
 msgid "Checking for updates"
 msgstr "检查升级"
 
@@ -128,7 +128,7 @@ msgstr "名称"
 msgid "No Deployments"
 msgstr "没有部署"
 
-#: src/app.js:104
+#: src/app.js:101
 msgid "No OSTree deployments found"
 msgstr "没有找到 OSTree 部署"
 
@@ -140,15 +140,15 @@ msgstr "未找到配置数据"
 msgid "No signature avaliable"
 msgstr "没有可用的签名"
 
-#: src/app.js:83
+#: src/app.js:80
 msgid "Not authorized to update software on this system"
 msgstr "未授权更新该系统上的软件"
 
-#: src/client.js:585 src/client.js:681
+#: src/client.js:581 src/client.js:677
 msgid "OS $0 not found"
 msgstr "未找到操作系统 $0"
 
-#: src/app.js:85
+#: src/app.js:82
 msgid "OSTree is not available on this system"
 msgstr "该系统上 OSTree 不可用"
 

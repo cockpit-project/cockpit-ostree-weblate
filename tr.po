@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-19 17:50+0200\n"
+"POT-Creation-Date: 2020-02-03 07:56+0000\n"
 "PO-Revision-Date: 2020-04-21 18:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
-"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
-"cockpit-ostree/master/tr/>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit-"
+"ostree/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
 "X-Generator: Weblate 4.0.1\n"
 
-#: src/client.js:484
+#: src/client.js:480
 msgid "$0 key ID"
 msgstr "$0 anahtar kimliği"
 
-#: src/app.js:459
+#: src/app.js:455
 msgid "$0 package"
 msgstr "$0 paket"
 
-#: src/app.js:459
+#: src/app.js:455
 msgid "$0 packages"
 msgstr "$0 paket"
 
@@ -70,7 +70,7 @@ msgstr "Depoyu Değiştir"
 msgid "Check for Updates"
 msgstr "Güncellemeleri denetle"
 
-#: src/app.js:303
+#: src/app.js:299
 msgid "Checking for updates"
 msgstr "Güncellemeler denetleniyor"
 
@@ -126,7 +126,7 @@ msgstr "İsim"
 msgid "No Deployments"
 msgstr "Dağıtım Yok"
 
-#: src/app.js:104
+#: src/app.js:101
 msgid "No OSTree deployments found"
 msgstr "OSTree dağıtımı bulunamadı"
 
@@ -138,15 +138,15 @@ msgstr "Hiçbir yapılandırma verisi bulunamadı"
 msgid "No signature avaliable"
 msgstr "İmza yok"
 
-#: src/app.js:83
+#: src/app.js:80
 msgid "Not authorized to update software on this system"
 msgstr "Bu sistemdeki yazılımı güncelleme yetkiniz yok"
 
-#: src/client.js:585 src/client.js:681
+#: src/client.js:581 src/client.js:677
 msgid "OS $0 not found"
 msgstr "$0 işletim sistemi bulunamadı"
 
-#: src/app.js:85
+#: src/app.js:82
 msgid "OSTree is not available on this system"
 msgstr "OSTree bu sistemde kullanılabilir değil"
 
