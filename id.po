@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-25 06:29+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Cockpit manifest2po\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: src/client.js:480
 msgid "$0 key ID"
@@ -24,59 +26,59 @@ msgstr ""
 
 #: src/app.js:455
 msgid "$0 package"
-msgstr ""
+msgstr "$0 paket"
 
 #: src/app.js:455
 msgid "$0 packages"
-msgstr ""
+msgstr "$0 paket"
 
 #: src/index.html:92
 msgid "- Add New Repository"
-msgstr ""
+msgstr "- Tambah Repositori Baru"
 
 #: src/index.html:90
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: src/index.html:75
 msgid "Add Another Key"
-msgstr ""
+msgstr "Tambah Kunci Lain"
 
 #: src/index.html:313 src/index.html:331
 msgid "Additions"
-msgstr ""
+msgstr "Tambahan"
 
 #: src/index.html:39
 msgid "Apply"
-msgstr ""
+msgstr "Terapkan"
 
 #: src/index.html:255
 msgid "Available"
-msgstr ""
+msgstr "Tersedia"
 
 #: src/index.html:68
 msgid "Begins with '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
-msgstr ""
+msgstr "Diawali dengan '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
 
 #: src/index.html:164
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: src/index.html:134
 msgid "Change Repository"
-msgstr ""
+msgstr "Ubah Repositori"
 
 #: src/index.html:210
 msgid "Check for Updates"
-msgstr ""
+msgstr "Periksa Pemutakhiran"
 
 #: src/app.js:299
 msgid "Checking for updates"
-msgstr ""
+msgstr "Memeriksa pemutakhiran"
 
 #: src/index.html:418
 msgid "Connecting to OSTree"
-msgstr ""
+msgstr "Menyambung ke OSTree"
 
 #: src/remotes.js:181
 msgid "Couldn't load settings for '$0': $1"
