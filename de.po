@@ -12,16 +12,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: 2020-04-20 08:40+0000\n"
-"Last-Translator: Jens Maucher <jensmaucher@gmail.com>\n"
-"Language-Team: German <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/master/de/>\n"
+"PO-Revision-Date: 2020-09-26 23:29+0000\n"
+"Last-Translator: Tobias Weise <tobias.weise@web.de>\n"
+"Language-Team: German <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: src/client.js:480
 msgid "$0 key ID"
@@ -100,8 +100,9 @@ msgid "Delete"
 msgstr "Löschen"
 
 #: src/index.html:319 src/index.html:349
+#, fuzzy
 msgid "Downgrades"
-msgstr ""
+msgstr "Downgrades"
 
 #: src/remotes.js:327
 msgid "Error loading remotes: $0"
@@ -133,7 +134,7 @@ msgstr "Keine Bereitstellungen"
 
 #: src/app.js:101
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "Keine OSTree Bereitstellungen gefunden"
 
 #: src/remotes.js:112
 msgid "No configuration data found"
