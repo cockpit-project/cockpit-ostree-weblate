@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: 2020-09-25 06:29+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2020-10-20 09:15+0000\n"
+"Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/tr/>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.1-dev\n"
 
 #: src/client.js:480
 msgid "$0 key ID"
@@ -88,7 +88,7 @@ msgstr "Şu anda kullanılan:"
 
 #: src/index.html:253
 msgid "Default"
-msgstr "Öntanımlı"
+msgstr "Varsayılan"
 
 #: src/index.html:38
 msgid "Delete"
@@ -96,11 +96,11 @@ msgstr "Sil"
 
 #: src/index.html:319 src/index.html:349
 msgid "Downgrades"
-msgstr "Eski bir sürüme düşürmeler"
+msgstr "Sürüm düşürmeleri"
 
 #: src/remotes.js:327
 msgid "Error loading remotes: $0"
-msgstr "Uzak depolar yüklenirken hata oluştu: $0"
+msgstr "Uzak depolar yüklenirken hata oldu: $0"
 
 #: src/index.html:290
 msgid "Expired Signature"
@@ -120,27 +120,27 @@ msgstr "Geçersiz İmza"
 
 #: src/index.html:99
 msgid "Name"
-msgstr "İsim"
+msgstr "Ad"
 
 #: src/index.html:420
 msgid "No Deployments"
-msgstr "Dağıtım Yok"
+msgstr "Dağıtımlar Yok"
 
 #: src/app.js:101
 msgid "No OSTree deployments found"
-msgstr "OSTree dağıtımı bulunamadı"
+msgstr "Bulunan OSTree dağıtımları yok"
 
 #: src/remotes.js:112
 msgid "No configuration data found"
-msgstr "Hiçbir yapılandırma verisi bulunamadı"
+msgstr "Bulunan yapılandırma verileri yok"
 
 #: src/index.html:294
 msgid "No signature avaliable"
-msgstr "İmza yok"
+msgstr "Mevcut imza yok"
 
 #: src/app.js:80
 msgid "Not authorized to update software on this system"
-msgstr "Bu sistemdeki yazılımı güncelleme yetkiniz yok"
+msgstr "Bu sistemde yazılım güncellemeye yetkili değilsiniz"
 
 #: src/client.js:581 src/client.js:677
 msgid "OS $0 not found"
@@ -176,7 +176,7 @@ msgstr "Lütfen geçerli bir ad girin"
 
 #: src/index.html:241
 msgid "Rebase and Reboot"
-msgstr "Rebase Yap ve Yeniden Başlat"
+msgstr "Yeniden Konumla ve Yeniden Başlat"
 
 #: src/client.js:56
 msgid "Receiving delta parts"
@@ -196,7 +196,7 @@ msgstr "Yeniden bağlan"
 
 #: src/index.html:305
 msgid "Released"
-msgstr "Yayınlanma tarihi"
+msgstr "Yayımlanma"
 
 #: src/index.html:315 src/index.html:337
 msgid "Removals"
@@ -233,7 +233,7 @@ msgstr "Durum"
 #: src/index.html:327
 msgid ""
 "This deployment contains the same packages as your currently booted system"
-msgstr "Bu dağıtım, şu anda çalışan sisteminizle aynı paketleri içermektedir"
+msgstr "Bu dağıtım, şu anda önyüklenmiş sisteminizle aynı paketleri içeriyor"
 
 #: src/index.html:265
 msgid "Tree"
