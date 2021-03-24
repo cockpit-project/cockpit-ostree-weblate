@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: 2021-03-20 06:01+0000\n"
+"PO-Revision-Date: 2021-03-25 04:02+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/ko/>\n"
@@ -24,11 +24,11 @@ msgstr "$0 키 ID"
 
 #: src/app.js:455
 msgid "$0 package"
-msgstr "$0 꾸러미"
+msgstr "$0 꾸러미(package)"
 
 #: src/app.js:455
 msgid "$0 packages"
-msgstr "$0 꾸러미"
+msgstr "$0 꾸러미(package)"
 
 #: src/index.html:92
 msgid "- Add New Repository"
@@ -164,7 +164,7 @@ msgstr "근원(출발점)"
 
 #: src/index.html:266
 msgid "Packages"
-msgstr "꾸러미"
+msgstr "꾸러미(packages)"
 
 #: src/remotes.js:261
 msgid "Please provide a valid URL"
@@ -233,7 +233,7 @@ msgstr "상태"
 #: src/index.html:327
 msgid ""
 "This deployment contains the same packages as your currently booted system"
-msgstr "이 배포는 현재 동작하는 시스템에 동일한 꾸러미가 포함되었습니다"
+msgstr "이 배포는 현재 동작하는 시스템에 동일한 꾸러미(package)가 포함되었습니다"
 
 #: src/index.html:265
 msgid "Tree"
