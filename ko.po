@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: 2021-03-25 04:02+0000\n"
+"PO-Revision-Date: 2021-04-07 07:02+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/ko/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.5.3\n"
 
 #: src/client.js:480
 msgid "$0 key ID"
@@ -96,7 +96,7 @@ msgstr "삭제"
 
 #: src/index.html:319 src/index.html:349
 msgid "Downgrades"
-msgstr "다운그레이드"
+msgstr "하향설치"
 
 #: src/remotes.js:327
 msgid "Error loading remotes: $0"
@@ -265,7 +265,7 @@ msgstr "신뢰하는 GPG 키를 사용합니다"
 
 #: src/index.html:303
 msgid "Version"
-msgstr "버전"
+msgstr "상태번호"
 
 #: src/index.html:282
 msgid "When"
