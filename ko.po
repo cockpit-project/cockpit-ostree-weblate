@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-03 07:56+0000\n"
-"PO-Revision-Date: 2021-04-13 07:02+0000\n"
+"PO-Revision-Date: 2021-04-22 05:02+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/master/ko/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.3\n"
+"X-Generator: Weblate 4.6\n"
 
 #: src/client.js:480
 msgid "$0 key ID"
@@ -32,7 +32,7 @@ msgstr "$0 꾸러미(package)"
 
 #: src/index.html:92
 msgid "- Add New Repository"
-msgstr "-새로운 저장소 추가"
+msgstr "- 신규 저장소 추가"
 
 #: src/index.html:90
 msgid "Add"
