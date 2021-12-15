@@ -12,16 +12,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 02:57+0000\n"
-"PO-Revision-Date: 2018-05-24 06:33+0000\n"
+"PO-Revision-Date: 2021-12-17 17:16+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Zanata 4.4.5\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -36,10 +37,8 @@ msgid "Add Another Key"
 msgstr "Dodaj inny klucz"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "- Add New Repository"
 msgid "Add New Repository"
-msgstr "— Dodaj nowe repozytorium"
+msgstr "Dodaj nowe repozytorium"
 
 #: src/app.jsx:244
 msgid "Additions"
@@ -59,7 +58,7 @@ msgstr ""
 
 #: src/app.jsx:175
 msgid "Branch"
-msgstr ""
+msgstr "Gałąź"
 
 #: src/changeRemoteModal.jsx:57 src/changeRemoteModal.jsx:191
 #: src/changeRemoteModal.jsx:253
@@ -75,10 +74,8 @@ msgid "Check for Updates"
 msgstr "Wyszukaj aktualizacje"
 
 #: src/app.jsx:500
-#, fuzzy
-#| msgid "Checking for updates"
 msgid "Checking for package updates..."
-msgstr "Wyszukiwanie aktualizacji"
+msgstr "Wyszukiwanie aktualizacji pakietów…"
 
 #: src/app.jsx:156
 msgid "Checking for updates"
@@ -109,10 +106,8 @@ msgid "Failed"
 msgstr "Niepowodzenie"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "Public Key"
 msgid "GPG Public Key"
-msgstr "Klucz publiczny"
+msgstr "Klucz publiczny GPG"
 
 #: src/app.jsx:350
 msgid "Good Signature"
@@ -145,8 +140,6 @@ msgid "No configured remotes"
 msgstr "Nie odnaleziono konfiguracji"
 
 #: src/app.jsx:374
-#, fuzzy
-#| msgid "No signature avaliable"
 msgid "No signature available"
 msgstr "Brak dostępnych podpisów"
 
@@ -227,16 +220,12 @@ msgid "Scanning metadata"
 msgstr "Skanowanie metadanych"
 
 #: src/app.jsx:177
-#, fuzzy
-#| msgid "Select"
 msgid "Select branch"
-msgstr "Wybierz"
+msgstr "Wybierz gałąź"
 
 #: src/app.jsx:401
-#, fuzzy
-#| msgid "Signature"
 msgid "Signatures"
-msgstr "Podpis"
+msgstr "Podpisy"
 
 #: src/app.jsx:355
 msgid "Signed by"
@@ -272,10 +261,8 @@ msgid "Update and Reboot"
 msgstr "Zaktualizuj i uruchom ponownie"
 
 #: src/app.jsx:99
-#, fuzzy
-#| msgid "Updates Available"
 msgid "Update available: $0"
-msgstr "Dostępne są aktualizacje"
+msgstr "Dostępna jest aktualizacja: $0"
 
 #: src/app.jsx:246
 msgid "Updates"
