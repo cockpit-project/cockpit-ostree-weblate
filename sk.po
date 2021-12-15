@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-03 07:56+0000\n"
+"POT-Creation-Date: 2021-12-15 02:57+0000\n"
 "PO-Revision-Date: 2020-02-01 04:56+0000\n"
 "Last-Translator: Matej Marusak <mmarusak@redhat.com>\n"
 "Language-Team: Slovak <https://translate.fedoraproject.org/projects/cockpit-"
@@ -20,163 +20,162 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.10.3\n"
 
-#: src/client.js:480
+#: src/client.js:473
 msgid "$0 key ID"
 msgstr ""
 
-#: src/app.js:455
-msgid "$0 package"
-msgstr "$0 balík"
-
-#: src/app.js:455
-msgid "$0 packages"
-msgstr "$0 balíky"
-
-#: src/index.html:92
-msgid "- Add New Repository"
-msgstr "- Pridať nový repozitár"
-
-#: src/index.html:90
+#: src/changeRemoteModal.jsx:190
 msgid "Add"
 msgstr "Pridať"
 
-#: src/index.html:75
+#: src/changeRemoteModal.jsx:245
 msgid "Add Another Key"
 msgstr "Pridať ďalší kľúč"
 
-#: src/index.html:313 src/index.html:331
+#: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
+#, fuzzy
+#| msgid "- Add New Repository"
+msgid "Add New Repository"
+msgstr "- Pridať nový repozitár"
+
+#: src/app.jsx:244
 msgid "Additions"
 msgstr ""
 
-#: src/index.html:39
+#: src/changeRemoteModal.jsx:252
 msgid "Apply"
 msgstr "Použiť"
 
-#: src/index.html:255
+#: src/app.jsx:322
 msgid "Available"
 msgstr "Dostupný"
 
-#: src/index.html:68
-msgid "Begins with '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
-msgstr "Začína textom '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
+#: src/changeRemoteModal.jsx:247
+msgid "Begins with $0"
+msgstr ""
 
-#: src/index.html:164
+#: src/app.jsx:175
+msgid "Branch"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:57 src/changeRemoteModal.jsx:191
+#: src/changeRemoteModal.jsx:253
 msgid "Cancel"
 msgstr "Zrušiť"
 
-#: src/index.html:134
+#: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
 msgid "Change Repository"
 msgstr "Zmeniť repozitár"
 
-#: src/index.html:210
+#: src/app.jsx:196
 msgid "Check for Updates"
 msgstr "Skontrolovať aktualizácie"
 
-#: src/app.js:299
+#: src/app.jsx:500
+#, fuzzy
+#| msgid "Checking for updates"
+msgid "Checking for package updates..."
+msgstr "Kontrolovanie aktualizácií"
+
+#: src/app.jsx:156
 msgid "Checking for updates"
 msgstr "Kontrolovanie aktualizácií"
 
-#: src/index.html:418
+#: src/app.jsx:124
 msgid "Connecting to OSTree"
 msgstr "Pripájam sa k OSTree"
 
-#: src/remotes.js:181
-msgid "Couldn't load settings for '$0': $1"
-msgstr "Nepodarilo sa načítať nastavenia pre '$0': $1"
-
-#: src/index.html:184
-msgid "Currently using:"
-msgstr ""
-
-#: src/index.html:253
-msgid "Default"
-msgstr ""
-
-#: src/index.html:38
+#: src/changeRemoteModal.jsx:251
 msgid "Delete"
 msgstr "Zmazať"
 
-#: src/index.html:319 src/index.html:349
+#: src/app.jsx:247
 msgid "Downgrades"
 msgstr ""
 
-#: src/remotes.js:327
+#: src/app.jsx:535
 msgid "Error loading remotes: $0"
 msgstr ""
 
-#: src/index.html:290
+#: src/app.jsx:350
 msgid "Expired Signature"
 msgstr "Vypršaný podpis"
 
-#: src/index.html:258
+#: src/app.jsx:320
 msgid "Failed"
 msgstr ""
 
-#: src/index.html:289
+#: src/changeRemoteModal.jsx:248
+msgid "GPG Public Key"
+msgstr ""
+
+#: src/app.jsx:350
 msgid "Good Signature"
 msgstr "Dobrý podpis"
 
-#: src/index.html:291
+#: src/app.jsx:350
 msgid "Invalid Signature"
 msgstr "Nesprávny podpis"
 
-#: src/index.html:99
+#: src/changeRemoteModal.jsx:159
 msgid "Name"
 msgstr "Názov"
 
-#: src/index.html:420
+#: src/app.jsx:128
 msgid "No Deployments"
 msgstr "Žiadne nasadenia"
 
-#: src/app.js:101
+#: src/app.jsx:453
 msgid "No OSTree deployments found"
 msgstr "Neboli nájdené žiadne nasadenia OSTee"
 
-#: src/remotes.js:112
+#: src/remotes.js:98
 msgid "No configuration data found"
 msgstr "Neboli nájdené žiadne konfiguračné dáta"
 
-#: src/index.html:294
-msgid "No signature avaliable"
+#: src/app.jsx:166
+msgid "No configured remotes"
+msgstr ""
+
+#: src/app.jsx:374
+#, fuzzy
+#| msgid "No signature avaliable"
+msgid "No signature available"
 msgstr "Žiadne dostupné podpisy"
 
-#: src/app.js:80
+#: src/app.jsx:478
 msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/client.js:581 src/client.js:677
+#: src/client.js:572 src/client.js:659
 msgid "OS $0 not found"
 msgstr ""
 
-#: src/app.js:82
+#: src/app.jsx:480
 msgid "OSTree is not available on this system"
 msgstr "OSTree nie je dostupný na tomto systéme"
 
-#: src/index.html:301
+#: src/app.jsx:327
 msgid "Operating System"
 msgstr "Operačný systém"
 
-#: src/index.html:375
-msgid "Operating System Updates"
-msgstr "Aktualizácie operačného systému"
-
-#: src/index.html:307
+#: src/app.jsx:339
 msgid "Origin"
 msgstr "Pôvod"
 
-#: src/index.html:266
+#: src/app.jsx:400
 msgid "Packages"
 msgstr "Balíky"
 
-#: src/remotes.js:261
+#: src/changeRemoteModal.jsx:172
 msgid "Please provide a valid URL"
 msgstr ""
 
-#: src/remotes.js:254
+#: src/changeRemoteModal.jsx:161
 msgid "Please provide a valid name"
 msgstr ""
 
-#: src/index.html:241
+#: src/app.jsx:392
 msgid "Rebase and Reboot"
 msgstr ""
 
@@ -192,23 +191,29 @@ msgstr ""
 msgid "Receiving objects: $0%"
 msgstr ""
 
-#: src/index.html:423
+#: src/app.jsx:135
 msgid "Reconnect"
 msgstr "Znovu pripojiť"
 
-#: src/index.html:305
+#: src/app.jsx:335
 msgid "Released"
 msgstr "Vydaný"
 
-#: src/index.html:315 src/index.html:337
+#: src/app.jsx:245
 msgid "Removals"
 msgstr ""
 
-#: src/index.html:237
+#: src/app.jsx:172
+#, fuzzy
+#| msgid "Change Repository"
+msgid "Repository"
+msgstr "Zmeniť repozitár"
+
+#: src/app.jsx:389
 msgid "Roll Back and Reboot"
 msgstr ""
 
-#: src/index.html:251
+#: src/app.jsx:318
 msgid "Running"
 msgstr "Beží"
 
@@ -216,60 +221,74 @@ msgstr "Beží"
 msgid "Scanning metadata"
 msgstr "Skenovanie metadát"
 
-#: src/index.html:267
-msgid "Signature"
+#: src/app.jsx:177
+msgid "Select branch"
+msgstr ""
+
+#: src/app.jsx:401
+#, fuzzy
+#| msgid "Signature"
+msgid "Signatures"
 msgstr "Podpis"
 
-#: src/index.html:279
+#: src/app.jsx:355
 msgid "Signed by"
 msgstr ""
 
-#: src/index.html:23 src/manifest.json
+#: src/index.html:22 src/manifest.json:0
 msgid "Software Updates"
 msgstr ""
 
-#: src/index.html:288
-msgid "Status"
-msgstr "Stav"
+#: src/app.jsx:93
+msgid "System is up to date"
+msgstr ""
 
-#: src/index.html:327
+#: src/app.jsx:227
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
 
-#: src/index.html:265
+#: src/app.jsx:399
 msgid "Tree"
 msgstr "Strom"
 
-#: src/index.html:48 src/index.html:109
+#: src/changeRemoteModal.jsx:170 src/changeRemoteModal.jsx:229
 msgid "URL"
 msgstr "URL"
 
-#: src/index.html:419
+#: src/app.jsx:126
 msgid "Unable to communicate with OSTree"
 msgstr ""
 
-#: src/index.html:233
+#: src/app.jsx:386
 msgid "Update and Reboot"
 msgstr ""
 
-#: src/index.html:317 src/index.html:343
+#: src/app.jsx:99
+msgid "Update available: $0"
+msgstr ""
+
+#: src/app.jsx:246
 msgid "Updates"
 msgstr ""
 
-#: src/index.html:262
+#: src/app.jsx:316
 msgid "Updating"
 msgstr ""
 
-#: src/index.html:59 src/index.html:121
+#: src/changeRemoteModal.jsx:182 src/changeRemoteModal.jsx:237
 msgid "Use trusted GPG key"
 msgstr ""
 
-#: src/index.html:303
+#: src/app.jsx:367
+msgid "Validity"
+msgstr ""
+
+#: src/app.jsx:331
 msgid "Version"
 msgstr "Verzia"
 
-#: src/index.html:282
+#: src/app.jsx:359
 msgid "When"
 msgstr ""
 
@@ -277,6 +296,29 @@ msgstr ""
 msgid "Writing objects"
 msgstr "Zapisovanie objektov"
 
-#: src/index.html:186
-msgid "at"
-msgstr "na"
+#: src/app.jsx:609
+#, fuzzy
+#| msgid "No Deployments"
+msgid "available deployments"
+msgstr "Žiadne nasadenia"
+
+#~ msgid "$0 package"
+#~ msgstr "$0 balík"
+
+#~ msgid "$0 packages"
+#~ msgstr "$0 balíky"
+
+#~ msgid "Begins with '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
+#~ msgstr "Začína textom '-----BEGIN PGP PUBLIC KEY BLOCK-----'"
+
+#~ msgid "Couldn't load settings for '$0': $1"
+#~ msgstr "Nepodarilo sa načítať nastavenia pre '$0': $1"
+
+#~ msgid "Operating System Updates"
+#~ msgstr "Aktualizácie operačného systému"
+
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgid "at"
+#~ msgstr "na"
