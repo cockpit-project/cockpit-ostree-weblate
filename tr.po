@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-15 02:57+0000\n"
-"PO-Revision-Date: 2020-10-20 09:15+0000\n"
+"PO-Revision-Date: 2021-12-17 17:16+0000\n"
 "Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
-"Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/master/tr/>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.3.1-dev\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -31,10 +31,8 @@ msgid "Add Another Key"
 msgstr "Başka Anahtar Ekle"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "- Add New Repository"
 msgid "Add New Repository"
-msgstr "- Yeni Depo Ekle"
+msgstr "Yeni Depo Ekle"
 
 #: src/app.jsx:244
 msgid "Additions"
@@ -50,11 +48,11 @@ msgstr "Kullanılabilir"
 
 #: src/changeRemoteModal.jsx:247
 msgid "Begins with $0"
-msgstr ""
+msgstr "$0 ile başlar"
 
 #: src/app.jsx:175
 msgid "Branch"
-msgstr ""
+msgstr "Dal"
 
 #: src/changeRemoteModal.jsx:57 src/changeRemoteModal.jsx:191
 #: src/changeRemoteModal.jsx:253
@@ -70,10 +68,8 @@ msgid "Check for Updates"
 msgstr "Güncellemeleri denetle"
 
 #: src/app.jsx:500
-#, fuzzy
-#| msgid "Checking for updates"
 msgid "Checking for package updates..."
-msgstr "Güncellemeler denetleniyor"
+msgstr "Paket güncellemeleri denetleniyor..."
 
 #: src/app.jsx:156
 msgid "Checking for updates"
@@ -104,10 +100,8 @@ msgid "Failed"
 msgstr "Başarısız"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "Add public key"
 msgid "GPG Public Key"
-msgstr "Açık anahtar ekle"
+msgstr "GPG Ortak Anahtar"
 
 #: src/app.jsx:350
 msgid "Good Signature"
@@ -134,13 +128,10 @@ msgid "No configuration data found"
 msgstr "Bulunan yapılandırma verileri yok"
 
 #: src/app.jsx:166
-#, fuzzy
 msgid "No configured remotes"
-msgstr "Bilinmeyen konfigrasyon"
+msgstr "Yapılandırılmış uzaklar yok"
 
 #: src/app.jsx:374
-#, fuzzy
-#| msgid "No signature avaliable"
 msgid "No signature available"
 msgstr "Mevcut imza yok"
 
@@ -222,13 +213,11 @@ msgstr "Üst veriler taranıyor"
 
 #: src/app.jsx:177
 msgid "Select branch"
-msgstr ""
+msgstr "Dal seç"
 
 #: src/app.jsx:401
-#, fuzzy
-#| msgid "Signature"
 msgid "Signatures"
-msgstr "İmza"
+msgstr "İmzalar"
 
 #: src/app.jsx:355
 msgid "Signed by"
@@ -240,7 +229,7 @@ msgstr "Yazılım Güncellemeleri"
 
 #: src/app.jsx:93
 msgid "System is up to date"
-msgstr ""
+msgstr "Sistem güncel"
 
 #: src/app.jsx:227
 msgid ""
@@ -265,7 +254,7 @@ msgstr "Güncelle ve Yeniden Başlat"
 
 #: src/app.jsx:99
 msgid "Update available: $0"
-msgstr ""
+msgstr "Güncelleme mevcut: $0"
 
 #: src/app.jsx:246
 msgid "Updates"
@@ -280,10 +269,8 @@ msgid "Use trusted GPG key"
 msgstr "Güvenilir GPG anahtarı kullan"
 
 #: src/app.jsx:367
-#, fuzzy
-#| msgid "Validating key"
 msgid "Validity"
-msgstr "Anahtar doğrulanıyor"
+msgstr "Doğrulama"
 
 #: src/app.jsx:331
 msgid "Version"
@@ -298,10 +285,8 @@ msgid "Writing objects"
 msgstr "Nesneler yazılıyor"
 
 #: src/app.jsx:609
-#, fuzzy
-#| msgid "No Deployments"
 msgid "available deployments"
-msgstr "Dağıtımlar Yok"
+msgstr "mevcut dağıtımlar"
 
 #~ msgid "$0 package"
 #~ msgstr "$0 paket"
