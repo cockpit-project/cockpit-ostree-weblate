@@ -12,17 +12,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 02:59+0000\n"
-"PO-Revision-Date: 2021-12-17 17:16+0000\n"
+"PO-Revision-Date: 2021-12-18 10:51+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/pl/>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 4.10\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -54,7 +54,7 @@ msgstr "Dostępne"
 
 #: src/changeRemoteModal.jsx:247
 msgid "Begins with $0"
-msgstr ""
+msgstr "Zaczyna się od $0"
 
 #: src/app.jsx:175
 msgid "Branch"
@@ -134,10 +134,8 @@ msgid "No configuration data found"
 msgstr "Nie odnaleziono danych konfiguracji"
 
 #: src/app.jsx:166
-#, fuzzy
-#| msgid "No configuration found"
 msgid "No configured remotes"
-msgstr "Nie odnaleziono konfiguracji"
+msgstr "Brak skonfigurowanych zdalnych repozytoriów"
 
 #: src/app.jsx:374
 msgid "No signature available"
@@ -277,10 +275,8 @@ msgid "Use trusted GPG key"
 msgstr "Użycie zaufanego klucza GPG"
 
 #: src/app.jsx:367
-#, fuzzy
-#| msgid "Validating key"
 msgid "Validity"
-msgstr "Sprawdzanie poprawności klucza"
+msgstr "Ważność"
 
 #: src/app.jsx:331
 msgid "Version"
@@ -295,10 +291,8 @@ msgid "Writing objects"
 msgstr "Zapisywanie obiektów"
 
 #: src/app.jsx:609
-#, fuzzy
-#| msgid "Available Updates"
 msgid "available deployments"
-msgstr "Dostępne aktualizacje"
+msgstr "dostępne wdrożenia"
 
 #~ msgid "$0 package"
 #~ msgstr "$0 pakiet"
