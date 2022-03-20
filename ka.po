@@ -9,281 +9,286 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-19 02:58+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-03-21 03:17+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Cockpit manifest2po\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
-msgstr ""
+msgstr "$0 გასაღების ID"
 
 #: src/changeRemoteModal.jsx:190
 msgid "Add"
-msgstr ""
+msgstr "დამატება"
 
 #: src/changeRemoteModal.jsx:245
 msgid "Add Another Key"
-msgstr ""
+msgstr "კიდევ ერთი გასაღების დამატება"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
 msgid "Add New Repository"
-msgstr ""
+msgstr "ახალი რეპოზიტორიის დამატება"
 
 #: src/app.jsx:244
 msgid "Additions"
-msgstr ""
+msgstr "დამატებები"
 
 #: src/changeRemoteModal.jsx:252
 msgid "Apply"
-msgstr ""
+msgstr "გადატარება"
 
 #: src/app.jsx:322
 msgid "Available"
-msgstr ""
+msgstr "ხელმისაწვდომი"
 
 #: src/changeRemoteModal.jsx:247
 msgid "Begins with $0"
-msgstr ""
+msgstr "იწყება $0-ით"
 
 #: src/app.jsx:175
 msgid "Branch"
-msgstr ""
+msgstr "ბრენჩი"
 
 #: src/changeRemoteModal.jsx:57 src/changeRemoteModal.jsx:191
 #: src/changeRemoteModal.jsx:253
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
 msgid "Change Repository"
-msgstr ""
+msgstr "რეპოზიტორიის შეცვლა"
 
 #: src/app.jsx:196
 msgid "Check for Updates"
-msgstr ""
+msgstr "განახლებების შემოწმება"
 
 #: src/app.jsx:500
 msgid "Checking for package updates..."
-msgstr ""
+msgstr "პაკეტების განახლებების შემოწმება..."
 
 #: src/app.jsx:156
 msgid "Checking for updates"
-msgstr ""
+msgstr "განახლებების შემოწმება"
 
 #: src/app.jsx:124
 msgid "Connecting to OSTree"
-msgstr ""
+msgstr "OSTree-თან დაკავშირება"
 
 #: src/changeRemoteModal.jsx:251
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 #: src/app.jsx:247
 msgid "Downgrades"
-msgstr ""
+msgstr "ვერსიის ჩამოწევა"
 
 #: src/app.jsx:535
 msgid "Error loading remotes: $0"
-msgstr ""
+msgstr "დაშორებულების ჩატვირთვის შეცდომა: $0"
 
 #: src/app.jsx:350
 msgid "Expired Signature"
-msgstr ""
+msgstr "ვადაგასული ხელმოწერა"
 
 #: src/app.jsx:320
 msgid "Failed"
-msgstr ""
+msgstr "შეცდომა"
 
 #: src/changeRemoteModal.jsx:248
 msgid "GPG Public Key"
-msgstr ""
+msgstr "GPG-ის საჯარო გასაღები"
 
 #: src/app.jsx:350
 msgid "Good Signature"
-msgstr ""
+msgstr "კარგი ხელმოწერა"
 
 #: src/app.jsx:350
 msgid "Invalid Signature"
-msgstr ""
+msgstr "არასწორი ხელმოწერა"
 
 #: src/changeRemoteModal.jsx:159
 msgid "Name"
-msgstr ""
+msgstr "სახელი"
 
 #: src/app.jsx:128
 msgid "No Deployments"
-msgstr ""
+msgstr "გაშლილი არაა"
 
 #: src/app.jsx:453
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "OSTree-ს გაშლები ნაპოვნი არაა"
 
 #: src/remotes.js:98
 msgid "No configuration data found"
-msgstr ""
+msgstr "კონფიგურაციის მონაცემები ნაპოვნი არაა"
 
 #: src/app.jsx:166
 msgid "No configured remotes"
-msgstr ""
+msgstr "დაშორებულები მორგებული არაა"
 
 #: src/app.jsx:374
 msgid "No signature available"
-msgstr ""
+msgstr "ხელმოწერები ხელმიუწვდომელია"
 
 #: src/app.jsx:478
 msgid "Not authorized to update software on this system"
 msgstr ""
+"ამ სისტემის პროგრამული უზრუნველყოფის განახლებისთვის ავტორიზაცია არ გაგაჩნიათ"
 
 #: src/client.js:572 src/client.js:659
 msgid "OS $0 not found"
-msgstr ""
+msgstr "OS $0 ნაპოვნი არაა"
 
 #: src/app.jsx:480
 msgid "OSTree is not available on this system"
-msgstr ""
+msgstr "მიმდინარე სისტემაზე OSTree-ი ხელმიუწვდომელია"
 
 #: src/app.jsx:327
 msgid "Operating System"
-msgstr ""
+msgstr "ოპერაციული სისტემა"
 
 #: src/app.jsx:339
 msgid "Origin"
-msgstr ""
+msgstr "საწყისი"
 
 #: src/app.jsx:400
 msgid "Packages"
-msgstr ""
+msgstr "პაკეტები"
 
 #: src/changeRemoteModal.jsx:172
 msgid "Please provide a valid URL"
-msgstr ""
+msgstr "შეიყვანეთ სწორი URL-ი"
 
 #: src/changeRemoteModal.jsx:161
 msgid "Please provide a valid name"
-msgstr ""
+msgstr "შეიყვანეთ სწორი სახელი"
 
 #: src/app.jsx:392
 msgid "Rebase and Reboot"
-msgstr ""
+msgstr "ბაზისის შეცვლა და გადატვირთვა"
 
 #: src/client.js:56
 msgid "Receiving delta parts"
-msgstr ""
+msgstr "დელტა ნაწილების მიღება"
 
 #: src/client.js:58
 msgid "Receiving metadata objects"
-msgstr ""
+msgstr "მეტამონაცემების ობიექტების მიღება"
 
 #: src/client.js:61
 msgid "Receiving objects: $0%"
-msgstr ""
+msgstr "ობიექტების მიღება: $0%"
 
 #: src/app.jsx:135
 msgid "Reconnect"
-msgstr ""
+msgstr "თავიდან დაკავშირება"
 
 #: src/app.jsx:335
 msgid "Released"
-msgstr ""
+msgstr "გამოშვებულია"
 
 #: src/app.jsx:245
 msgid "Removals"
-msgstr ""
+msgstr "წაშლები"
 
 #: src/app.jsx:172
 msgid "Repository"
-msgstr ""
+msgstr "რეპოზიტორია"
 
 #: src/app.jsx:389
 msgid "Roll Back and Reboot"
-msgstr ""
+msgstr "უკან დაბრუნება და გადატვირთვა"
 
 #: src/app.jsx:318
 msgid "Running"
-msgstr ""
+msgstr "გაშვებული"
 
 #: src/client.js:66
 msgid "Scanning metadata"
-msgstr ""
+msgstr "მეტამონაცემების ძებნა"
 
 #: src/app.jsx:177
 msgid "Select branch"
-msgstr ""
+msgstr "აირჩიეთ ბრენჩი"
 
 #: src/app.jsx:401
 msgid "Signatures"
-msgstr ""
+msgstr "ხელმოწერები"
 
 #: src/app.jsx:355
 msgid "Signed by"
-msgstr ""
+msgstr "ხელმოწერილია"
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software Updates"
-msgstr ""
+msgstr "პროგრამების განახლებები"
 
 #: src/app.jsx:93
 msgid "System is up to date"
-msgstr ""
+msgstr "სისტემა განახლებულია"
 
 #: src/app.jsx:227
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
+"ეს გაშლა შეიცავს ზოგიერთი პაკეტის იგივე ვერსიას, რომელსაც თქვენი ამჟამად "
+"ჩატვირთული სისტემა"
 
 #: src/app.jsx:399
 msgid "Tree"
-msgstr ""
+msgstr "ხე"
 
 #: src/changeRemoteModal.jsx:170 src/changeRemoteModal.jsx:229
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/app.jsx:126
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "OSTree-თან დაკავშირება შეუძლებელია"
 
 #: src/app.jsx:386
 msgid "Update and Reboot"
-msgstr ""
+msgstr "განახლება და გადატვირთვა"
 
 #: src/app.jsx:99
 msgid "Update available: $0"
-msgstr ""
+msgstr "განახლება ხელმისაწვდომია: $0"
 
 #: src/app.jsx:246
 msgid "Updates"
-msgstr ""
+msgstr "განახლებები"
 
 #: src/app.jsx:316
 msgid "Updating"
-msgstr ""
+msgstr "განახლება"
 
 #: src/changeRemoteModal.jsx:182 src/changeRemoteModal.jsx:237
 msgid "Use trusted GPG key"
-msgstr ""
+msgstr "გამოიყენეთ სანდო GPG გასაღები"
 
 #: src/app.jsx:367
 msgid "Validity"
-msgstr ""
+msgstr "სისწორე"
 
 #: src/app.jsx:331
 msgid "Version"
-msgstr ""
+msgstr "ვერსია"
 
 #: src/app.jsx:359
 msgid "When"
-msgstr ""
+msgstr "როდის"
 
 #: src/client.js:64
 msgid "Writing objects"
-msgstr ""
+msgstr "ობიექტების ჩაწერა"
 
 #: src/app.jsx:609
 msgid "available deployments"
-msgstr ""
+msgstr "ხელმისაწვდომი გაშლები"
