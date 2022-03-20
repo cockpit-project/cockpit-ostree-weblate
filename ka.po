@@ -1,0 +1,289 @@
+# #-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE_VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-15 03:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Cockpit manifest2po\n"
+
+#: src/client.js:473
+msgid "$0 key ID"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:190
+msgid "Add"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:245
+msgid "Add Another Key"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
+msgid "Add New Repository"
+msgstr ""
+
+#: src/app.jsx:244
+msgid "Additions"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:252
+msgid "Apply"
+msgstr ""
+
+#: src/app.jsx:322
+msgid "Available"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:247
+msgid "Begins with $0"
+msgstr ""
+
+#: src/app.jsx:175
+msgid "Branch"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:57 src/changeRemoteModal.jsx:191
+#: src/changeRemoteModal.jsx:253
+msgid "Cancel"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
+msgid "Change Repository"
+msgstr ""
+
+#: src/app.jsx:196
+msgid "Check for Updates"
+msgstr ""
+
+#: src/app.jsx:500
+msgid "Checking for package updates..."
+msgstr ""
+
+#: src/app.jsx:156
+msgid "Checking for updates"
+msgstr ""
+
+#: src/app.jsx:124
+msgid "Connecting to OSTree"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:251
+msgid "Delete"
+msgstr ""
+
+#: src/app.jsx:247
+msgid "Downgrades"
+msgstr ""
+
+#: src/app.jsx:535
+msgid "Error loading remotes: $0"
+msgstr ""
+
+#: src/app.jsx:350
+msgid "Expired Signature"
+msgstr ""
+
+#: src/app.jsx:320
+msgid "Failed"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:248
+msgid "GPG Public Key"
+msgstr ""
+
+#: src/app.jsx:350
+msgid "Good Signature"
+msgstr ""
+
+#: src/app.jsx:350
+msgid "Invalid Signature"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:159
+msgid "Name"
+msgstr ""
+
+#: src/app.jsx:128
+msgid "No Deployments"
+msgstr ""
+
+#: src/app.jsx:453
+msgid "No OSTree deployments found"
+msgstr ""
+
+#: src/remotes.js:98
+msgid "No configuration data found"
+msgstr ""
+
+#: src/app.jsx:166
+msgid "No configured remotes"
+msgstr ""
+
+#: src/app.jsx:374
+msgid "No signature available"
+msgstr ""
+
+#: src/app.jsx:478
+msgid "Not authorized to update software on this system"
+msgstr ""
+
+#: src/client.js:572 src/client.js:659
+msgid "OS $0 not found"
+msgstr ""
+
+#: src/app.jsx:480
+msgid "OSTree is not available on this system"
+msgstr ""
+
+#: src/app.jsx:327
+msgid "Operating System"
+msgstr ""
+
+#: src/app.jsx:339
+msgid "Origin"
+msgstr ""
+
+#: src/app.jsx:400
+msgid "Packages"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:172
+msgid "Please provide a valid URL"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:161
+msgid "Please provide a valid name"
+msgstr ""
+
+#: src/app.jsx:392
+msgid "Rebase and Reboot"
+msgstr ""
+
+#: src/client.js:56
+msgid "Receiving delta parts"
+msgstr ""
+
+#: src/client.js:58
+msgid "Receiving metadata objects"
+msgstr ""
+
+#: src/client.js:61
+msgid "Receiving objects: $0%"
+msgstr ""
+
+#: src/app.jsx:135
+msgid "Reconnect"
+msgstr ""
+
+#: src/app.jsx:335
+msgid "Released"
+msgstr ""
+
+#: src/app.jsx:245
+msgid "Removals"
+msgstr ""
+
+#: src/app.jsx:172
+msgid "Repository"
+msgstr ""
+
+#: src/app.jsx:389
+msgid "Roll Back and Reboot"
+msgstr ""
+
+#: src/app.jsx:318
+msgid "Running"
+msgstr ""
+
+#: src/client.js:66
+msgid "Scanning metadata"
+msgstr ""
+
+#: src/app.jsx:177
+msgid "Select branch"
+msgstr ""
+
+#: src/app.jsx:401
+msgid "Signatures"
+msgstr ""
+
+#: src/app.jsx:355
+msgid "Signed by"
+msgstr ""
+
+#: src/index.html:22 src/manifest.json:0
+msgid "Software Updates"
+msgstr ""
+
+#: src/app.jsx:93
+msgid "System is up to date"
+msgstr ""
+
+#: src/app.jsx:227
+msgid ""
+"This deployment contains the same packages as your currently booted system"
+msgstr ""
+
+#: src/app.jsx:399
+msgid "Tree"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:170 src/changeRemoteModal.jsx:229
+msgid "URL"
+msgstr ""
+
+#: src/app.jsx:126
+msgid "Unable to communicate with OSTree"
+msgstr ""
+
+#: src/app.jsx:386
+msgid "Update and Reboot"
+msgstr ""
+
+#: src/app.jsx:99
+msgid "Update available: $0"
+msgstr ""
+
+#: src/app.jsx:246
+msgid "Updates"
+msgstr ""
+
+#: src/app.jsx:316
+msgid "Updating"
+msgstr ""
+
+#: src/changeRemoteModal.jsx:182 src/changeRemoteModal.jsx:237
+msgid "Use trusted GPG key"
+msgstr ""
+
+#: src/app.jsx:367
+msgid "Validity"
+msgstr ""
+
+#: src/app.jsx:331
+msgid "Version"
+msgstr ""
+
+#: src/app.jsx:359
+msgid "When"
+msgstr ""
+
+#: src/client.js:64
+msgid "Writing objects"
+msgstr ""
+
+#: src/app.jsx:609
+msgid "available deployments"
+msgstr ""
