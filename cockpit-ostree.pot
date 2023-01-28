@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-27 03:00+0000\n"
+"POT-Creation-Date: 2023-01-28 02:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,11 +40,11 @@ msgid "Add"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:245
-msgid "Add Another Key"
+msgid "Add another key"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-msgid "Add New Repository"
+msgid "Add new repository"
 msgstr ""
 
 #: src/app.jsx:245
@@ -73,11 +73,11 @@ msgid "Cancel"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
-msgid "Change Repository"
+msgid "Change repository"
 msgstr ""
 
 #: src/app.jsx:197
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr ""
 
 #: src/app.jsx:501
@@ -105,7 +105,7 @@ msgid "Error loading remotes: $0"
 msgstr ""
 
 #: src/app.jsx:351
-msgid "Expired Signature"
+msgid "Expired signature"
 msgstr ""
 
 #: src/app.jsx:321
@@ -113,23 +113,19 @@ msgid "Failed"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:248
-msgid "GPG Public Key"
+msgid "GPG public key"
 msgstr ""
 
 #: src/app.jsx:351
-msgid "Good Signature"
+msgid "Good signature"
 msgstr ""
 
 #: src/app.jsx:351
-msgid "Invalid Signature"
+msgid "Invalid signature"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:159
 msgid "Name"
-msgstr ""
-
-#: src/app.jsx:129
-msgid "No Deployments"
 msgstr ""
 
 #: src/app.jsx:454
@@ -142,6 +138,10 @@ msgstr ""
 
 #: src/app.jsx:167
 msgid "No configured remotes"
+msgstr ""
+
+#: src/app.jsx:129
+msgid "No deployments"
 msgstr ""
 
 #: src/app.jsx:375
@@ -161,7 +161,7 @@ msgid "OSTree is not available on this system"
 msgstr ""
 
 #: src/app.jsx:328
-msgid "Operating System"
+msgid "Operating system"
 msgstr ""
 
 #: src/app.jsx:340
@@ -181,7 +181,7 @@ msgid "Please provide a valid name"
 msgstr ""
 
 #: src/app.jsx:393
-msgid "Rebase and Reboot"
+msgid "Rebase and reboot"
 msgstr ""
 
 #: src/client.js:56
@@ -213,7 +213,7 @@ msgid "Repository"
 msgstr ""
 
 #: src/app.jsx:390
-msgid "Roll Back and Reboot"
+msgid "Roll back and reboot"
 msgstr ""
 
 #: src/app.jsx:319
@@ -237,7 +237,7 @@ msgid "Signed by"
 msgstr ""
 
 #: src/index.html:22 src/manifest.json:0
-msgid "Software Updates"
+msgid "Software updates"
 msgstr ""
 
 #: src/app.jsx:94
@@ -262,7 +262,7 @@ msgid "Unable to communicate with OSTree"
 msgstr ""
 
 #: src/app.jsx:387
-msgid "Update and Reboot"
+msgid "Update and reboot"
 msgstr ""
 
 #: src/app.jsx:100
