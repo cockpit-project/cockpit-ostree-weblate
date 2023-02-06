@@ -12,17 +12,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-06 02:57+0000\n"
-"PO-Revision-Date: 2021-12-18 10:51+0000\n"
+"PO-Revision-Date: 2023-02-06 16:46+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/pl/>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -33,14 +33,10 @@ msgid "Add"
 msgstr "Dodaj"
 
 #: src/changeRemoteModal.jsx:245
-#, fuzzy
-#| msgid "Add Another Key"
 msgid "Add another key"
 msgstr "Dodaj inny klucz"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "Add New Repository"
 msgid "Add new repository"
 msgstr "Dodaj nowe repozytorium"
 
@@ -70,14 +66,10 @@ msgid "Cancel"
 msgstr "Anuluj"
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
-#, fuzzy
-#| msgid "Change Repository"
 msgid "Change repository"
 msgstr "Zmień repozytorium"
 
 #: src/app.jsx:197
-#, fuzzy
-#| msgid "Check for Updates"
 msgid "Check for updates"
 msgstr "Wyszukaj aktualizacje"
 
@@ -106,8 +98,6 @@ msgid "Error loading remotes: $0"
 msgstr "Błąd podczas wczytywania repozytoriów: $0"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Expired Signature"
 msgid "Expired signature"
 msgstr "Podpis wygasł"
 
@@ -116,20 +106,14 @@ msgid "Failed"
 msgstr "Niepowodzenie"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "GPG Public Key"
 msgid "GPG public key"
 msgstr "Klucz publiczny GPG"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Good Signature"
 msgid "Good signature"
 msgstr "Dobry podpis"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Invalid Signature"
 msgid "Invalid signature"
 msgstr "Nieprawidłowy podpis"
 
@@ -150,8 +134,6 @@ msgid "No configured remotes"
 msgstr "Brak skonfigurowanych zdalnych repozytoriów"
 
 #: src/app.jsx:129
-#, fuzzy
-#| msgid "No Deployments"
 msgid "No deployments"
 msgstr "Brak wdrożeń"
 
@@ -172,8 +154,6 @@ msgid "OSTree is not available on this system"
 msgstr "OSTree jest niedostępne w tym systemie"
 
 #: src/app.jsx:328
-#, fuzzy
-#| msgid "Operating System"
 msgid "Operating system"
 msgstr "System operacyjny"
 
@@ -194,8 +174,6 @@ msgid "Please provide a valid name"
 msgstr "Proszę podać prawidłową nazwę"
 
 #: src/app.jsx:393
-#, fuzzy
-#| msgid "Rebase and Reboot"
 msgid "Rebase and reboot"
 msgstr "Zaktualizuj i uruchom ponownie"
 
@@ -228,8 +206,6 @@ msgid "Repository"
 msgstr "Repozytorium"
 
 #: src/app.jsx:390
-#, fuzzy
-#| msgid "Roll Back and Reboot"
 msgid "Roll back and reboot"
 msgstr "Przywróć i uruchom ponownie"
 
@@ -254,8 +230,6 @@ msgid "Signed by"
 msgstr "Podpisane przez"
 
 #: src/index.html:22 src/manifest.json:0
-#, fuzzy
-#| msgid "Software Updates"
 msgid "Software updates"
 msgstr "Aktualizacje oprogramowania"
 
@@ -281,8 +255,6 @@ msgid "Unable to communicate with OSTree"
 msgstr "Nie można komunikować się OSTree"
 
 #: src/app.jsx:387
-#, fuzzy
-#| msgid "Update and Reboot"
 msgid "Update and reboot"
 msgstr "Zaktualizuj i uruchom ponownie"
 
