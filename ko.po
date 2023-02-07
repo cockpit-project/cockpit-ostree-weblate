@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-06 02:57+0000\n"
-"PO-Revision-Date: 2022-12-15 07:20+0000\n"
+"PO-Revision-Date: 2023-02-08 13:20+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
-"Language-Team: Korean <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/ko/>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -27,14 +27,10 @@ msgid "Add"
 msgstr "추가"
 
 #: src/changeRemoteModal.jsx:245
-#, fuzzy
-#| msgid "Add Another Key"
 msgid "Add another key"
 msgstr "다른 키를 추가합니다"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "Add New Repository"
 msgid "Add new repository"
 msgstr "신규 저장소 추가"
 
@@ -64,14 +60,10 @@ msgid "Cancel"
 msgstr "취소"
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
-#, fuzzy
-#| msgid "Change Repository"
 msgid "Change repository"
 msgstr "저장소 변경"
 
 #: src/app.jsx:197
-#, fuzzy
-#| msgid "Check for Updates"
 msgid "Check for updates"
 msgstr "최신화를 위한 점검"
 
@@ -100,8 +92,6 @@ msgid "Error loading remotes: $0"
 msgstr "원격적재 오류: $0"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Expired Signature"
 msgid "Expired signature"
 msgstr "만료된 서명"
 
@@ -110,20 +100,14 @@ msgid "Failed"
 msgstr "실패함"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "GPG Public Key"
 msgid "GPG public key"
 msgstr "GPG 공개키"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Good Signature"
 msgid "Good signature"
 msgstr "양호한 서명"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Invalid Signature"
 msgid "Invalid signature"
 msgstr "유효하지 않은 서명"
 
@@ -144,8 +128,6 @@ msgid "No configured remotes"
 msgstr "구성된 원격이 없습니다"
 
 #: src/app.jsx:129
-#, fuzzy
-#| msgid "No Deployments"
 msgid "No deployments"
 msgstr "배포 없음"
 
@@ -166,8 +148,6 @@ msgid "OSTree is not available on this system"
 msgstr "OSTree는 이 시스템에서 사용 할 수 없습니다"
 
 #: src/app.jsx:328
-#, fuzzy
-#| msgid "Operating System"
 msgid "Operating system"
 msgstr "운영 체제"
 
@@ -188,8 +168,6 @@ msgid "Please provide a valid name"
 msgstr "유효한 이름을 제공해야 합니다"
 
 #: src/app.jsx:393
-#, fuzzy
-#| msgid "Rebase and Reboot"
 msgid "Rebase and reboot"
 msgstr "재배치와 재시작"
 
@@ -222,8 +200,6 @@ msgid "Repository"
 msgstr "저장소"
 
 #: src/app.jsx:390
-#, fuzzy
-#| msgid "Roll Back and Reboot"
 msgid "Roll back and reboot"
 msgstr "되돌리기와 재시작"
 
@@ -248,8 +224,6 @@ msgid "Signed by"
 msgstr "서명되었습니다"
 
 #: src/index.html:22 src/manifest.json:0
-#, fuzzy
-#| msgid "Software Updates"
 msgid "Software updates"
 msgstr "소프트웨어 최신화"
 
@@ -276,8 +250,6 @@ msgid "Unable to communicate with OSTree"
 msgstr "OSTree와 통신 할 수 없습니다"
 
 #: src/app.jsx:387
-#, fuzzy
-#| msgid "Update and Reboot"
 msgid "Update and reboot"
 msgstr "최신화 및 재시작"
 
