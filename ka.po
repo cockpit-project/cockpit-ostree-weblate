@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-06 02:57+0000\n"
-"PO-Revision-Date: 2022-03-21 03:17+0000\n"
+"PO-Revision-Date: 2023-02-08 13:20+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/main/ka/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -29,14 +29,10 @@ msgid "Add"
 msgstr "დამატება"
 
 #: src/changeRemoteModal.jsx:245
-#, fuzzy
-#| msgid "Add Another Key"
 msgid "Add another key"
 msgstr "კიდევ ერთი გასაღების დამატება"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "Add New Repository"
 msgid "Add new repository"
 msgstr "ახალი რეპოზიტორიის დამატება"
 
@@ -66,14 +62,10 @@ msgid "Cancel"
 msgstr "გაუქმება"
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
-#, fuzzy
-#| msgid "Change Repository"
 msgid "Change repository"
 msgstr "რეპოზიტორიის შეცვლა"
 
 #: src/app.jsx:197
-#, fuzzy
-#| msgid "Check for Updates"
 msgid "Check for updates"
 msgstr "განახლებების შემოწმება"
 
@@ -102,8 +94,6 @@ msgid "Error loading remotes: $0"
 msgstr "დაშორებულების ჩატვირთვის შეცდომა: $0"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Expired Signature"
 msgid "Expired signature"
 msgstr "ვადაგასული ხელმოწერა"
 
@@ -112,20 +102,14 @@ msgid "Failed"
 msgstr "შეცდომა"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "GPG Public Key"
 msgid "GPG public key"
 msgstr "GPG-ის საჯარო გასაღები"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Good Signature"
 msgid "Good signature"
 msgstr "კარგი ხელმოწერა"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Invalid Signature"
 msgid "Invalid signature"
 msgstr "არასწორი ხელმოწერა"
 
@@ -146,8 +130,6 @@ msgid "No configured remotes"
 msgstr "დაშორებულები მორგებული არაა"
 
 #: src/app.jsx:129
-#, fuzzy
-#| msgid "No Deployments"
 msgid "No deployments"
 msgstr "გაშლილი არაა"
 
@@ -169,8 +151,6 @@ msgid "OSTree is not available on this system"
 msgstr "მიმდინარე სისტემაზე OSTree-ი ხელმიუწვდომელია"
 
 #: src/app.jsx:328
-#, fuzzy
-#| msgid "Operating System"
 msgid "Operating system"
 msgstr "ოპერაციული სისტემა"
 
@@ -191,8 +171,6 @@ msgid "Please provide a valid name"
 msgstr "შეიყვანეთ სწორი სახელი"
 
 #: src/app.jsx:393
-#, fuzzy
-#| msgid "Rebase and Reboot"
 msgid "Rebase and reboot"
 msgstr "ბაზისის შეცვლა და გადატვირთვა"
 
@@ -225,10 +203,8 @@ msgid "Repository"
 msgstr "რეპოზიტორია"
 
 #: src/app.jsx:390
-#, fuzzy
-#| msgid "Roll Back and Reboot"
 msgid "Roll back and reboot"
-msgstr "უკან დაბრუნება და გადატვირთვა"
+msgstr "დაბრუნება და გადატვირთვა"
 
 #: src/app.jsx:319
 msgid "Running"
@@ -251,10 +227,8 @@ msgid "Signed by"
 msgstr "ხელმოწერილია"
 
 #: src/index.html:22 src/manifest.json:0
-#, fuzzy
-#| msgid "Software Updates"
 msgid "Software updates"
-msgstr "პროგრამების განახლებები"
+msgstr "პროგრამული განახლებები"
 
 #: src/app.jsx:94
 msgid "System is up to date"
@@ -280,8 +254,6 @@ msgid "Unable to communicate with OSTree"
 msgstr "OSTree-თან დაკავშირება შეუძლებელია"
 
 #: src/app.jsx:387
-#, fuzzy
-#| msgid "Update and Reboot"
 msgid "Update and reboot"
 msgstr "განახლება და გადატვირთვა"
 
