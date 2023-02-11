@@ -12,16 +12,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-08 03:04+0000\n"
-"PO-Revision-Date: 2022-05-25 10:18+0000\n"
-"Last-Translator: Joachim Philipp <joachim.philipp@gmail.com>\n"
-"Language-Team: German <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/de/>\n"
+"PO-Revision-Date: 2023-02-12 16:20+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: src/client.js:473
 msgid "$0 key ID"
@@ -32,16 +32,12 @@ msgid "Add"
 msgstr "Hinzufügen"
 
 #: src/changeRemoteModal.jsx:245
-#, fuzzy
-#| msgid "Add Another Key"
 msgid "Add another key"
 msgstr "Einen weiteren Schlüssel hinzufügen"
 
 #: src/changeRemoteModal.jsx:113 src/changeRemoteModal.jsx:156
-#, fuzzy
-#| msgid "Add New Repository"
 msgid "Add new repository"
-msgstr "Neue Paketquelle hinzufügen"
+msgstr "Neues Repositorium hinzufügen"
 
 #: src/app.jsx:245
 msgid "Additions"
@@ -69,16 +65,12 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 #: src/changeRemoteModal.jsx:54 src/changeRemoteModal.jsx:62
-#, fuzzy
-#| msgid "Change Repository"
 msgid "Change repository"
-msgstr "Repository ändern"
+msgstr "Repositorium ändern"
 
 #: src/app.jsx:197
-#, fuzzy
-#| msgid "Check for Updates"
 msgid "Check for updates"
-msgstr "Nach Aktualisierungen suchen"
+msgstr "Auf Aktualisierungen prüfen"
 
 #: src/app.jsx:501
 msgid "Checking for package updates..."
@@ -105,8 +97,6 @@ msgid "Error loading remotes: $0"
 msgstr "Fehler beim Laden der Remotes: $0"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Expired Signature"
 msgid "Expired signature"
 msgstr "Abgelaufene Signatur"
 
@@ -115,20 +105,14 @@ msgid "Failed"
 msgstr "Fehlgeschlagen"
 
 #: src/changeRemoteModal.jsx:248
-#, fuzzy
-#| msgid "GPG Public Key"
 msgid "GPG public key"
 msgstr "Öffentlicher GPG-Schlüssel"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Good Signature"
 msgid "Good signature"
 msgstr "Korrekte Signatur"
 
 #: src/app.jsx:351
-#, fuzzy
-#| msgid "Invalid Signature"
 msgid "Invalid signature"
 msgstr "Ungültige Signatur"
 
@@ -149,8 +133,6 @@ msgid "No configured remotes"
 msgstr "Keine konfigurierten Remotes"
 
 #: src/app.jsx:129
-#, fuzzy
-#| msgid "No Deployments"
 msgid "No deployments"
 msgstr "Keine Bereitstellungen"
 
@@ -171,8 +153,6 @@ msgid "OSTree is not available on this system"
 msgstr "OSTree ist auf diesem System nicht verfügbar"
 
 #: src/app.jsx:328
-#, fuzzy
-#| msgid "Operating System"
 msgid "Operating system"
 msgstr "Betriebssystem"
 
@@ -253,10 +233,8 @@ msgid "Signed by"
 msgstr "Signiert von"
 
 #: src/index.html:22 src/manifest.json:0
-#, fuzzy
-#| msgid "Software Updates"
 msgid "Software updates"
-msgstr "Software Updates"
+msgstr "Software-Aktualisierungen"
 
 #: src/app.jsx:94
 msgid "System is up to date"
