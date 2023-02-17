@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-12 03:04+0000\n"
+"POT-Creation-Date: 2023-02-17 03:13+0000\n"
 "PO-Revision-Date: 2018-03-15 07:47+0000\n"
 "Last-Translator: Mikel Olasagasti Uranga <mikel@olasagasti.info>\n"
 "Language-Team: Basque\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Add new repository"
 msgstr "Gehitu erabiltzaile berria"
 
-#: src/app.jsx:244
+#: src/app.jsx:230
 msgid "Additions"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
-#: src/app.jsx:322
+#: src/app.jsx:401
 msgid "Available"
 msgstr "Eskuragarri"
 
@@ -48,7 +48,7 @@ msgstr "Eskuragarri"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/app.jsx:175
+#: src/app.jsx:172
 msgid "Branch"
 msgstr ""
 
@@ -63,19 +63,23 @@ msgstr ""
 msgid "Change repository"
 msgstr "Gehitu erabiltzaile berria"
 
-#: src/app.jsx:196
+#: src/app.jsx:690
 msgid "Check for updates"
 msgstr ""
 
-#: src/app.jsx:500
+#: src/app.jsx:567
 msgid "Checking for package updates..."
 msgstr ""
 
-#: src/app.jsx:156
+#: src/app.jsx:596
 msgid "Checking for updates"
 msgstr ""
 
-#: src/app.jsx:124
+#: src/app.jsx:391
+msgid "Close"
+msgstr ""
+
+#: src/app.jsx:131
 msgid "Connecting to OSTree"
 msgstr ""
 
@@ -83,39 +87,55 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/app.jsx:247
+#: src/app.jsx:350 src/app.jsx:683
+msgid "Deployments and updates"
+msgstr ""
+
+#: src/app.jsx:233
 msgid "Downgrades"
 msgstr ""
 
-#: src/app.jsx:535
+#: src/app.jsx:610
 msgid "Error loading remotes: $0"
 msgstr ""
 
-#: src/app.jsx:350
+#: src/app.jsx:272
 msgid "Expired signature"
 msgstr ""
 
-#: src/app.jsx:320
+#: src/app.jsx:394
 msgid "Failed"
+msgstr ""
+
+#: src/app.jsx:340
+msgid "Failed to rebase deployment"
+msgstr ""
+
+#: src/app.jsx:319
+msgid "Failed to roll back deployment"
+msgstr ""
+
+#: src/app.jsx:329
+msgid "Failed to upgrade deployment"
 msgstr ""
 
 #: src/changeRemoteModal.jsx:249
 msgid "GPG public key"
 msgstr ""
 
-#: src/app.jsx:350
+#: src/app.jsx:272
 msgid "Good signature"
 msgstr ""
 
-#: src/app.jsx:350
+#: src/app.jsx:272
 msgid "Invalid signature"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:159
+#: src/app.jsx:353 src/changeRemoteModal.jsx:159
 msgid "Name"
 msgstr ""
 
-#: src/app.jsx:453
+#: src/app.jsx:520
 msgid "No OSTree deployments found"
 msgstr ""
 
@@ -123,19 +143,19 @@ msgstr ""
 msgid "No configuration data found"
 msgstr ""
 
-#: src/app.jsx:166
+#: src/app.jsx:163
 msgid "No configured remotes"
 msgstr ""
 
-#: src/app.jsx:128
+#: src/app.jsx:135
 msgid "No deployments"
 msgstr ""
 
-#: src/app.jsx:374
+#: src/app.jsx:296
 msgid "No signature available"
 msgstr ""
 
-#: src/app.jsx:478
+#: src/app.jsx:545
 msgid "Not authorized to update software on this system"
 msgstr ""
 
@@ -143,19 +163,19 @@ msgstr ""
 msgid "OS $0 not found"
 msgstr ""
 
-#: src/app.jsx:480
+#: src/app.jsx:547
 msgid "OSTree is not available on this system"
 msgstr ""
 
-#: src/app.jsx:327
+#: src/app.jsx:249
 msgid "Operating system"
 msgstr ""
 
-#: src/app.jsx:339
+#: src/app.jsx:261
 msgid "Origin"
 msgstr ""
 
-#: src/app.jsx:400
+#: src/app.jsx:466
 msgid "Packages"
 msgstr ""
 
@@ -167,7 +187,7 @@ msgstr ""
 msgid "Please provide a valid name"
 msgstr ""
 
-#: src/app.jsx:392
+#: src/app.jsx:413
 msgid "Rebase and reboot"
 msgstr ""
 
@@ -183,27 +203,27 @@ msgstr ""
 msgid "Receiving objects: $0%"
 msgstr ""
 
-#: src/app.jsx:135
+#: src/app.jsx:142
 msgid "Reconnect"
 msgstr ""
 
-#: src/app.jsx:335
+#: src/app.jsx:257
 msgid "Released"
 msgstr ""
 
-#: src/app.jsx:245
+#: src/app.jsx:231
 msgid "Removals"
 msgstr ""
 
-#: src/app.jsx:172
+#: src/app.jsx:169
 msgid "Repository"
 msgstr ""
 
-#: src/app.jsx:389
+#: src/app.jsx:410
 msgid "Roll back and reboot"
 msgstr ""
 
-#: src/app.jsx:318
+#: src/app.jsx:384
 msgid "Running"
 msgstr ""
 
@@ -211,15 +231,15 @@ msgstr ""
 msgid "Scanning metadata"
 msgstr ""
 
-#: src/app.jsx:177
+#: src/app.jsx:174
 msgid "Select branch"
 msgstr ""
 
-#: src/app.jsx:401
+#: src/app.jsx:471
 msgid "Signatures"
 msgstr ""
 
-#: src/app.jsx:355
+#: src/app.jsx:277
 msgid "Signed by"
 msgstr ""
 
@@ -227,16 +247,20 @@ msgstr ""
 msgid "Software updates"
 msgstr ""
 
-#: src/app.jsx:93
+#: src/app.jsx:353
+msgid "State"
+msgstr ""
+
+#: src/app.jsx:100
 msgid "System is up to date"
 msgstr ""
 
-#: src/app.jsx:227
+#: src/app.jsx:213
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
 
-#: src/app.jsx:399
+#: src/app.jsx:461
 msgid "Tree"
 msgstr ""
 
@@ -244,23 +268,23 @@ msgstr ""
 msgid "URL"
 msgstr ""
 
-#: src/app.jsx:126
+#: src/app.jsx:133
 msgid "Unable to communicate with OSTree"
 msgstr ""
 
-#: src/app.jsx:386
+#: src/app.jsx:407
 msgid "Update and reboot"
 msgstr ""
 
-#: src/app.jsx:99
+#: src/app.jsx:106
 msgid "Update available: $0"
 msgstr ""
 
-#: src/app.jsx:246
+#: src/app.jsx:232
 msgid "Updates"
 msgstr ""
 
-#: src/app.jsx:316
+#: src/app.jsx:382
 msgid "Updating"
 msgstr ""
 
@@ -268,15 +292,15 @@ msgstr ""
 msgid "Use trusted GPG key"
 msgstr ""
 
-#: src/app.jsx:367
+#: src/app.jsx:289
 msgid "Validity"
 msgstr ""
 
-#: src/app.jsx:331
+#: src/app.jsx:253
 msgid "Version"
 msgstr ""
 
-#: src/app.jsx:359
+#: src/app.jsx:281
 msgid "When"
 msgstr ""
 
@@ -284,8 +308,8 @@ msgstr ""
 msgid "Writing objects"
 msgstr ""
 
-#: src/app.jsx:609
-msgid "available deployments"
+#: src/app.jsx:395
+msgid "view more..."
 msgstr ""
 
 #~ msgid "$0 hour"
