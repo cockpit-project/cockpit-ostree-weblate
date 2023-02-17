@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 03:13+0000\n"
-"PO-Revision-Date: 2023-02-06 16:46+0000\n"
+"PO-Revision-Date: 2023-02-18 11:56+0000\n"
 "Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
-"Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/tr/>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,7 +89,7 @@ msgstr "Sil"
 
 #: src/app.jsx:350 src/app.jsx:683
 msgid "Deployments and updates"
-msgstr ""
+msgstr "Dağıtımlar ve güncellemeler"
 
 #: src/app.jsx:233
 msgid "Downgrades"
@@ -108,20 +108,16 @@ msgid "Failed"
 msgstr "Başarısız"
 
 #: src/app.jsx:340
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to rebase deployment"
-msgstr "mevcut dağıtımlar"
+msgstr "Dağıtımı yeniden temellendirme başarısız oldu"
 
 #: src/app.jsx:319
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "Dağıtımı geri alma başarısız oldu"
 
 #: src/app.jsx:329
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to upgrade deployment"
-msgstr "mevcut dağıtımlar"
+msgstr "Dağıtımı yükseltme başarısız oldu"
 
 #: src/changeRemoteModal.jsx:249
 msgid "GPG public key"
@@ -252,8 +248,6 @@ msgid "Software updates"
 msgstr "Yazılım güncellemeleri"
 
 #: src/app.jsx:353
-#, fuzzy
-#| msgid "Status"
 msgid "State"
 msgstr "Durum"
 
@@ -316,7 +310,7 @@ msgstr "Nesneler yazılıyor"
 
 #: src/app.jsx:395
 msgid "view more..."
-msgstr ""
+msgstr "daha fazla görüntüle..."
 
 #~ msgid "$0 package"
 #~ msgstr "$0 paket"
