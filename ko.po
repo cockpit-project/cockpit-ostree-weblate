@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 03:13+0000\n"
-"PO-Revision-Date: 2023-02-08 13:20+0000\n"
+"PO-Revision-Date: 2023-02-18 11:56+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
-"Language-Team: Korean <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/ko/>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,7 +89,7 @@ msgstr "삭제"
 
 #: src/app.jsx:350 src/app.jsx:683
 msgid "Deployments and updates"
-msgstr ""
+msgstr "개발과 최신화"
 
 #: src/app.jsx:233
 msgid "Downgrades"
@@ -108,20 +108,16 @@ msgid "Failed"
 msgstr "실패함"
 
 #: src/app.jsx:340
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to rebase deployment"
-msgstr "사용 가능한 배포"
+msgstr "배포 재구성에 실패함"
 
 #: src/app.jsx:319
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "배포를 되돌리는데 실패함"
 
 #: src/app.jsx:329
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to upgrade deployment"
-msgstr "사용 가능한 배포"
+msgstr "배포를 향상하는데 실패함"
 
 #: src/changeRemoteModal.jsx:249
 msgid "GPG public key"
@@ -252,8 +248,6 @@ msgid "Software updates"
 msgstr "소프트웨어 최신화"
 
 #: src/app.jsx:353
-#, fuzzy
-#| msgid "Status"
 msgid "State"
 msgstr "상태"
 
@@ -317,7 +311,7 @@ msgstr "대상에 쓰기"
 
 #: src/app.jsx:395
 msgid "view more..."
-msgstr ""
+msgstr "더 보기..."
 
 #~ msgid "$0 package"
 #~ msgstr "$0 꾸러미(package)"
