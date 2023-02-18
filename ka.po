@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-18 03:00+0000\n"
-"PO-Revision-Date: 2023-02-08 13:20+0000\n"
+"PO-Revision-Date: 2023-02-19 16:20+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/main/ka/>\n"
@@ -79,7 +79,7 @@ msgstr "განახლებების შემოწმება"
 
 #: src/app.jsx:391
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 #: src/app.jsx:131
 msgid "Connecting to OSTree"
@@ -91,7 +91,7 @@ msgstr "წაშლა"
 
 #: src/app.jsx:350 src/app.jsx:683
 msgid "Deployments and updates"
-msgstr ""
+msgstr "გაშლები და განახლებები"
 
 #: src/app.jsx:233
 msgid "Downgrades"
@@ -110,20 +110,16 @@ msgid "Failed"
 msgstr "შეცდომა"
 
 #: src/app.jsx:340
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to rebase deployment"
-msgstr "ხელმისაწვდომი გაშლები"
+msgstr "გაშლის ბაზის შეცვლის შეცდომა"
 
 #: src/app.jsx:319
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "გაშლის დაბრუნების შეცდომა"
 
 #: src/app.jsx:329
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to upgrade deployment"
-msgstr "ხელმისაწვდომი გაშლები"
+msgstr "გაშლის განახლების შეცდომა"
 
 #: src/changeRemoteModal.jsx:249
 msgid "GPG public key"
@@ -256,7 +252,7 @@ msgstr "პროგრამული განახლებები"
 
 #: src/app.jsx:353
 msgid "State"
-msgstr ""
+msgstr "მდგომარეობა"
 
 #: src/app.jsx:100
 msgid "System is up to date"
@@ -319,4 +315,4 @@ msgstr "ობიექტების ჩაწერა"
 
 #: src/app.jsx:395
 msgid "view more..."
-msgstr ""
+msgstr "მეტის ნახვა..."
