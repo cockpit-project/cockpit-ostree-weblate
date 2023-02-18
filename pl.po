@@ -12,10 +12,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 03:13+0000\n"
-"PO-Revision-Date: 2023-02-06 16:46+0000\n"
+"PO-Revision-Date: 2023-02-18 11:56+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/pl/>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -94,10 +94,8 @@ msgid "Delete"
 msgstr "Usuń"
 
 #: src/app.jsx:350 src/app.jsx:683
-#, fuzzy
-#| msgid "Deployment Causes"
 msgid "Deployments and updates"
-msgstr "Przyczyny wdrażania"
+msgstr "Wdrożenia i aktualizacje"
 
 #: src/app.jsx:233
 msgid "Downgrades"
@@ -116,20 +114,16 @@ msgid "Failed"
 msgstr "Niepowodzenie"
 
 #: src/app.jsx:340
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to rebase deployment"
-msgstr "dostępne wdrożenia"
+msgstr "Aktualizacja wdrożenia się nie powiodła"
 
 #: src/app.jsx:319
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "Przywrócenie wdrożenia się nie powiodło"
 
 #: src/app.jsx:329
-#, fuzzy
-#| msgid "available deployments"
 msgid "Failed to upgrade deployment"
-msgstr "dostępne wdrożenia"
+msgstr "Zaktualizowanie wersji wdrożenia się nie powiodło"
 
 #: src/changeRemoteModal.jsx:249
 msgid "GPG public key"
@@ -322,7 +316,7 @@ msgstr "Zapisywanie obiektów"
 
 #: src/app.jsx:395
 msgid "view more..."
-msgstr ""
+msgstr "więcej…"
 
 #~ msgid "$0 package"
 #~ msgstr "$0 pakiet"
