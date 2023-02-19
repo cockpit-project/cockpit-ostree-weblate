@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 03:00+0000\n"
+"POT-Creation-Date: 2023-02-19 03:06+0000\n"
 "PO-Revision-Date: 2017-05-12 11:11+0000\n"
 "Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
 "Language-Team: Punjabi\n"
@@ -134,7 +134,7 @@ msgstr "ਦਸਤਖ਼ਤ"
 msgid "Invalid signature"
 msgstr ""
 
-#: src/app.jsx:353 src/changeRemoteModal.jsx:159
+#: src/changeRemoteModal.jsx:159 src/app.jsx:353
 msgid "Name"
 msgstr "ਨਾਂ"
 

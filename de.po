@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 03:00+0000\n"
+"POT-Creation-Date: 2023-02-19 03:06+0000\n"
 "PO-Revision-Date: 2023-02-12 16:20+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit-"
@@ -140,7 +140,7 @@ msgstr "Korrekte Signatur"
 msgid "Invalid signature"
 msgstr "Ungültige Signatur"
 
-#: src/app.jsx:353 src/changeRemoteModal.jsx:159
+#: src/changeRemoteModal.jsx:159 src/app.jsx:353
 msgid "Name"
 msgstr "Name"
 

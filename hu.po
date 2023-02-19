@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 03:00+0000\n"
+"POT-Creation-Date: 2023-02-19 03:06+0000\n"
 "PO-Revision-Date: 2018-05-25 06:59+0000\n"
 "Last-Translator: Zoltan Hoppar <zoltanh721@fedoraproject.org>\n"
 "Language-Team: Hungarian\n"
@@ -134,7 +134,7 @@ msgstr "Tuned alkalmazás nem elérhető"
 msgid "Invalid signature"
 msgstr ""
 
-#: src/app.jsx:353 src/changeRemoteModal.jsx:159
+#: src/changeRemoteModal.jsx:159 src/app.jsx:353
 msgid "Name"
 msgstr ""
 
