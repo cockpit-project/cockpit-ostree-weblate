@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-20 03:11+0000\n"
+"POT-Creation-Date: 2023-02-21 03:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,15 +76,15 @@ msgstr ""
 msgid "Change repository"
 msgstr ""
 
-#: src/app.jsx:690
+#: src/app.jsx:688
 msgid "Check for updates"
 msgstr ""
 
-#: src/app.jsx:567
+#: src/app.jsx:565
 msgid "Checking for package updates..."
 msgstr ""
 
-#: src/app.jsx:596
+#: src/app.jsx:594
 msgid "Checking for updates"
 msgstr ""
 
@@ -100,7 +100,7 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/app.jsx:350 src/app.jsx:683
+#: src/app.jsx:350 src/app.jsx:681
 msgid "Deployments and updates"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/app.jsx:610
+#: src/app.jsx:608
 msgid "Error loading remotes: $0"
 msgstr ""
 
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: src/app.jsx:520
+#: src/app.jsx:518
 msgid "No OSTree deployments found"
 msgstr ""
 
@@ -168,7 +168,7 @@ msgstr ""
 msgid "No signature available"
 msgstr ""
 
-#: src/app.jsx:545
+#: src/app.jsx:543
 msgid "Not authorized to update software on this system"
 msgstr ""
 
@@ -176,7 +176,7 @@ msgstr ""
 msgid "OS $0 not found"
 msgstr ""
 
-#: src/app.jsx:547
+#: src/app.jsx:545
 msgid "OSTree is not available on this system"
 msgstr ""
 
