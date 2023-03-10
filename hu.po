@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-19 03:06+0000\n"
+"POT-Creation-Date: 2023-03-10 03:17+0000\n"
 "PO-Revision-Date: 2018-05-25 06:59+0000\n"
 "Last-Translator: Zoltan Hoppar <zoltanh721@fedoraproject.org>\n"
 "Language-Team: Hungarian\n"
@@ -62,15 +62,15 @@ msgstr ""
 msgid "Change repository"
 msgstr "Profilváltás"
 
-#: src/app.jsx:690
+#: src/app.jsx:688
 msgid "Check for updates"
 msgstr ""
 
-#: src/app.jsx:567
+#: src/app.jsx:565
 msgid "Checking for package updates..."
 msgstr ""
 
-#: src/app.jsx:596
+#: src/app.jsx:594
 msgid "Checking for updates"
 msgstr ""
 
@@ -86,7 +86,7 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/app.jsx:350 src/app.jsx:683
+#: src/app.jsx:350 src/app.jsx:681
 msgid "Deployments and updates"
 msgstr ""
 
@@ -94,7 +94,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/app.jsx:610
+#: src/app.jsx:608
 msgid "Error loading remotes: $0"
 msgstr ""
 
@@ -134,11 +134,11 @@ msgstr "Tuned alkalmazás nem elérhető"
 msgid "Invalid signature"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:159 src/app.jsx:353
+#: src/app.jsx:353 src/changeRemoteModal.jsx:159
 msgid "Name"
 msgstr ""
 
-#: src/app.jsx:520
+#: src/app.jsx:518
 msgid "No OSTree deployments found"
 msgstr ""
 
@@ -160,7 +160,7 @@ msgstr ""
 msgid "No signature available"
 msgstr "Tuned alkalmazás nem elérhető"
 
-#: src/app.jsx:545
+#: src/app.jsx:543
 msgid "Not authorized to update software on this system"
 msgstr ""
 
@@ -168,7 +168,7 @@ msgstr ""
 msgid "OS $0 not found"
 msgstr ""
 
-#: src/app.jsx:547
+#: src/app.jsx:545
 msgid "OSTree is not available on this system"
 msgstr ""
 
