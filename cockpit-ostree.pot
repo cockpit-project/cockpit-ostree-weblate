@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-14 02:54+0000\n"
+"POT-Creation-Date: 2023-03-15 02:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Cockpit manifest2po\n"
 
-#: src/client.js:473
+#: src/client.js:469
 msgid "$0 key ID"
 msgstr ""
 
@@ -172,7 +172,7 @@ msgstr ""
 msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/client.js:572 src/client.js:659
+#: src/client.js:566 src/client.js:651
 msgid "OS $0 not found"
 msgstr ""
 
