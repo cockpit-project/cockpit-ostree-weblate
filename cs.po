@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-30 02:55+0000\n"
-"PO-Revision-Date: 2023-03-30 04:20+0000\n"
+"PO-Revision-Date: 2023-04-01 21:20+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
-"Language-Team: Czech <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/cs/>\n"
+"Language-Team: Czech <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -233,7 +233,7 @@ msgstr "Repozitář"
 
 #: src/app.jsx:410
 msgid "Roll back and reboot"
-msgstr "Vrátit zpět do původního stavu a restartovat"
+msgstr "Vrátit zpět do předchozího stavu a restartovat"
 
 # auto translated by TM merge from project: dnf, version: master, DocId: po/dnf
 #: src/app.jsx:384
