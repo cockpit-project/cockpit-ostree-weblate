@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-24 02:52+0000\n"
+"POT-Creation-Date: 2023-05-25 02:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,11 +35,11 @@ msgstr ""
 msgid "$0 key ID"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:194
+#: src/changeRemoteModal.jsx:192
 msgid "Add"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:250
+#: src/changeRemoteModal.jsx:248
 msgid "Add another key"
 msgstr ""
 
@@ -51,7 +51,7 @@ msgstr ""
 msgid "Additions"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:257
+#: src/changeRemoteModal.jsx:255
 msgid "Apply"
 msgstr ""
 
@@ -59,7 +59,7 @@ msgstr ""
 msgid "Available"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:252
+#: src/changeRemoteModal.jsx:250
 msgid "Begins with $0"
 msgstr ""
 
@@ -67,8 +67,8 @@ msgstr ""
 msgid "Branch"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:60 src/changeRemoteModal.jsx:195
-#: src/changeRemoteModal.jsx:258
+#: src/changeRemoteModal.jsx:60 src/changeRemoteModal.jsx:193
+#: src/changeRemoteModal.jsx:256
 msgid "Cancel"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgstr ""
 msgid "Connecting to OSTree"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:256
+#: src/changeRemoteModal.jsx:254
 msgid "Delete"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr ""
 msgid "Failed to upgrade deployment"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:253
+#: src/changeRemoteModal.jsx:251
 msgid "GPG public key"
 msgstr ""
 
@@ -277,7 +277,7 @@ msgstr ""
 msgid "Tree"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:174 src/changeRemoteModal.jsx:233
+#: src/changeRemoteModal.jsx:174 src/changeRemoteModal.jsx:231
 msgid "URL"
 msgstr ""
 
@@ -301,7 +301,7 @@ msgstr ""
 msgid "Updating"
 msgstr ""
 
-#: src/changeRemoteModal.jsx:186 src/changeRemoteModal.jsx:241
+#: src/changeRemoteModal.jsx:186 src/changeRemoteModal.jsx:239
 msgid "Use trusted GPG key"
 msgstr ""
 
