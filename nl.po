@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-30 02:53+0000\n"
+"POT-Creation-Date: 2023-06-15 02:55+0000\n"
 "PO-Revision-Date: 2023-06-15 14:20+0000\n"
 "Last-Translator: Geert Warrink <geert.warrink@onsnet.nu>\n"
-"Language-Team: Dutch <https://translate.fedoraproject.org/projects/"
-"cockpit-ostree/main/nl/>\n"
+"Language-Team: Dutch <https://translate.fedoraproject.org/projects/cockpit-"
+"ostree/main/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -128,7 +128,7 @@ msgstr "Goede handtekening"
 msgid "Invalid signature"
 msgstr "Ongeldige handtekening"
 
-#: src/changeRemoteModal.jsx:163 src/ostree.jsx:358
+#: src/ostree.jsx:358 src/changeRemoteModal.jsx:163
 msgid "Name"
 msgstr "Naam"
 
