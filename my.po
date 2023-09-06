@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 02:52+0000\n"
+"POT-Creation-Date: 2023-09-06 02:52+0000\n"
 "PO-Revision-Date: 2017-06-03 01:04+0000\n"
 "Last-Translator: cockpit <cockpituous@gmail.com>\n"
 "Language-Team: Burmese\n"
@@ -131,7 +131,7 @@ msgstr "မရနိင်"
 msgid "Invalid signature"
 msgstr ""
 
-#: src/ostree.jsx:358 src/changeRemoteModal.jsx:163
+#: src/changeRemoteModal.jsx:163 src/ostree.jsx:358
 msgid "Name"
 msgstr "အမည်"
 
