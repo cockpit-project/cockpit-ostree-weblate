@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-06 02:51+0000\n"
+"POT-Creation-Date: 2023-12-08 02:51+0000\n"
 "PO-Revision-Date: 2018-05-03 04:56+0000\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan\n"
@@ -58,9 +58,9 @@ msgstr ""
 msgid "Branch"
 msgstr ""
 
-#: src/ostree.jsx:358 src/repositoryModals.jsx:72 src/repositoryModals.jsx:143
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:358
+#: src/repositoryModals.jsx:72 src/repositoryModals.jsx:143
 #: src/repositoryModals.jsx:247 src/repositoryModals.jsx:361
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
 msgid "Cancel"
 msgstr "Cancel·la"
 
@@ -74,7 +74,7 @@ msgstr "Comprovació per si hi ha actualitzacions"
 msgid "Checking for updates"
 msgstr "Comprovació per si hi ha actualitzacions"
 
-#: src/ostree.jsx:911 src/deploymentModals.jsx:80
+#: src/deploymentModals.jsx:80 src/ostree.jsx:911
 msgid "Clean up"
 msgstr ""
 
@@ -329,7 +329,7 @@ msgstr "Dipòsit"
 msgid "Repository"
 msgstr "Dipòsit"
 
-#: src/ostree.jsx:917 src/deploymentModals.jsx:179
+#: src/deploymentModals.jsx:179 src/ostree.jsx:917
 msgid "Reset"
 msgstr "Restableix"
 
