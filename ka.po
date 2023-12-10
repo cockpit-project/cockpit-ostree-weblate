@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-08 02:51+0000\n"
-"PO-Revision-Date: 2023-12-06 16:43+0000\n"
+"PO-Revision-Date: 2023-12-11 06:43+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "cockpit-ostree/main/ka/>\n"
@@ -389,7 +389,7 @@ msgstr "განახლებები"
 
 #: src/ostree.jsx:394
 msgid "Updating"
-msgstr "განახლება"
+msgstr "მიმდინარეობს განახლება"
 
 #: src/repositoryModals.jsx:191 src/repositoryModals.jsx:284
 msgid "Use trusted GPG key"
