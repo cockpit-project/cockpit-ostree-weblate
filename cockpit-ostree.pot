@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-13 02:52+0000\n"
+"POT-Creation-Date: 2023-12-14 02:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,7 @@ msgstr ""
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:358
+#: src/ostree.jsx:358 src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
 #: src/repositoryModals.jsx:72 src/repositoryModals.jsx:143
 #: src/repositoryModals.jsx:247 src/repositoryModals.jsx:361
 msgid "Cancel"
@@ -77,7 +77,7 @@ msgstr ""
 msgid "Checking for updates"
 msgstr ""
 
-#: src/deploymentModals.jsx:80 src/ostree.jsx:911
+#: src/ostree.jsx:911 src/deploymentModals.jsx:80
 msgid "Clean up"
 msgstr ""
 
@@ -292,7 +292,7 @@ msgstr ""
 msgid "Repository"
 msgstr ""
 
-#: src/deploymentModals.jsx:179 src/ostree.jsx:917
+#: src/ostree.jsx:917 src/deploymentModals.jsx:179
 msgid "Reset"
 msgstr ""
 
