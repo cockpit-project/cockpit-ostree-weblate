@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 02:51+0000\n"
+"POT-Creation-Date: 2024-03-19 02:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,15 +39,15 @@ msgstr ""
 msgid "$0 key ID"
 msgstr ""
 
-#: src/repositoryModals.jsx:293
+#: src/repositoryModals.jsx:318
 msgid "Add another key"
 msgstr ""
 
-#: src/repositoryModals.jsx:150
+#: src/repositoryModals.jsx:179
 msgid "Add new repository"
 msgstr ""
 
-#: src/repositoryModals.jsx:140 src/ostree.jsx:652
+#: src/repositoryModals.jsx:169 src/ostree.jsx:652
 msgid "Add repository"
 msgstr ""
 
@@ -55,17 +55,17 @@ msgstr ""
 msgid "Additions"
 msgstr ""
 
-#: src/repositoryModals.jsx:295
+#: src/repositoryModals.jsx:320
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:429 src/ostree.jsx:312 src/ostree.jsx:691
+#: src/repositoryModals.jsx:446 src/ostree.jsx:312 src/ostree.jsx:691
 msgid "Branch"
 msgstr ""
 
 #: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
-#: src/repositoryModals.jsx:72 src/repositoryModals.jsx:143
-#: src/repositoryModals.jsx:247 src/repositoryModals.jsx:361 src/ostree.jsx:359
+#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
+#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:359
 msgid "Cancel"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/repositoryModals.jsx:252 src/ostree.jsx:661
+#: src/repositoryModals.jsx:280 src/ostree.jsx:661
 msgid "Edit repository"
 msgstr ""
 
@@ -137,7 +137,7 @@ msgstr ""
 msgid "Failed to upgrade deployment"
 msgstr ""
 
-#: src/repositoryModals.jsx:298
+#: src/repositoryModals.jsx:323
 msgid "GPG public key"
 msgstr ""
 
@@ -149,11 +149,11 @@ msgstr ""
 msgid "Invalid signature"
 msgstr ""
 
-#: src/repositoryModals.jsx:407
+#: src/repositoryModals.jsx:424
 msgid "Loading branches"
 msgstr ""
 
-#: src/repositoryModals.jsx:158
+#: src/repositoryModals.jsx:187
 msgid "Name"
 msgstr ""
 
@@ -221,11 +221,11 @@ msgstr ""
 msgid "Pinned"
 msgstr ""
 
-#: src/repositoryModals.jsx:183
+#: src/repositoryModals.jsx:212
 msgid "Please provide a valid URL"
 msgstr ""
 
-#: src/repositoryModals.jsx:169
+#: src/repositoryModals.jsx:198
 msgid "Please provide a valid name"
 msgstr ""
 
@@ -233,11 +233,11 @@ msgstr ""
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/repositoryModals.jsx:355 src/ostree.jsx:449 src/ostree.jsx:644
+#: src/repositoryModals.jsx:378 src/ostree.jsx:449 src/ostree.jsx:644
 msgid "Rebase"
 msgstr ""
 
-#: src/repositoryModals.jsx:412
+#: src/repositoryModals.jsx:429
 msgid "Rebase repository and branch"
 msgstr ""
 
@@ -265,7 +265,7 @@ msgstr ""
 msgid "Removals"
 msgstr ""
 
-#: src/repositoryModals.jsx:69
+#: src/repositoryModals.jsx:98
 msgid "Remove"
 msgstr ""
 
@@ -283,12 +283,12 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:90 src/ostree.jsx:671
+#: src/repositoryModals.jsx:119 src/ostree.jsx:671
 msgid "Remove repository"
 msgstr ""
 
-#: src/repositoryModals.jsx:99 src/repositoryModals.jsx:262
-#: src/repositoryModals.jsx:422 src/ostree.jsx:687
+#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:439 src/ostree.jsx:687
 msgid "Repository"
 msgstr ""
 
@@ -308,7 +308,7 @@ msgstr ""
 msgid "Rollback deployment"
 msgstr ""
 
-#: src/repositoryModals.jsx:244
+#: src/repositoryModals.jsx:272
 msgid "Save"
 msgstr ""
 
@@ -316,7 +316,7 @@ msgstr ""
 msgid "Scanning metadata"
 msgstr ""
 
-#: src/repositoryModals.jsx:186
+#: src/repositoryModals.jsx:215
 msgid "Security"
 msgstr ""
 
@@ -365,7 +365,7 @@ msgstr ""
 msgid "Tree"
 msgstr ""
 
-#: src/repositoryModals.jsx:172 src/repositoryModals.jsx:275
+#: src/repositoryModals.jsx:201 src/repositoryModals.jsx:300
 msgid "URL"
 msgstr ""
 
@@ -397,7 +397,7 @@ msgstr ""
 msgid "Updating"
 msgstr ""
 
-#: src/repositoryModals.jsx:191 src/repositoryModals.jsx:284
+#: src/repositoryModals.jsx:220 src/repositoryModals.jsx:309
 msgid "Use trusted GPG key"
 msgstr ""
 
