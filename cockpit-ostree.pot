@@ -16,7 +16,7 @@ msgstr ""
 "#-#-#-#-#  cockpit-ostree.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-27 02:51+0000\n"
+"POT-Creation-Date: 2024-03-28 02:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgstr ""
 msgid "$0 and reboot"
 msgstr ""
 
-#: src/client.js:460
+#: src/client.js:402
 msgid "$0 key ID"
 msgstr ""
 
@@ -181,7 +181,7 @@ msgstr ""
 msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/client.js:553 src/client.js:638
+#: src/client.js:495 src/client.js:559
 msgid "OS $0 not found"
 msgstr ""
 
@@ -241,18 +241,6 @@ msgstr ""
 msgid "Rebase repository and branch"
 msgstr ""
 
-#: src/client.js:58
-msgid "Receiving delta parts"
-msgstr ""
-
-#: src/client.js:60
-msgid "Receiving metadata objects"
-msgstr ""
-
-#: src/client.js:63
-msgid "Receiving objects: $0%"
-msgstr ""
-
 #: src/ostree.jsx:150
 msgid "Reconnect"
 msgstr ""
@@ -310,10 +298,6 @@ msgstr ""
 
 #: src/repositoryModals.jsx:272
 msgid "Save"
-msgstr ""
-
-#: src/client.js:68
-msgid "Scanning metadata"
 msgstr ""
 
 #: src/repositoryModals.jsx:215
@@ -411,10 +395,6 @@ msgstr ""
 
 #: src/ostree.jsx:240
 msgid "When"
-msgstr ""
-
-#: src/client.js:66
-msgid "Writing objects"
 msgstr ""
 
 #: src/ostree.jsx:415
