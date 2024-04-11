@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-27 02:51+0000\n"
+"POT-Creation-Date: 2024-04-11 02:52+0000\n"
 "PO-Revision-Date: 2018-05-03 04:56+0000\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "$0 and reboot"
 msgstr "Actualitza i reinicia"
 
-#: src/client.js:460
+#: src/client.js:402
 msgid "$0 key ID"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgstr "Afegeix una altra clau"
 msgid "Add new repository"
 msgstr "- Afegeix un dipòsit nou"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:653
+#: src/ostree.jsx:653 src/repositoryModals.jsx:169
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -54,13 +54,13 @@ msgstr "Addicions"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:446 src/ostree.jsx:313 src/ostree.jsx:692
+#: src/ostree.jsx:313 src/ostree.jsx:692 src/repositoryModals.jsx:446
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:360
 #: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:360
+#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
 msgid "Cancel"
 msgstr "Cancel·la"
 
@@ -112,7 +112,7 @@ msgstr "Causes del desplegament"
 msgid "Downgrades"
 msgstr "Reversions"
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:662
+#: src/ostree.jsx:662 src/repositoryModals.jsx:280
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
@@ -204,7 +204,7 @@ msgstr "No hi ha disponible cap disc."
 msgid "Not authorized to update software on this system"
 msgstr "No autoritzat per actualitzar el programari en aquest sistema"
 
-#: src/client.js:553 src/client.js:638
+#: src/client.js:495 src/client.js:559
 msgid "OS $0 not found"
 msgstr "SO $0 no trobat"
 
@@ -264,25 +264,13 @@ msgstr "Si us plau, proporcioneu un nom vàlid"
 msgid "RPM repo metadata"
 msgstr "Metadades"
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:450 src/ostree.jsx:645
+#: src/ostree.jsx:450 src/ostree.jsx:645 src/repositoryModals.jsx:378
 msgid "Rebase"
 msgstr ""
 
 #: src/repositoryModals.jsx:429
 msgid "Rebase repository and branch"
 msgstr ""
-
-#: src/client.js:58
-msgid "Receiving delta parts"
-msgstr "S'estan rebent les parts de deltes"
-
-#: src/client.js:60
-msgid "Receiving metadata objects"
-msgstr "S'estan rebent els objectes de metadades"
-
-#: src/client.js:63
-msgid "Receiving objects: $0%"
-msgstr "S'estan rebent objectes: $0%"
 
 #: src/ostree.jsx:150
 msgid "Reconnect"
@@ -318,14 +306,14 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:672
+#: src/ostree.jsx:672 src/repositoryModals.jsx:119
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Dipòsit"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:439 src/ostree.jsx:688
+#: src/ostree.jsx:688 src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:439
 msgid "Repository"
 msgstr "Dipòsit"
 
@@ -350,10 +338,6 @@ msgstr "Sense desplegaments"
 #: src/repositoryModals.jsx:272
 msgid "Save"
 msgstr "Desa"
-
-#: src/client.js:68
-msgid "Scanning metadata"
-msgstr "S'estan escanejant les metadades"
 
 #: src/repositoryModals.jsx:215
 msgid "Security"
@@ -466,13 +450,24 @@ msgstr "Versió"
 msgid "When"
 msgstr "Quan"
 
-#: src/client.js:66
-msgid "Writing objects"
-msgstr "S'estan escrivint els objectes"
-
 #: src/ostree.jsx:415
 msgid "view more..."
 msgstr ""
+
+#~ msgid "Receiving delta parts"
+#~ msgstr "S'estan rebent les parts de deltes"
+
+#~ msgid "Receiving metadata objects"
+#~ msgstr "S'estan rebent els objectes de metadades"
+
+#~ msgid "Receiving objects: $0%"
+#~ msgstr "S'estan rebent objectes: $0%"
+
+#~ msgid "Scanning metadata"
+#~ msgstr "S'estan escanejant les metadades"
+
+#~ msgid "Writing objects"
+#~ msgstr "S'estan escrivint els objectes"
 
 #~ msgid "Add"
 #~ msgstr "Afegeix"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-27 02:51+0000\n"
+"POT-Creation-Date: 2024-04-11 02:52+0000\n"
 "PO-Revision-Date: 2018-02-22 05:00+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Japanese\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "$0 and reboot"
 msgstr "リベースおよび再起動"
 
-#: src/client.js:460
+#: src/client.js:402
 msgid "$0 key ID"
 msgstr "$0 キー ID"
 
@@ -38,7 +38,7 @@ msgstr "別の鍵の追加"
 msgid "Add new repository"
 msgstr "- 新規リポジトリーの追加"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:653
+#: src/ostree.jsx:653 src/repositoryModals.jsx:169
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -52,13 +52,13 @@ msgstr "追加"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:446 src/ostree.jsx:313 src/ostree.jsx:692
+#: src/ostree.jsx:313 src/ostree.jsx:692 src/repositoryModals.jsx:446
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:360
 #: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:360
+#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
 msgid "Cancel"
 msgstr "取り消し"
 
@@ -110,7 +110,7 @@ msgstr "デプロイメントの理由"
 msgid "Downgrades"
 msgstr "ダウングレード"
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:662
+#: src/ostree.jsx:662 src/repositoryModals.jsx:280
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
@@ -202,7 +202,7 @@ msgstr "署名が利用できません"
 msgid "Not authorized to update software on this system"
 msgstr "このシステム上のソフトウェアを更新する権限がありません"
 
-#: src/client.js:553 src/client.js:638
+#: src/client.js:495 src/client.js:559
 msgid "OS $0 not found"
 msgstr "OS $0 が見つかりません"
 
@@ -262,25 +262,13 @@ msgstr "有効な名前を提供してください"
 msgid "RPM repo metadata"
 msgstr "メタデータ"
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:450 src/ostree.jsx:645
+#: src/ostree.jsx:450 src/ostree.jsx:645 src/repositoryModals.jsx:378
 msgid "Rebase"
 msgstr ""
 
 #: src/repositoryModals.jsx:429
 msgid "Rebase repository and branch"
 msgstr ""
-
-#: src/client.js:58
-msgid "Receiving delta parts"
-msgstr "デルタ部分の受信"
-
-#: src/client.js:60
-msgid "Receiving metadata objects"
-msgstr "メタデータオブジェクトの受信"
-
-#: src/client.js:63
-msgid "Receiving objects: $0%"
-msgstr "オブジェクトの受信: $0%"
 
 #: src/ostree.jsx:150
 msgid "Reconnect"
@@ -316,14 +304,14 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:672
+#: src/ostree.jsx:672 src/repositoryModals.jsx:119
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "リポジトリー"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:439 src/ostree.jsx:688
+#: src/ostree.jsx:688 src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:439
 msgid "Repository"
 msgstr "リポジトリー"
 
@@ -350,10 +338,6 @@ msgstr "デプロイメントなし"
 #: src/repositoryModals.jsx:272
 msgid "Save"
 msgstr "保存"
-
-#: src/client.js:68
-msgid "Scanning metadata"
-msgstr "メタデータのスキャン"
 
 #: src/repositoryModals.jsx:215
 msgid "Security"
@@ -466,13 +450,24 @@ msgstr "バージョン"
 msgid "When"
 msgstr "日付"
 
-#: src/client.js:66
-msgid "Writing objects"
-msgstr "オブジェクトの書き込み"
-
 #: src/ostree.jsx:415
 msgid "view more..."
 msgstr ""
+
+#~ msgid "Receiving delta parts"
+#~ msgstr "デルタ部分の受信"
+
+#~ msgid "Receiving metadata objects"
+#~ msgstr "メタデータオブジェクトの受信"
+
+#~ msgid "Receiving objects: $0%"
+#~ msgstr "オブジェクトの受信: $0%"
+
+#~ msgid "Scanning metadata"
+#~ msgstr "メタデータのスキャン"
+
+#~ msgid "Writing objects"
+#~ msgstr "オブジェクトの書き込み"
 
 #~ msgid "Add"
 #~ msgstr "追加する"
