@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 02:52+0000\n"
+"POT-Creation-Date: 2024-08-07 02:54+0000\n"
 "PO-Revision-Date: 2017-06-03 01:04+0000\n"
 "Last-Translator: cockpit <cockpituous@gmail.com>\n"
 "Language-Team: Burmese\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Add new repository"
 msgstr ""
 
-#: src/ostree.jsx:652 src/repositoryModals.jsx:168
+#: src/repositoryModals.jsx:168 src/ostree.jsx:655
 msgid "Add repository"
 msgstr ""
 
@@ -44,25 +44,25 @@ msgstr ""
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:312 src/ostree.jsx:691 src/repositoryModals.jsx:445
+#: src/repositoryModals.jsx:445 src/ostree.jsx:312 src/ostree.jsx:694
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:359
 #: src/repositoryModals.jsx:100 src/repositoryModals.jsx:171
-#: src/repositoryModals.jsx:274 src/repositoryModals.jsx:383
+#: src/repositoryModals.jsx:274 src/repositoryModals.jsx:383 src/ostree.jsx:359
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
 msgid "Cancel"
 msgstr ""
 
-#: src/ostree.jsx:790
+#: src/ostree.jsx:793
 msgid "Checking for package updates..."
 msgstr ""
 
-#: src/ostree.jsx:820
+#: src/ostree.jsx:823
 msgid "Checking for updates"
 msgstr ""
 
-#: src/deploymentModals.jsx:80 src/ostree.jsx:898
+#: src/ostree.jsx:901 src/deploymentModals.jsx:80
 msgid "Clean up"
 msgstr ""
 
@@ -82,11 +82,11 @@ msgstr ""
 msgid "Current"
 msgstr ""
 
-#: src/ostree.jsx:558
+#: src/ostree.jsx:561
 msgid "Delete"
 msgstr "ဖျက်ဆီးပါ။"
 
-#: src/ostree.jsx:327 src/ostree.jsx:930
+#: src/ostree.jsx:327 src/ostree.jsx:933
 msgid "Deployments and updates"
 msgstr ""
 
@@ -94,11 +94,11 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/ostree.jsx:661 src/repositoryModals.jsx:279
+#: src/repositoryModals.jsx:279 src/ostree.jsx:664
 msgid "Edit repository"
 msgstr ""
 
-#: src/ostree.jsx:836
+#: src/ostree.jsx:839
 msgid "Error loading remotes: $0"
 msgstr ""
 
@@ -150,7 +150,7 @@ msgstr "အမည်"
 msgid "New"
 msgstr "ကွန်ယက်"
 
-#: src/ostree.jsx:742
+#: src/ostree.jsx:745
 msgid "No OSTree deployments found"
 msgstr ""
 
@@ -168,7 +168,7 @@ msgstr ""
 msgid "No signature available"
 msgstr "မရနိင်"
 
-#: src/ostree.jsx:768
+#: src/ostree.jsx:771
 msgid "Not authorized to update software on this system"
 msgstr ""
 
@@ -176,11 +176,11 @@ msgstr ""
 msgid "OS $0 not found"
 msgstr ""
 
-#: src/ostree.jsx:770
+#: src/ostree.jsx:773
 msgid "OSTree is not available on this system"
 msgstr ""
 
-#: src/ostree.jsx:682
+#: src/ostree.jsx:685
 msgid "OSTree source"
 msgstr ""
 
@@ -204,7 +204,7 @@ msgstr ""
 msgid "Pending deployment"
 msgstr ""
 
-#: src/ostree.jsx:544
+#: src/ostree.jsx:546
 msgid "Pin"
 msgstr ""
 
@@ -224,7 +224,7 @@ msgstr ""
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/ostree.jsx:449 src/ostree.jsx:644 src/repositoryModals.jsx:377
+#: src/repositoryModals.jsx:377 src/ostree.jsx:449 src/ostree.jsx:647
 msgid "Rebase"
 msgstr ""
 
@@ -262,16 +262,16 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:671 src/repositoryModals.jsx:118
+#: src/repositoryModals.jsx:118 src/ostree.jsx:674
 msgid "Remove repository"
 msgstr ""
 
-#: src/ostree.jsx:687 src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
-#: src/repositoryModals.jsx:438
+#: src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
+#: src/repositoryModals.jsx:438 src/ostree.jsx:690
 msgid "Repository"
 msgstr ""
 
-#: src/deploymentModals.jsx:179 src/ostree.jsx:904
+#: src/ostree.jsx:907 src/deploymentModals.jsx:179
 msgid "Reset"
 msgstr ""
 
@@ -307,7 +307,7 @@ msgstr ""
 msgid "Software updates"
 msgstr ""
 
-#: src/ostree.jsx:304 src/ostree.jsx:605
+#: src/ostree.jsx:304 src/ostree.jsx:608
 msgid "Status"
 msgstr ""
 
@@ -315,7 +315,7 @@ msgstr ""
 msgid "Substitutions of packages normally included in an OS build"
 msgstr ""
 
-#: src/ostree.jsx:106 src/ostree.jsx:580
+#: src/ostree.jsx:106 src/ostree.jsx:583
 msgid "System is up to date"
 msgstr ""
 
@@ -348,7 +348,7 @@ msgstr ""
 msgid "Unable to communicate with OSTree"
 msgstr ""
 
-#: src/ostree.jsx:544
+#: src/ostree.jsx:546
 msgid "Unpin"
 msgstr ""
 
@@ -356,7 +356,7 @@ msgstr ""
 msgid "Update"
 msgstr ""
 
-#: src/ostree.jsx:574
+#: src/ostree.jsx:577
 #, fuzzy
 #| msgid "Not available"
 msgid "Update available"
