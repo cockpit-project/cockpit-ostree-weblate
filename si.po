@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-07 02:54+0000\n"
+"POT-Creation-Date: 2024-09-02 03:00+0000\n"
 "PO-Revision-Date: 2021-08-19 06:05+0000\n"
 "Last-Translator: Hela Basa <r45xveza@pm.me>\n"
 "Language-Team: Sinhala <https://translate.fedoraproject.org/projects/cockpit-"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "$0 and reboot"
 msgstr ""
 
-#: src/client.js:402
+#: src/client.js:407
 msgid "$0 key ID"
 msgstr ""
 
@@ -170,7 +170,7 @@ msgstr ""
 msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/client.js:495 src/client.js:559
+#: src/client.js:500 src/client.js:564
 msgid "OS $0 not found"
 msgstr ""
 

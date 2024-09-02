@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-07 02:54+0000\n"
+"POT-Creation-Date: 2024-09-02 03:00+0000\n"
 "PO-Revision-Date: 2018-05-25 06:59+0000\n"
 "Last-Translator: Zoltan Hoppar <zoltanh721@fedoraproject.org>\n"
 "Language-Team: Hungarian\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "$0 and reboot"
 msgstr ""
 
-#: src/client.js:402
+#: src/client.js:407
 msgid "$0 key ID"
 msgstr ""
 
@@ -175,7 +175,7 @@ msgstr "Tuned alkalmazás nem elérhető"
 msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/client.js:495 src/client.js:559
+#: src/client.js:500 src/client.js:564
 msgid "OS $0 not found"
 msgstr ""
 
