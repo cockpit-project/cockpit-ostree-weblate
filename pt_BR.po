@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-04 03:01+0000\n"
+"POT-Creation-Date: 2025-03-06 03:17+0000\n"
 "PO-Revision-Date: 2018-05-28 04:25+0000\n"
 "Last-Translator: Luis Carlos Peters Motta <luiscpmotta@gmail.com>\n"
 "Language-Team: Portuguese (Brazil)\n"
@@ -43,7 +43,7 @@ msgstr "Adicionar Outra Chave"
 msgid "Add new repository"
 msgstr "- Adicionar Novo Repositório"
 
-#: src/ostree.jsx:655 src/repositoryModals.jsx:168
+#: src/repositoryModals.jsx:168 src/ostree.jsx:655
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -57,13 +57,13 @@ msgstr "Adições"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:312 src/ostree.jsx:694 src/repositoryModals.jsx:445
+#: src/repositoryModals.jsx:445 src/ostree.jsx:312 src/ostree.jsx:694
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:359
 #: src/repositoryModals.jsx:100 src/repositoryModals.jsx:171
 #: src/repositoryModals.jsx:274 src/repositoryModals.jsx:383
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:359
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -115,7 +115,7 @@ msgstr "Causas de Implantação"
 msgid "Downgrades"
 msgstr "Downgrades"
 
-#: src/ostree.jsx:664 src/repositoryModals.jsx:279
+#: src/repositoryModals.jsx:279 src/ostree.jsx:664
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
@@ -267,7 +267,7 @@ msgstr "Por favor, forneça um nome válido"
 msgid "RPM repo metadata"
 msgstr "Metadados"
 
-#: src/ostree.jsx:449 src/ostree.jsx:647 src/repositoryModals.jsx:377
+#: src/repositoryModals.jsx:377 src/ostree.jsx:449 src/ostree.jsx:647
 msgid "Rebase"
 msgstr ""
 
@@ -309,14 +309,14 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:674 src/repositoryModals.jsx:118
+#: src/repositoryModals.jsx:118 src/ostree.jsx:674
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Repositório"
 
-#: src/ostree.jsx:690 src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
-#: src/repositoryModals.jsx:438
+#: src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
+#: src/repositoryModals.jsx:438 src/ostree.jsx:690
 msgid "Repository"
 msgstr "Repositório"
 

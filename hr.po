@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-04 03:01+0000\n"
+"POT-Creation-Date: 2025-03-06 03:17+0000\n"
 "PO-Revision-Date: 2020-06-15 21:40+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://translate.fedoraproject.org/projects/"
@@ -40,7 +40,7 @@ msgstr "Dodaj jedan drugi ključ"
 msgid "Add new repository"
 msgstr "– Dodaj novi repozitorij"
 
-#: src/ostree.jsx:655 src/repositoryModals.jsx:168
+#: src/repositoryModals.jsx:168 src/ostree.jsx:655
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -54,13 +54,13 @@ msgstr "Dodavanja"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:312 src/ostree.jsx:694 src/repositoryModals.jsx:445
+#: src/repositoryModals.jsx:445 src/ostree.jsx:312 src/ostree.jsx:694
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:359
 #: src/repositoryModals.jsx:100 src/repositoryModals.jsx:171
 #: src/repositoryModals.jsx:274 src/repositoryModals.jsx:383
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:359
 msgid "Cancel"
 msgstr "Odustani"
 
@@ -110,7 +110,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr "Vraćanje na stariju verziju"
 
-#: src/ostree.jsx:664 src/repositoryModals.jsx:279
+#: src/repositoryModals.jsx:279 src/ostree.jsx:664
 #, fuzzy
 msgid "Edit repository"
 msgstr "Repozitorij"
@@ -255,7 +255,7 @@ msgstr "Zadaj ispravno ime"
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/ostree.jsx:449 src/ostree.jsx:647 src/repositoryModals.jsx:377
+#: src/repositoryModals.jsx:377 src/ostree.jsx:449 src/ostree.jsx:647
 msgid "Rebase"
 msgstr ""
 
@@ -297,14 +297,14 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:674 src/repositoryModals.jsx:118
+#: src/repositoryModals.jsx:118 src/ostree.jsx:674
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Repozitorij"
 
-#: src/ostree.jsx:690 src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
-#: src/repositoryModals.jsx:438
+#: src/repositoryModals.jsx:127 src/repositoryModals.jsx:289
+#: src/repositoryModals.jsx:438 src/ostree.jsx:690
 msgid "Repository"
 msgstr "Repozitorij"
 
