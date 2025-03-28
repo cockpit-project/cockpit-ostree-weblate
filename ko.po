@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-27 03:22+0000\n"
-"PO-Revision-Date: 2023-12-06 16:43+0000\n"
+"PO-Revision-Date: 2025-03-29 04:24+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
-"Language-Team: Korean <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/ko/>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src/ostree.jsx:356
 msgid "$0 and reboot"
@@ -44,7 +44,7 @@ msgstr "추가"
 
 #: src/repositoryModals.jsx:319
 msgid "Begins with $0"
-msgstr "$0부터 시작합니다"
+msgstr "$0 와 함께 시작합니다"
 
 #: src/repositoryModals.jsx:445 src/ostree.jsx:312 src/ostree.jsx:694
 msgid "Branch"
@@ -318,7 +318,7 @@ msgstr "시스템이 최신 상태입니다"
 
 #: src/ostree.jsx:429 src/ostree.jsx:435 src/ostree.jsx:441
 msgid "System will rebase to $0, updated $1."
-msgstr "시스템은 $0로 재구성하며, $1을 최신화합니다."
+msgstr "시스템은 $0 로 재구성하며, $1 를 최신화합니다."
 
 #: src/deploymentModals.jsx:103
 msgid "Temporary files"
