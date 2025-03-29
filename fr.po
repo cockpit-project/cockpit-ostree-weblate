@@ -10,16 +10,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-29 03:20+0000\n"
-"PO-Revision-Date: 2023-03-26 17:20+0000\n"
-"Last-Translator: grimst <grimaitres@gmail.com>\n"
-"Language-Team: French <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/fr/>\n"
+"PO-Revision-Date: 2025-03-30 06:32+0000\n"
+"Last-Translator: Tom FRANZO <tom@franzo.fr>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src/ostree.jsx:362
 #, fuzzy
@@ -73,7 +73,7 @@ msgstr "Recherche de mises à jour"
 
 #: src/deploymentModals.jsx:80 src/ostree.jsx:909
 msgid "Clean up"
-msgstr ""
+msgstr "Nettoyer"
 
 #: src/deploymentModals.jsx:90
 #, fuzzy
@@ -151,7 +151,7 @@ msgstr "Signature invalide"
 
 #: src/repositoryModals.jsx:430
 msgid "Loading branches"
-msgstr ""
+msgstr "Chargement des branches"
 
 #: src/repositoryModals.jsx:187
 msgid "Name"
@@ -193,7 +193,7 @@ msgstr "OSTree non disponible sur ce système"
 
 #: src/ostree.jsx:693
 msgid "OSTree source"
-msgstr ""
+msgstr "Source OSTree"
 
 #: src/ostree.jsx:213
 msgid "Operating system"
@@ -209,7 +209,7 @@ msgstr "Paquets"
 
 #: src/deploymentModals.jsx:201
 msgid "Packages which have been added to the system"
-msgstr ""
+msgstr "Paquets qui ont été ajoutés au système"
 
 #: src/deploymentModals.jsx:115
 #, fuzzy
@@ -235,7 +235,7 @@ msgstr "Veuillez indiquer un nom valide"
 
 #: src/deploymentModals.jsx:109
 msgid "RPM repo metadata"
-msgstr ""
+msgstr "Métadonnées du dépôt RPM"
 
 #: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
 msgid "Rebase"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: src/repositoryModals.jsx:435
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "Changer le dépôt et la branche de base"
 
 #: src/ostree.jsx:155
 msgid "Reconnect"
@@ -281,6 +281,8 @@ msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr ""
+"Supprime les ajouts ou substitutions de paquets afin de rétablir l’état d’"
+"origine de l’environnement actuel."
 
 #: src/repositoryModals.jsx:119 src/ostree.jsx:682
 #, fuzzy
@@ -301,7 +303,7 @@ msgstr "Préconfigurer"
 
 #: src/deploymentModals.jsx:169
 msgid "Reset to original state"
-msgstr ""
+msgstr "Réinitialiser à l’état d’origine"
 
 #: src/ostree.jsx:456
 #, fuzzy
@@ -317,11 +319,11 @@ msgstr "Échec du roll back du déploiement"
 
 #: src/repositoryModals.jsx:272
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: src/repositoryModals.jsx:215
 msgid "Security"
-msgstr ""
+msgstr "Sécurité"
 
 #: src/ostree.jsx:519
 msgid "Signatures"
@@ -345,6 +347,8 @@ msgstr "État du CPU"
 #: src/deploymentModals.jsx:208
 msgid "Substitutions of packages normally included in an OS build"
 msgstr ""
+"Substitutions de paquets normalement inclus dans une construction du système "
+"d’exploitation"
 
 #: src/ostree.jsx:110 src/ostree.jsx:591
 msgid "System is up to date"
@@ -352,11 +356,11 @@ msgstr "Le système est à jour"
 
 #: src/ostree.jsx:437 src/ostree.jsx:443 src/ostree.jsx:449
 msgid "System will rebase to $0, updated $1."
-msgstr ""
+msgstr "Le système va être rebasé vers $0, mis à jour $1."
 
 #: src/deploymentModals.jsx:103
 msgid "Temporary files"
-msgstr ""
+msgstr "Fichiers temporaires"
 
 #: src/ostree.jsx:177
 msgid ""
@@ -367,7 +371,7 @@ msgstr ""
 
 #: src/ostree.jsx:314
 msgid "Time"
-msgstr ""
+msgstr "Temps"
 
 #: src/ostree.jsx:509
 msgid "Tree"
@@ -383,7 +387,7 @@ msgstr "Impossible de communiquer avec OSTree"
 
 #: src/ostree.jsx:554
 msgid "Unpin"
-msgstr ""
+msgstr "Détacher"
 
 #: src/ostree.jsx:455
 #, fuzzy
