@@ -10,10 +10,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-30 03:28+0000\n"
-"PO-Revision-Date: 2025-03-30 06:32+0000\n"
-"Last-Translator: Tom FRANZO <tom@franzo.fr>\n"
-"Language-Team: French <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/fr/>\n"
+"PO-Revision-Date: 2025-04-02 00:08+0000\n"
+"Last-Translator: Adrien D <email@linuxtricks.fr>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"cockpit-ostree/main/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,10 +22,8 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #: src/ostree.jsx:362
-#, fuzzy
-#| msgid "Rebase and reboot"
 msgid "$0 and reboot"
-msgstr "Rebaser et redémarrer"
+msgstr "$0 et redémarrer"
 
 #: src/client.js:407
 msgid "$0 key ID"
@@ -40,10 +38,8 @@ msgid "Add new repository"
 msgstr "Ajouter un nouveau dépôt"
 
 #: src/repositoryModals.jsx:169 src/ostree.jsx:663
-#, fuzzy
-#| msgid "Add new repository"
 msgid "Add repository"
-msgstr "Ajouter un nouveau dépôt"
+msgstr "Ajouter un dépôt"
 
 #: src/ostree.jsx:194
 msgid "Additions"
@@ -76,10 +72,8 @@ msgid "Clean up"
 msgstr "Nettoyer"
 
 #: src/deploymentModals.jsx:90
-#, fuzzy
-#| msgid "Failed to upgrade deployment"
 msgid "Clear cache and deployments"
-msgstr "Échec de la mise à niveau"
+msgstr "Effacer le cache et les déploiements"
 
 #: src/ostree.jsx:418
 msgid "Close"
@@ -90,10 +84,8 @@ msgid "Connecting to OSTree"
 msgstr "Connexion à OSTree"
 
 #: src/ostree.jsx:405
-#, fuzzy
-#| msgid "Parent"
 msgid "Current"
-msgstr "Parent"
+msgstr "Actuel"
 
 #: src/ostree.jsx:569
 msgid "Delete"
@@ -108,10 +100,8 @@ msgid "Downgrades"
 msgstr "Rétrogradations"
 
 #: src/repositoryModals.jsx:280 src/ostree.jsx:672
-#, fuzzy
-#| msgid "Add new repository"
 msgid "Edit repository"
-msgstr "Ajouter un nouveau dépôt"
+msgstr "Éditer le dépôt"
 
 #: src/ostree.jsx:847
 msgid "Error loading remotes: $0"
@@ -158,10 +148,8 @@ msgid "Name"
 msgstr "Nom"
 
 #: src/ostree.jsx:428
-#, fuzzy
-#| msgid "Network"
 msgid "New"
-msgstr "Réseau"
+msgstr "Nouveau"
 
 #: src/ostree.jsx:753
 msgid "No OSTree deployments found"
@@ -212,18 +200,16 @@ msgid "Packages which have been added to the system"
 msgstr "Paquets qui ont été ajoutés au système"
 
 #: src/deploymentModals.jsx:115
-#, fuzzy
-#| msgid "No deployments"
 msgid "Pending deployment"
-msgstr "Aucun déploiement"
+msgstr "Déploiement en attente"
 
 #: src/ostree.jsx:554
 msgid "Pin"
-msgstr ""
+msgstr "Épingler"
 
 #: src/ostree.jsx:407
 msgid "Pinned"
-msgstr ""
+msgstr "Épinglé"
 
 #: src/repositoryModals.jsx:212
 msgid "Please provide a valid URL"
@@ -258,23 +244,16 @@ msgid "Removals"
 msgstr "Supprimés"
 
 #: src/repositoryModals.jsx:98
-#, fuzzy
-#| msgid "Removals"
 msgid "Remove"
-msgstr "Supprimés"
+msgstr "Supprimer"
 
 #: src/deploymentModals.jsx:196
-#, fuzzy
-#| msgid "Removals"
 msgid "Remove overlays"
-msgstr "Supprimés"
+msgstr "Supprimer les overlays"
 
 #: src/deploymentModals.jsx:203
-#, fuzzy
-#| msgctxt "storage"
-#| msgid "Removable Drive"
 msgid "Remove overrides"
-msgstr "Périphérique amovible"
+msgstr "Supprimer les surcharges"
 
 #: src/deploymentModals.jsx:193
 msgid ""
@@ -285,10 +264,8 @@ msgstr ""
 "d’origine de l’environnement actuel."
 
 #: src/repositoryModals.jsx:119 src/ostree.jsx:682
-#, fuzzy
-#| msgid "Repository"
 msgid "Remove repository"
-msgstr "Dépôt"
+msgstr "Supprimer le dépôt"
 
 #: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
 #: src/repositoryModals.jsx:445 src/ostree.jsx:698
@@ -296,26 +273,20 @@ msgid "Repository"
 msgstr "Dépôt"
 
 #: src/deploymentModals.jsx:179 src/ostree.jsx:915
-#, fuzzy
-#| msgid "Preset"
 msgid "Reset"
-msgstr "Préconfigurer"
+msgstr "Réinitialiser"
 
 #: src/deploymentModals.jsx:169
 msgid "Reset to original state"
 msgstr "Réinitialiser à l’état d’origine"
 
 #: src/ostree.jsx:456
-#, fuzzy
-#| msgid "Roll back and reboot"
 msgid "Roll back"
-msgstr "Rétrograder et redémarrer"
+msgstr "Rétrograder"
 
 #: src/deploymentModals.jsx:121
-#, fuzzy
-#| msgid "Failed to roll back deployment"
 msgid "Rollback deployment"
-msgstr "Échec du roll back du déploiement"
+msgstr "Rétrograder le déploiement"
 
 #: src/repositoryModals.jsx:272
 msgid "Save"
@@ -338,11 +309,8 @@ msgid "Software updates"
 msgstr "Mises à jour de logiciel"
 
 #: src/ostree.jsx:310 src/ostree.jsx:616
-#, fuzzy
-#| msgctxt "page-title"
-#| msgid "CPU Status"
 msgid "Status"
-msgstr "État du CPU"
+msgstr "État"
 
 #: src/deploymentModals.jsx:208
 msgid "Substitutions of packages normally included in an OS build"
@@ -390,16 +358,12 @@ msgid "Unpin"
 msgstr "Détacher"
 
 #: src/ostree.jsx:455
-#, fuzzy
-#| msgid "Updates"
 msgid "Update"
-msgstr "Mises à jour"
+msgstr "Mise à jour"
 
 #: src/ostree.jsx:585
-#, fuzzy
-#| msgid "Update available: $0"
 msgid "Update available"
-msgstr "Mise à jour disponible : $0"
+msgstr "Mise à jour disponible"
 
 #: src/ostree.jsx:116
 msgid "Update available: $0"
