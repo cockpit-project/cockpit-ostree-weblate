@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-02 03:25+0000\n"
+"POT-Creation-Date: 2025-04-29 03:29+0000\n"
 "PO-Revision-Date: 2018-05-03 04:56+0000\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan\n"
@@ -40,7 +40,7 @@ msgstr "Afegeix una altra clau"
 msgid "Add new repository"
 msgstr "- Afegeix un dipòsit nou"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:663
+#: src/ostree.jsx:663 src/repositoryModals.jsx:169
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -54,13 +54,13 @@ msgstr "Addicions"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:452 src/ostree.jsx:318 src/ostree.jsx:702
+#: src/ostree.jsx:318 src/ostree.jsx:702 src/repositoryModals.jsx:452
 msgid "Branch"
 msgstr ""
 
-#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
+#: src/ostree.jsx:365 src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
 #: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172 src/ostree.jsx:365
+#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
 msgid "Cancel"
 msgstr "Cancel·la"
 
@@ -74,7 +74,7 @@ msgstr "Comprovació per si hi ha actualitzacions"
 msgid "Checking for updates"
 msgstr "Comprovació per si hi ha actualitzacions"
 
-#: src/deploymentModals.jsx:80 src/ostree.jsx:909
+#: src/ostree.jsx:909 src/deploymentModals.jsx:80
 msgid "Clean up"
 msgstr ""
 
@@ -112,7 +112,7 @@ msgstr "Causes del desplegament"
 msgid "Downgrades"
 msgstr "Reversions"
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:672
+#: src/ostree.jsx:672 src/repositoryModals.jsx:280
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
@@ -264,7 +264,7 @@ msgstr "Si us plau, proporcioneu un nom vàlid"
 msgid "RPM repo metadata"
 msgstr "Metadades"
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
+#: src/ostree.jsx:457 src/ostree.jsx:655 src/repositoryModals.jsx:378
 msgid "Rebase"
 msgstr ""
 
@@ -306,18 +306,18 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:682
+#: src/ostree.jsx:682 src/repositoryModals.jsx:119
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Dipòsit"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:445 src/ostree.jsx:698
+#: src/ostree.jsx:698 src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:445
 msgid "Repository"
 msgstr "Dipòsit"
 
-#: src/deploymentModals.jsx:179 src/ostree.jsx:915
+#: src/ostree.jsx:915 src/deploymentModals.jsx:179
 msgid "Reset"
 msgstr "Restableix"
 
