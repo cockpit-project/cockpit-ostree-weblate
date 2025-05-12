@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 03:34+0000\n"
+"POT-Creation-Date: 2025-05-12 03:36+0000\n"
 "PO-Revision-Date: 2018-03-15 07:47+0000\n"
 "Last-Translator: Mikel Olasagasti Uranga <mikel@olasagasti.info>\n"
 "Language-Team: Basque\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Add new repository"
 msgstr "Gehitu erabiltzaile berria"
 
-#: src/ostree.jsx:663 src/repositoryModals.jsx:169
+#: src/repositoryModals.jsx:169 src/ostree.jsx:663
 #, fuzzy
 #| msgid "Add New User"
 msgid "Add repository"
@@ -46,13 +46,13 @@ msgstr ""
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:318 src/ostree.jsx:702 src/repositoryModals.jsx:452
+#: src/repositoryModals.jsx:452 src/ostree.jsx:318 src/ostree.jsx:702
 msgid "Branch"
 msgstr ""
 
-#: src/ostree.jsx:365 src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
 #: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
+#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:365
 msgid "Cancel"
 msgstr ""
 
@@ -64,7 +64,7 @@ msgstr ""
 msgid "Checking for updates"
 msgstr ""
 
-#: src/ostree.jsx:909 src/deploymentModals.jsx:80
+#: src/deploymentModals.jsx:80 src/ostree.jsx:909
 msgid "Clean up"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/ostree.jsx:672 src/repositoryModals.jsx:280
+#: src/repositoryModals.jsx:280 src/ostree.jsx:672
 #, fuzzy
 #| msgid "Add New User"
 msgid "Edit repository"
@@ -222,7 +222,7 @@ msgstr ""
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/ostree.jsx:457 src/ostree.jsx:655 src/repositoryModals.jsx:378
+#: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
 msgid "Rebase"
 msgstr ""
 
@@ -260,18 +260,18 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:682 src/repositoryModals.jsx:119
+#: src/repositoryModals.jsx:119 src/ostree.jsx:682
 #, fuzzy
 #| msgid "Add New User"
 msgid "Remove repository"
 msgstr "Gehitu erabiltzaile berria"
 
-#: src/ostree.jsx:698 src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:445
+#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:445 src/ostree.jsx:698
 msgid "Repository"
 msgstr ""
 
-#: src/ostree.jsx:915 src/deploymentModals.jsx:179
+#: src/deploymentModals.jsx:179 src/ostree.jsx:915
 msgid "Reset"
 msgstr ""
 
