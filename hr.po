@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 03:36+0000\n"
+"POT-Creation-Date: 2025-05-16 03:34+0000\n"
 "PO-Revision-Date: 2020-06-15 21:40+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://translate.fedoraproject.org/projects/"
@@ -40,7 +40,7 @@ msgstr "Dodaj jedan drugi ključ"
 msgid "Add new repository"
 msgstr "– Dodaj novi repozitorij"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:663
+#: src/ostree.jsx:663 src/repositoryModals.jsx:169
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -54,13 +54,13 @@ msgstr "Dodavanja"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:452 src/ostree.jsx:318 src/ostree.jsx:702
+#: src/ostree.jsx:318 src/ostree.jsx:702 src/repositoryModals.jsx:452
 msgid "Branch"
 msgstr ""
 
+#: src/ostree.jsx:365 src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
+#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
 #: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
-#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:365
 msgid "Cancel"
 msgstr "Odustani"
 
@@ -74,7 +74,7 @@ msgstr "Traženje novih verzija"
 msgid "Checking for updates"
 msgstr "Traženje novih verzija"
 
-#: src/deploymentModals.jsx:80 src/ostree.jsx:909
+#: src/ostree.jsx:909 src/deploymentModals.jsx:80
 msgid "Clean up"
 msgstr ""
 
@@ -110,7 +110,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr "Vraćanje na stariju verziju"
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:672
+#: src/ostree.jsx:672 src/repositoryModals.jsx:280
 #, fuzzy
 msgid "Edit repository"
 msgstr "Repozitorij"
@@ -255,7 +255,7 @@ msgstr "Zadaj ispravno ime"
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
+#: src/ostree.jsx:457 src/ostree.jsx:655 src/repositoryModals.jsx:378
 msgid "Rebase"
 msgstr ""
 
@@ -297,18 +297,18 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:682
+#: src/ostree.jsx:682 src/repositoryModals.jsx:119
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Repozitorij"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:445 src/ostree.jsx:698
+#: src/ostree.jsx:698 src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
+#: src/repositoryModals.jsx:445
 msgid "Repository"
 msgstr "Repozitorij"
 
-#: src/deploymentModals.jsx:179 src/ostree.jsx:915
+#: src/ostree.jsx:915 src/deploymentModals.jsx:179
 msgid "Reset"
 msgstr ""
 
