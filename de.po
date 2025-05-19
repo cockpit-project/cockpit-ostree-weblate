@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 03:34+0000\n"
+"POT-Creation-Date: 2025-05-19 03:39+0000\n"
 "PO-Revision-Date: 2025-05-05 07:41+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit-"
@@ -55,9 +55,9 @@ msgstr "Beginnt mit $0"
 msgid "Branch"
 msgstr "Zweig"
 
-#: src/ostree.jsx:365 src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
+#: src/ostree.jsx:365 src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
 #: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
 msgid "Cancel"
 msgstr "Abbrechen"
 
