@@ -9,26 +9,28 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-02 03:44+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-02 17:18+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
+"projects/cockpit/cockpit-ostree/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Cockpit manifest2po\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/ostree.jsx:362
 msgid "$0 and reboot"
-msgstr ""
+msgstr "$0 and reboot"
 
 #: src/client.js:407
 msgid "$0 key ID"
-msgstr ""
+msgstr "$0 key ID"
 
 #: src/repositoryModals.jsx:318
 msgid "Add another key"
-msgstr ""
+msgstr "Add another key"
 
 #: src/repositoryModals.jsx:179
 msgid "Add new repository"
