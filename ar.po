@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-02 03:44+0000\n"
-"PO-Revision-Date: 2025-05-24 00:44+0000\n"
+"PO-Revision-Date: 2025-06-08 23:57+0000\n"
 "Last-Translator: عمّار عبدالله <ammar-dmour19@proton.me>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/ar/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/ostree.jsx:362
 msgid "$0 and reboot"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: src/repositoryModals.jsx:187
 msgid "Name"
-msgstr ""
+msgstr "الاسم"
 
 #: src/ostree.jsx:428
 msgid "New"
