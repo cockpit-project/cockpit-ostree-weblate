@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-15 03:45+0000\n"
-"PO-Revision-Date: 2025-06-15 16:55+0000\n"
+"PO-Revision-Date: 2025-06-15 23:40+0000\n"
 "Last-Translator: عمّار عبدالله <ammar-dmour19@proton.me>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/ar/>\n"
@@ -189,7 +189,7 @@ msgstr "نظام تشغيل"
 
 #: src/ostree.jsx:225
 msgid "Origin"
-msgstr ""
+msgstr "المصدر"
 
 #: src/ostree.jsx:514
 msgid "Packages"
@@ -197,114 +197,114 @@ msgstr "حزم"
 
 #: src/deploymentModals.jsx:201
 msgid "Packages which have been added to the system"
-msgstr ""
+msgstr "الحزم التي تمت إضافتها إلى النظام"
 
 #: src/deploymentModals.jsx:115
 msgid "Pending deployment"
-msgstr ""
+msgstr "نشر معلَّق"
 
 #: src/ostree.jsx:554
 msgid "Pin"
-msgstr ""
+msgstr "ثبّت"
 
 #: src/ostree.jsx:407
 msgid "Pinned"
-msgstr ""
+msgstr "مثبَّت"
 
 #: src/repositoryModals.jsx:212
 msgid "Please provide a valid URL"
-msgstr ""
+msgstr "يُرجى تقديم عنوان URL صالح"
 
 #: src/repositoryModals.jsx:198
 msgid "Please provide a valid name"
-msgstr ""
+msgstr "يُرجى تقديم اسم صالح"
 
 #: src/deploymentModals.jsx:109
 msgid "RPM repo metadata"
-msgstr ""
+msgstr "بيانات مستودع RPM الوصفية"
 
 #: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
 msgid "Rebase"
-msgstr ""
+msgstr "إعادة التأسيس"
 
 #: src/repositoryModals.jsx:435
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "إعادة تأسيس المستودع والفرع"
 
 #: src/ostree.jsx:155
 msgid "Reconnect"
-msgstr ""
+msgstr "إعادة الاتصال"
 
 #: src/ostree.jsx:221
 msgid "Released"
-msgstr ""
+msgstr "تم إصداره"
 
 #: src/ostree.jsx:195
 msgid "Removals"
-msgstr ""
+msgstr "عمليات الإزالة"
 
 #: src/repositoryModals.jsx:98
 msgid "Remove"
-msgstr ""
+msgstr "إزالة"
 
 #: src/deploymentModals.jsx:196
 msgid "Remove overlays"
-msgstr ""
+msgstr "‎إزالة التراكبات"
 
 #: src/deploymentModals.jsx:203
 msgid "Remove overrides"
-msgstr ""
+msgstr "إزالة التجاوزات"
 
 #: src/deploymentModals.jsx:193
 msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
-msgstr ""
+msgstr "إزالة إضافات أو بدائل الحزمة لإعادة النشر الحالي إلى حالته الأصلية."
 
 #: src/repositoryModals.jsx:119 src/ostree.jsx:682
 msgid "Remove repository"
-msgstr ""
+msgstr "إزالة المستودع"
 
 #: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
 #: src/repositoryModals.jsx:445 src/ostree.jsx:698
 msgid "Repository"
-msgstr ""
+msgstr "مستودع"
 
 #: src/ostree.jsx:915 src/deploymentModals.jsx:179
 msgid "Reset"
-msgstr ""
+msgstr "إهادة تعيين"
 
 #: src/deploymentModals.jsx:169
 msgid "Reset to original state"
-msgstr ""
+msgstr "إعادة التعيين إلى الحالة الأصلية"
 
 #: src/ostree.jsx:456
 msgid "Roll back"
-msgstr ""
+msgstr "التراجع"
 
 #: src/deploymentModals.jsx:121
 msgid "Rollback deployment"
-msgstr ""
+msgstr "إعادة النشر"
 
 #: src/repositoryModals.jsx:272
 msgid "Save"
-msgstr ""
+msgstr "حفظ"
 
 #: src/repositoryModals.jsx:215
 msgid "Security"
-msgstr ""
+msgstr "الحماية"
 
 #: src/ostree.jsx:519
 msgid "Signatures"
-msgstr ""
+msgstr "التواقيع"
 
 #: src/ostree.jsx:241
 msgid "Signed by"
-msgstr ""
+msgstr "مسجَّل من قبل"
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
+msgstr "تحديثات التطبيق"
 
 #: src/ostree.jsx:310 src/ostree.jsx:616
 msgid "Status"
@@ -324,52 +324,53 @@ msgstr ""
 
 #: src/deploymentModals.jsx:103
 msgid "Temporary files"
-msgstr ""
+msgstr "الملفات المؤقتة"
 
 #: src/ostree.jsx:177
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
+"يحتوي هذا النشر على نفس الحزم التي يحتوي عليها نظامك الذي تم تشغيله حاليًا"
 
 #: src/ostree.jsx:314
 msgid "Time"
-msgstr ""
+msgstr "وقت"
 
 #: src/ostree.jsx:509
 msgid "Tree"
-msgstr ""
+msgstr "شجرة"
 
 #: src/repositoryModals.jsx:201 src/repositoryModals.jsx:300
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/ostree.jsx:143
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "تعذر الاتصال مع OSTree"
 
 #: src/ostree.jsx:554
 msgid "Unpin"
-msgstr ""
+msgstr "إزالة التثبيت"
 
 #: src/ostree.jsx:455
 msgid "Update"
-msgstr ""
+msgstr "تحديث"
 
 #: src/ostree.jsx:585
 msgid "Update available"
-msgstr ""
+msgstr "تحديث متوفر"
 
 #: src/ostree.jsx:116
 msgid "Update available: $0"
-msgstr ""
+msgstr "التحديث المتوفر: $0"
 
 #: src/ostree.jsx:196
 msgid "Updates"
-msgstr ""
+msgstr "التحديثات"
 
 #: src/ostree.jsx:403
 msgid "Updating"
-msgstr ""
+msgstr "التحديث"
 
 #: src/repositoryModals.jsx:220 src/repositoryModals.jsx:309
 msgid "Use trusted GPG key"
@@ -385,8 +386,8 @@ msgstr ""
 
 #: src/ostree.jsx:245
 msgid "When"
-msgstr ""
+msgstr "عندما"
 
 #: src/ostree.jsx:422
 msgid "view more..."
-msgstr ""
+msgstr "عرض المزيد.."
