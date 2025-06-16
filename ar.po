@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-15 03:45+0000\n"
-"PO-Revision-Date: 2025-06-15 23:40+0000\n"
+"PO-Revision-Date: 2025-06-16 20:31+0000\n"
 "Last-Translator: عمّار عبدالله <ammar-dmour19@proton.me>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/ar/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: src/ostree.jsx:362
 msgid "$0 and reboot"
@@ -312,15 +312,15 @@ msgstr "الحالة"
 
 #: src/deploymentModals.jsx:208
 msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
+msgstr "بدائل الحزم المضمنة عادةً في بناء نظام التشغيل"
 
 #: src/ostree.jsx:110 src/ostree.jsx:591
 msgid "System is up to date"
-msgstr ""
+msgstr "النظام محدَّث"
 
 #: src/ostree.jsx:437 src/ostree.jsx:443 src/ostree.jsx:449
 msgid "System will rebase to $0, updated $1."
-msgstr ""
+msgstr "سيعيد النظام التأسيس لـ $0، تم تحديث $1."
 
 #: src/deploymentModals.jsx:103
 msgid "Temporary files"
@@ -374,15 +374,15 @@ msgstr "التحديث"
 
 #: src/repositoryModals.jsx:220 src/repositoryModals.jsx:309
 msgid "Use trusted GPG key"
-msgstr ""
+msgstr "استخدم مفتاح GPG موثوق به"
 
 #: src/ostree.jsx:253
 msgid "Validity"
-msgstr ""
+msgstr "الصلاحية"
 
 #: src/ostree.jsx:217 src/ostree.jsx:306
 msgid "Version"
-msgstr ""
+msgstr "الإصدار"
 
 #: src/ostree.jsx:245
 msgid "When"
