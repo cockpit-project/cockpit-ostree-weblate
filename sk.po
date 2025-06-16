@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-15 03:45+0000\n"
+"POT-Creation-Date: 2025-06-16 03:45+0000\n"
 "PO-Revision-Date: 2024-07-13 13:38+0000\n"
 "Last-Translator: Jose Riha <jose1711@gmail.com>\n"
 "Language-Team: Slovak <https://translate.fedoraproject.org/projects/cockpit-"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 5.6.2\n"
 
-#: src/ostree.jsx:362
+#: src/ostree.jsx:388
 msgid "$0 and reboot"
 msgstr "$0 a reštartovať"
 
@@ -28,15 +28,15 @@ msgstr "$0 a reštartovať"
 msgid "$0 key ID"
 msgstr "Identifikátor kľúča $0"
 
-#: src/repositoryModals.jsx:318
+#: src/repositoryModals.jsx:309
 msgid "Add another key"
 msgstr "Pridať ďalší kľúč"
 
-#: src/repositoryModals.jsx:179
+#: src/repositoryModals.jsx:172
 msgid "Add new repository"
 msgstr "Pridať nový repozitár"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:663
+#: src/repositoryModals.jsx:221 src/ostree.jsx:663
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -46,17 +46,17 @@ msgstr "- Pridať nový repozitár"
 msgid "Additions"
 msgstr ""
 
-#: src/repositoryModals.jsx:320
+#: src/repositoryModals.jsx:311
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:452 src/ostree.jsx:318 src/ostree.jsx:702
+#: src/repositoryModals.jsx:437 src/ostree.jsx:318 src/ostree.jsx:702
 msgid "Branch"
 msgstr ""
 
-#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:365
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
+#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460 src/ostree.jsx:391
+#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
 msgid "Cancel"
 msgstr "Zrušiť"
 
@@ -70,11 +70,11 @@ msgstr "Kontrolovanie aktualizácií"
 msgid "Checking for updates"
 msgstr "Kontrolovanie aktualizácií"
 
-#: src/ostree.jsx:909 src/deploymentModals.jsx:80
+#: src/ostree.jsx:909 src/deploymentModals.jsx:122
 msgid "Clean up"
 msgstr ""
 
-#: src/deploymentModals.jsx:90
+#: src/deploymentModals.jsx:80
 #, fuzzy
 #| msgid "No Deployments"
 msgid "Clear cache and deployments"
@@ -104,7 +104,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:672
+#: src/repositoryModals.jsx:277 src/ostree.jsx:672
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Edit repository"
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Failed to upgrade deployment"
 msgstr "Žiadne nasadenia"
 
-#: src/repositoryModals.jsx:323
+#: src/repositoryModals.jsx:314
 msgid "GPG public key"
 msgstr ""
 
@@ -156,11 +156,11 @@ msgstr "Dobrý podpis"
 msgid "Invalid signature"
 msgstr "Nesprávny podpis"
 
-#: src/repositoryModals.jsx:430
+#: src/repositoryModals.jsx:415
 msgid "Loading branches"
 msgstr ""
 
-#: src/repositoryModals.jsx:187
+#: src/repositoryModals.jsx:176
 msgid "Name"
 msgstr "Názov"
 
@@ -218,11 +218,11 @@ msgstr "Pôvod"
 msgid "Packages"
 msgstr "Balíky"
 
-#: src/deploymentModals.jsx:201
+#: src/deploymentModals.jsx:189
 msgid "Packages which have been added to the system"
 msgstr ""
 
-#: src/deploymentModals.jsx:115
+#: src/deploymentModals.jsx:101
 #, fuzzy
 #| msgid "No Deployments"
 msgid "Pending deployment"
@@ -236,23 +236,23 @@ msgstr ""
 msgid "Pinned"
 msgstr ""
 
-#: src/repositoryModals.jsx:212
+#: src/repositoryModals.jsx:201
 msgid "Please provide a valid URL"
 msgstr ""
 
-#: src/repositoryModals.jsx:198
+#: src/repositoryModals.jsx:187
 msgid "Please provide a valid name"
 msgstr ""
 
-#: src/deploymentModals.jsx:109
+#: src/deploymentModals.jsx:95
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
+#: src/repositoryModals.jsx:454 src/ostree.jsx:457 src/ostree.jsx:655
 msgid "Rebase"
 msgstr ""
 
-#: src/repositoryModals.jsx:435
+#: src/repositoryModals.jsx:426
 msgid "Rebase repository and branch"
 msgstr ""
 
@@ -268,42 +268,42 @@ msgstr "Vydaný"
 msgid "Removals"
 msgstr ""
 
-#: src/repositoryModals.jsx:98
+#: src/repositoryModals.jsx:129
 msgid "Remove"
 msgstr ""
 
-#: src/deploymentModals.jsx:196
+#: src/deploymentModals.jsx:184
 msgid "Remove overlays"
 msgstr ""
 
-#: src/deploymentModals.jsx:203
+#: src/deploymentModals.jsx:191
 msgid "Remove overrides"
 msgstr ""
 
-#: src/deploymentModals.jsx:193
+#: src/deploymentModals.jsx:181
 msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:682
+#: src/repositoryModals.jsx:111 src/ostree.jsx:682
 #, fuzzy
 #| msgid "Change Repository"
 msgid "Remove repository"
 msgstr "Zmeniť repozitár"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:445 src/ostree.jsx:698
+#: src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
+#: src/repositoryModals.jsx:430 src/ostree.jsx:698
 #, fuzzy
 #| msgid "Change Repository"
 msgid "Repository"
 msgstr "Zmeniť repozitár"
 
-#: src/ostree.jsx:915 src/deploymentModals.jsx:179
+#: src/ostree.jsx:915 src/deploymentModals.jsx:170
 msgid "Reset"
 msgstr ""
 
-#: src/deploymentModals.jsx:169
+#: src/deploymentModals.jsx:206
 msgid "Reset to original state"
 msgstr ""
 
@@ -311,17 +311,17 @@ msgstr ""
 msgid "Roll back"
 msgstr ""
 
-#: src/deploymentModals.jsx:121
+#: src/deploymentModals.jsx:107
 #, fuzzy
 #| msgid "No Deployments"
 msgid "Rollback deployment"
 msgstr "Žiadne nasadenia"
 
-#: src/repositoryModals.jsx:272
+#: src/repositoryModals.jsx:320
 msgid "Save"
 msgstr ""
 
-#: src/repositoryModals.jsx:215
+#: src/repositoryModals.jsx:204
 msgid "Security"
 msgstr ""
 
@@ -345,7 +345,7 @@ msgstr ""
 msgid "Status"
 msgstr "Stav"
 
-#: src/deploymentModals.jsx:208
+#: src/deploymentModals.jsx:196
 msgid "Substitutions of packages normally included in an OS build"
 msgstr ""
 
@@ -357,7 +357,7 @@ msgstr ""
 msgid "System will rebase to $0, updated $1."
 msgstr ""
 
-#: src/deploymentModals.jsx:103
+#: src/deploymentModals.jsx:89
 msgid "Temporary files"
 msgstr ""
 
@@ -374,7 +374,7 @@ msgstr ""
 msgid "Tree"
 msgstr "Strom"
 
-#: src/repositoryModals.jsx:201 src/repositoryModals.jsx:300
+#: src/repositoryModals.jsx:190 src/repositoryModals.jsx:291
 msgid "URL"
 msgstr "URL"
 
@@ -408,7 +408,7 @@ msgstr ""
 msgid "Updating"
 msgstr ""
 
-#: src/repositoryModals.jsx:220 src/repositoryModals.jsx:309
+#: src/repositoryModals.jsx:209 src/repositoryModals.jsx:300
 msgid "Use trusted GPG key"
 msgstr ""
 

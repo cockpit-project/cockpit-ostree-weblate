@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-15 03:45+0000\n"
+"POT-Creation-Date: 2025-06-16 03:45+0000\n"
 "PO-Revision-Date: 2025-06-16 20:31+0000\n"
 "Last-Translator: عمّار عبدالله <ammar-dmour19@proton.me>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/cockpit/"
@@ -21,7 +21,7 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 5.12.1\n"
 
-#: src/ostree.jsx:362
+#: src/ostree.jsx:388
 msgid "$0 and reboot"
 msgstr "$0 وأعد تشغيل النظام"
 
@@ -29,15 +29,15 @@ msgstr "$0 وأعد تشغيل النظام"
 msgid "$0 key ID"
 msgstr "$0 مفتاح ID"
 
-#: src/repositoryModals.jsx:318
+#: src/repositoryModals.jsx:309
 msgid "Add another key"
 msgstr "إضافة مفتاح آخر"
 
-#: src/repositoryModals.jsx:179
+#: src/repositoryModals.jsx:172
 msgid "Add new repository"
 msgstr "إضافة مستودع جديد"
 
-#: src/repositoryModals.jsx:169 src/ostree.jsx:663
+#: src/repositoryModals.jsx:221 src/ostree.jsx:663
 msgid "Add repository"
 msgstr "إضافة مستودع"
 
@@ -45,17 +45,17 @@ msgstr "إضافة مستودع"
 msgid "Additions"
 msgstr "الإضافات"
 
-#: src/repositoryModals.jsx:320
+#: src/repositoryModals.jsx:311
 msgid "Begins with $0"
 msgstr "البدء مع $0"
 
-#: src/repositoryModals.jsx:452 src/ostree.jsx:318 src/ostree.jsx:702
+#: src/repositoryModals.jsx:437 src/ostree.jsx:318 src/ostree.jsx:702
 msgid "Branch"
 msgstr "فرع"
 
-#: src/repositoryModals.jsx:101 src/repositoryModals.jsx:172
-#: src/repositoryModals.jsx:275 src/repositoryModals.jsx:384 src/ostree.jsx:365
-#: src/deploymentModals.jsx:83 src/deploymentModals.jsx:172
+#: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
+#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460 src/ostree.jsx:391
+#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
 msgid "Cancel"
 msgstr "إلغاء"
 
@@ -67,11 +67,11 @@ msgstr "التحقق من تحديثات الحزمة..."
 msgid "Checking for updates"
 msgstr "التحقق من التحديثات"
 
-#: src/ostree.jsx:909 src/deploymentModals.jsx:80
+#: src/ostree.jsx:909 src/deploymentModals.jsx:122
 msgid "Clean up"
 msgstr "التنظيف"
 
-#: src/deploymentModals.jsx:90
+#: src/deploymentModals.jsx:80
 msgid "Clear cache and deployments"
 msgstr "مسح ذاكرة التخزين المؤقت وعمليات النشر"
 
@@ -99,7 +99,7 @@ msgstr "عمليات النشر والتحديثات"
 msgid "Downgrades"
 msgstr "التخفيضات"
 
-#: src/repositoryModals.jsx:280 src/ostree.jsx:672
+#: src/repositoryModals.jsx:277 src/ostree.jsx:672
 msgid "Edit repository"
 msgstr "تعديل المستودع"
 
@@ -127,7 +127,7 @@ msgstr "فشل في إلغاء التوزيع"
 msgid "Failed to upgrade deployment"
 msgstr "فشل تحديث التوزيع"
 
-#: src/repositoryModals.jsx:323
+#: src/repositoryModals.jsx:314
 msgid "GPG public key"
 msgstr "مفتاح GPG عام"
 
@@ -139,11 +139,11 @@ msgstr "توقيع جيد"
 msgid "Invalid signature"
 msgstr "توقيع غير صالح"
 
-#: src/repositoryModals.jsx:430
+#: src/repositoryModals.jsx:415
 msgid "Loading branches"
 msgstr "تحميل الفروع"
 
-#: src/repositoryModals.jsx:187
+#: src/repositoryModals.jsx:176
 msgid "Name"
 msgstr "الاسم"
 
@@ -195,11 +195,11 @@ msgstr "المصدر"
 msgid "Packages"
 msgstr "حزم"
 
-#: src/deploymentModals.jsx:201
+#: src/deploymentModals.jsx:189
 msgid "Packages which have been added to the system"
 msgstr "الحزم التي تمت إضافتها إلى النظام"
 
-#: src/deploymentModals.jsx:115
+#: src/deploymentModals.jsx:101
 msgid "Pending deployment"
 msgstr "نشر معلَّق"
 
@@ -211,23 +211,23 @@ msgstr "ثبّت"
 msgid "Pinned"
 msgstr "مثبَّت"
 
-#: src/repositoryModals.jsx:212
+#: src/repositoryModals.jsx:201
 msgid "Please provide a valid URL"
 msgstr "يُرجى تقديم عنوان URL صالح"
 
-#: src/repositoryModals.jsx:198
+#: src/repositoryModals.jsx:187
 msgid "Please provide a valid name"
 msgstr "يُرجى تقديم اسم صالح"
 
-#: src/deploymentModals.jsx:109
+#: src/deploymentModals.jsx:95
 msgid "RPM repo metadata"
 msgstr "بيانات مستودع RPM الوصفية"
 
-#: src/repositoryModals.jsx:378 src/ostree.jsx:457 src/ostree.jsx:655
+#: src/repositoryModals.jsx:454 src/ostree.jsx:457 src/ostree.jsx:655
 msgid "Rebase"
 msgstr "إعادة التأسيس"
 
-#: src/repositoryModals.jsx:435
+#: src/repositoryModals.jsx:426
 msgid "Rebase repository and branch"
 msgstr "إعادة تأسيس المستودع والفرع"
 
@@ -243,38 +243,38 @@ msgstr "تم إصداره"
 msgid "Removals"
 msgstr "عمليات الإزالة"
 
-#: src/repositoryModals.jsx:98
+#: src/repositoryModals.jsx:129
 msgid "Remove"
 msgstr "إزالة"
 
-#: src/deploymentModals.jsx:196
+#: src/deploymentModals.jsx:184
 msgid "Remove overlays"
 msgstr "‎إزالة التراكبات"
 
-#: src/deploymentModals.jsx:203
+#: src/deploymentModals.jsx:191
 msgid "Remove overrides"
 msgstr "إزالة التجاوزات"
 
-#: src/deploymentModals.jsx:193
+#: src/deploymentModals.jsx:181
 msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr "إزالة إضافات أو بدائل الحزمة لإعادة النشر الحالي إلى حالته الأصلية."
 
-#: src/repositoryModals.jsx:119 src/ostree.jsx:682
+#: src/repositoryModals.jsx:111 src/ostree.jsx:682
 msgid "Remove repository"
 msgstr "إزالة المستودع"
 
-#: src/repositoryModals.jsx:128 src/repositoryModals.jsx:290
-#: src/repositoryModals.jsx:445 src/ostree.jsx:698
+#: src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
+#: src/repositoryModals.jsx:430 src/ostree.jsx:698
 msgid "Repository"
 msgstr "مستودع"
 
-#: src/ostree.jsx:915 src/deploymentModals.jsx:179
+#: src/ostree.jsx:915 src/deploymentModals.jsx:170
 msgid "Reset"
 msgstr "إهادة تعيين"
 
-#: src/deploymentModals.jsx:169
+#: src/deploymentModals.jsx:206
 msgid "Reset to original state"
 msgstr "إعادة التعيين إلى الحالة الأصلية"
 
@@ -282,15 +282,15 @@ msgstr "إعادة التعيين إلى الحالة الأصلية"
 msgid "Roll back"
 msgstr "التراجع"
 
-#: src/deploymentModals.jsx:121
+#: src/deploymentModals.jsx:107
 msgid "Rollback deployment"
 msgstr "إعادة النشر"
 
-#: src/repositoryModals.jsx:272
+#: src/repositoryModals.jsx:320
 msgid "Save"
 msgstr "حفظ"
 
-#: src/repositoryModals.jsx:215
+#: src/repositoryModals.jsx:204
 msgid "Security"
 msgstr "الحماية"
 
@@ -310,7 +310,7 @@ msgstr "تحديثات التطبيق"
 msgid "Status"
 msgstr "الحالة"
 
-#: src/deploymentModals.jsx:208
+#: src/deploymentModals.jsx:196
 msgid "Substitutions of packages normally included in an OS build"
 msgstr "بدائل الحزم المضمنة عادةً في بناء نظام التشغيل"
 
@@ -322,7 +322,7 @@ msgstr "النظام محدَّث"
 msgid "System will rebase to $0, updated $1."
 msgstr "سيعيد النظام التأسيس لـ $0، تم تحديث $1."
 
-#: src/deploymentModals.jsx:103
+#: src/deploymentModals.jsx:89
 msgid "Temporary files"
 msgstr "الملفات المؤقتة"
 
@@ -340,7 +340,7 @@ msgstr "وقت"
 msgid "Tree"
 msgstr "شجرة"
 
-#: src/repositoryModals.jsx:201 src/repositoryModals.jsx:300
+#: src/repositoryModals.jsx:190 src/repositoryModals.jsx:291
 msgid "URL"
 msgstr "URL"
 
@@ -372,7 +372,7 @@ msgstr "التحديثات"
 msgid "Updating"
 msgstr "التحديث"
 
-#: src/repositoryModals.jsx:220 src/repositoryModals.jsx:309
+#: src/repositoryModals.jsx:209 src/repositoryModals.jsx:300
 msgid "Use trusted GPG key"
 msgstr "استخدم مفتاح GPG موثوق به"
 
