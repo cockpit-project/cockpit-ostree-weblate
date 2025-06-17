@@ -10,16 +10,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-16 03:45+0000\n"
-"PO-Revision-Date: 2025-04-02 20:53+0000\n"
+"PO-Revision-Date: 2025-06-17 11:10+0000\n"
 "Last-Translator: Léane GRASSER <leane.grasser@proton.me>\n"
-"Language-Team: French <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/fr/>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/cockpit/"
+"cockpit-ostree/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: src/ostree.jsx:388
 msgid "$0 and reboot"
@@ -97,7 +97,7 @@ msgstr "Déploiements et mises à jour"
 
 #: src/ostree.jsx:197
 msgid "Downgrades"
-msgstr "Rétrogradations"
+msgstr "Inst. ver. antérieure"
 
 #: src/repositoryModals.jsx:277 src/ostree.jsx:672
 msgid "Edit repository"
