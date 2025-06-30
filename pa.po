@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-19 03:40+0000\n"
+"POT-Creation-Date: 2025-06-30 03:46+0000\n"
 "PO-Revision-Date: 2017-05-12 11:11+0000\n"
 "Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
 "Language-Team: Punjabi\n"
@@ -33,7 +33,7 @@ msgstr ""
 msgid "Add new repository"
 msgstr "- ਨਵੀਂ ਰਿਪੋਜ਼ਟਰੀ ਜੋੜੋ"
 
-#: src/repositoryModals.jsx:221 src/ostree.jsx:663
+#: src/ostree.jsx:663 src/repositoryModals.jsx:221
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -47,13 +47,13 @@ msgstr ""
 msgid "Begins with $0"
 msgstr ""
 
-#: src/repositoryModals.jsx:437 src/ostree.jsx:318 src/ostree.jsx:702
+#: src/ostree.jsx:318 src/ostree.jsx:702 src/repositoryModals.jsx:437
 msgid "Branch"
 msgstr ""
 
+#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209 src/ostree.jsx:391
 #: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
-#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460 src/ostree.jsx:391
-#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
+#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460
 msgid "Cancel"
 msgstr ""
 
@@ -65,7 +65,7 @@ msgstr ""
 msgid "Checking for updates"
 msgstr ""
 
-#: src/ostree.jsx:909 src/deploymentModals.jsx:122
+#: src/deploymentModals.jsx:122 src/ostree.jsx:909
 msgid "Clean up"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Downgrades"
 msgstr ""
 
-#: src/repositoryModals.jsx:277 src/ostree.jsx:672
+#: src/ostree.jsx:672 src/repositoryModals.jsx:277
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Edit repository"
@@ -225,7 +225,7 @@ msgstr ""
 msgid "RPM repo metadata"
 msgstr ""
 
-#: src/repositoryModals.jsx:454 src/ostree.jsx:457 src/ostree.jsx:655
+#: src/ostree.jsx:457 src/ostree.jsx:655 src/repositoryModals.jsx:454
 msgid "Rebase"
 msgstr ""
 
@@ -263,20 +263,20 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/repositoryModals.jsx:111 src/ostree.jsx:682
+#: src/ostree.jsx:682 src/repositoryModals.jsx:111
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Remove repository"
 msgstr "- ਨਵੀਂ ਰਿਪੋਜ਼ਟਰੀ ਜੋੜੋ"
 
-#: src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
-#: src/repositoryModals.jsx:430 src/ostree.jsx:698
+#: src/ostree.jsx:698 src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
+#: src/repositoryModals.jsx:430
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Repository"
 msgstr "- ਨਵੀਂ ਰਿਪੋਜ਼ਟਰੀ ਜੋੜੋ"
 
-#: src/ostree.jsx:915 src/deploymentModals.jsx:170
+#: src/deploymentModals.jsx:170 src/ostree.jsx:915
 msgid "Reset"
 msgstr ""
 
