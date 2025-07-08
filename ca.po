@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-01 03:52+0000\n"
+"POT-Creation-Date: 2025-07-08 03:43+0000\n"
 "PO-Revision-Date: 2018-05-03 04:56+0000\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Zanata 4.4.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: src/ostree.jsx:388
+#: src/ostree.jsx:390
 #, fuzzy
 #| msgid "Update and Reboot"
 msgid "$0 and reboot"
@@ -40,13 +40,13 @@ msgstr "Afegeix una altra clau"
 msgid "Add new repository"
 msgstr "- Afegeix un dipòsit nou"
 
-#: src/ostree.jsx:663 src/repositoryModals.jsx:221
+#: src/ostree.jsx:665 src/repositoryModals.jsx:221
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
 msgstr "- Afegeix un dipòsit nou"
 
-#: src/ostree.jsx:194
+#: src/ostree.jsx:196
 msgid "Additions"
 msgstr "Addicions"
 
@@ -54,27 +54,27 @@ msgstr "Addicions"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:318 src/ostree.jsx:702 src/repositoryModals.jsx:437
+#: src/ostree.jsx:320 src/ostree.jsx:704 src/repositoryModals.jsx:437
 msgid "Branch"
 msgstr ""
 
-#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209 src/ostree.jsx:391
+#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209 src/ostree.jsx:393
 #: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
 #: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460
 msgid "Cancel"
 msgstr "Cancel·la"
 
-#: src/ostree.jsx:801
+#: src/ostree.jsx:803
 #, fuzzy
 #| msgid "Checking for updates"
 msgid "Checking for package updates..."
 msgstr "Comprovació per si hi ha actualitzacions"
 
-#: src/ostree.jsx:831
+#: src/ostree.jsx:833
 msgid "Checking for updates"
 msgstr "Comprovació per si hi ha actualitzacions"
 
-#: src/deploymentModals.jsx:122 src/ostree.jsx:909
+#: src/deploymentModals.jsx:122 src/ostree.jsx:911
 msgid "Clean up"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgstr ""
 msgid "Clear cache and deployments"
 msgstr "Actualitzacions disponibles"
 
-#: src/ostree.jsx:418
+#: src/ostree.jsx:420
 msgid "Close"
 msgstr "Tanca"
 
@@ -92,57 +92,57 @@ msgstr "Tanca"
 msgid "Connecting to OSTree"
 msgstr "S'està connectant a OSTree"
 
-#: src/ostree.jsx:405
+#: src/ostree.jsx:407
 #, fuzzy
 #| msgid "Current boot"
 msgid "Current"
 msgstr "Arrencada actual"
 
-#: src/ostree.jsx:569
+#: src/ostree.jsx:571
 msgid "Delete"
 msgstr "Suprimeix"
 
-#: src/ostree.jsx:333 src/ostree.jsx:940
+#: src/ostree.jsx:335 src/ostree.jsx:942
 #, fuzzy
 #| msgid "Deployment Causes"
 msgid "Deployments and updates"
 msgstr "Causes del desplegament"
 
-#: src/ostree.jsx:197
+#: src/ostree.jsx:199
 msgid "Downgrades"
 msgstr "Reversions"
 
-#: src/ostree.jsx:672 src/repositoryModals.jsx:277
+#: src/ostree.jsx:674 src/repositoryModals.jsx:277
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
 msgstr "Dipòsit git"
 
-#: src/ostree.jsx:847
+#: src/ostree.jsx:849
 msgid "Error loading remotes: $0"
 msgstr "Error en carregar els remots: $0"
 
-#: src/ostree.jsx:236
+#: src/ostree.jsx:238
 #, fuzzy
 #| msgid "Expired Signature"
 msgid "Expired signature"
 msgstr "Signatura vençuda"
 
-#: src/ostree.jsx:421
+#: src/ostree.jsx:423
 msgid "Failed"
 msgstr "Ha fallat"
 
-#: src/ostree.jsx:300
+#: src/ostree.jsx:302
 #, fuzzy
 #| msgid "Available Updates"
 msgid "Failed to rebase deployment"
 msgstr "Actualitzacions disponibles"
 
-#: src/ostree.jsx:279
+#: src/ostree.jsx:281
 msgid "Failed to roll back deployment"
 msgstr ""
 
-#: src/ostree.jsx:289
+#: src/ostree.jsx:291
 #, fuzzy
 #| msgid "Available Updates"
 msgid "Failed to upgrade deployment"
@@ -154,13 +154,13 @@ msgstr "Actualitzacions disponibles"
 msgid "GPG public key"
 msgstr "Clau pública"
 
-#: src/ostree.jsx:236
+#: src/ostree.jsx:238
 #, fuzzy
 #| msgid "Good Signature"
 msgid "Good signature"
 msgstr "Bona signatura"
 
-#: src/ostree.jsx:236
+#: src/ostree.jsx:238
 #, fuzzy
 #| msgid "Invalid Signature"
 msgid "Invalid signature"
@@ -174,13 +174,13 @@ msgstr ""
 msgid "Name"
 msgstr "Nom"
 
-#: src/ostree.jsx:428
+#: src/ostree.jsx:430
 #, fuzzy
 #| msgid "Network"
 msgid "New"
 msgstr "Xarxa"
 
-#: src/ostree.jsx:753
+#: src/ostree.jsx:755
 msgid "No OSTree deployments found"
 msgstr "No s'ha trobat desplegaments OSTree"
 
@@ -194,13 +194,13 @@ msgstr "No s'ha trobat cap dada de configuració"
 msgid "No deployments"
 msgstr "Sense desplegaments"
 
-#: src/ostree.jsx:260
+#: src/ostree.jsx:262
 #, fuzzy
 #| msgid "No disks are available."
 msgid "No signature available"
 msgstr "No hi ha disponible cap disc."
 
-#: src/ostree.jsx:779
+#: src/ostree.jsx:781
 msgid "Not authorized to update software on this system"
 msgstr "No autoritzat per actualitzar el programari en aquest sistema"
 
@@ -208,27 +208,27 @@ msgstr "No autoritzat per actualitzar el programari en aquest sistema"
 msgid "OS $0 not found"
 msgstr "SO $0 no trobat"
 
-#: src/ostree.jsx:781
+#: src/ostree.jsx:783
 msgid "OSTree is not available on this system"
 msgstr "OSTree no està disponible en aquest sistema"
 
-#: src/ostree.jsx:693
+#: src/ostree.jsx:695
 #, fuzzy
 #| msgid "Source"
 msgid "OSTree source"
 msgstr "Origen"
 
-#: src/ostree.jsx:213
+#: src/ostree.jsx:215
 #, fuzzy
 #| msgid "Operating System"
 msgid "Operating system"
 msgstr "Sistema operatiu"
 
-#: src/ostree.jsx:225
+#: src/ostree.jsx:227
 msgid "Origin"
 msgstr "Origen"
 
-#: src/ostree.jsx:514
+#: src/ostree.jsx:516
 msgid "Packages"
 msgstr "Paquets"
 
@@ -242,11 +242,11 @@ msgstr ""
 msgid "Pending deployment"
 msgstr "Sense desplegaments"
 
-#: src/ostree.jsx:554
+#: src/ostree.jsx:556
 msgid "Pin"
 msgstr ""
 
-#: src/ostree.jsx:407
+#: src/ostree.jsx:409
 msgid "Pinned"
 msgstr ""
 
@@ -264,7 +264,7 @@ msgstr "Si us plau, proporcioneu un nom vàlid"
 msgid "RPM repo metadata"
 msgstr "Metadades"
 
-#: src/ostree.jsx:457 src/ostree.jsx:655 src/repositoryModals.jsx:454
+#: src/ostree.jsx:459 src/ostree.jsx:657 src/repositoryModals.jsx:454
 msgid "Rebase"
 msgstr ""
 
@@ -272,15 +272,15 @@ msgstr ""
 msgid "Rebase repository and branch"
 msgstr ""
 
-#: src/ostree.jsx:155
+#: src/ostree.jsx:156
 msgid "Reconnect"
 msgstr "Torna a connectar"
 
-#: src/ostree.jsx:221
+#: src/ostree.jsx:223
 msgid "Released"
 msgstr "Llançat"
 
-#: src/ostree.jsx:195
+#: src/ostree.jsx:197
 msgid "Removals"
 msgstr "Supressions"
 
@@ -306,18 +306,18 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:682 src/repositoryModals.jsx:111
+#: src/ostree.jsx:684 src/repositoryModals.jsx:111
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "Dipòsit"
 
-#: src/ostree.jsx:698 src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
+#: src/ostree.jsx:700 src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
 #: src/repositoryModals.jsx:430
 msgid "Repository"
 msgstr "Dipòsit"
 
-#: src/deploymentModals.jsx:170 src/ostree.jsx:915
+#: src/deploymentModals.jsx:170 src/ostree.jsx:917
 msgid "Reset"
 msgstr "Restableix"
 
@@ -325,7 +325,7 @@ msgstr "Restableix"
 msgid "Reset to original state"
 msgstr ""
 
-#: src/ostree.jsx:456
+#: src/ostree.jsx:458
 msgid "Roll back"
 msgstr ""
 
@@ -343,13 +343,13 @@ msgstr "Desa"
 msgid "Security"
 msgstr "Seguretat"
 
-#: src/ostree.jsx:519
+#: src/ostree.jsx:521
 #, fuzzy
 #| msgid "Signature"
 msgid "Signatures"
 msgstr "Signatura"
 
-#: src/ostree.jsx:241
+#: src/ostree.jsx:243
 msgid "Signed by"
 msgstr "Signat per"
 
@@ -359,7 +359,7 @@ msgstr "Signat per"
 msgid "Software updates"
 msgstr "Actualitzacions"
 
-#: src/ostree.jsx:310 src/ostree.jsx:616
+#: src/ostree.jsx:312 src/ostree.jsx:618
 msgid "Status"
 msgstr "Estat"
 
@@ -367,11 +367,11 @@ msgstr "Estat"
 msgid "Substitutions of packages normally included in an OS build"
 msgstr ""
 
-#: src/ostree.jsx:110 src/ostree.jsx:591
+#: src/ostree.jsx:110 src/ostree.jsx:593
 msgid "System is up to date"
 msgstr "El sistema està al dia"
 
-#: src/ostree.jsx:437 src/ostree.jsx:443 src/ostree.jsx:449
+#: src/ostree.jsx:439 src/ostree.jsx:445 src/ostree.jsx:451
 msgid "System will rebase to $0, updated $1."
 msgstr ""
 
@@ -379,20 +379,20 @@ msgstr ""
 msgid "Temporary files"
 msgstr ""
 
-#: src/ostree.jsx:177
+#: src/ostree.jsx:179
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
 "Aquest desplegament conté els mateixos paquets que el vostre sistema "
 "arrencat actualment"
 
-#: src/ostree.jsx:314
+#: src/ostree.jsx:316
 #, fuzzy
 #| msgid "Timers"
 msgid "Time"
 msgstr "Temporitzadors"
 
-#: src/ostree.jsx:509
+#: src/ostree.jsx:511
 msgid "Tree"
 msgstr "Arbre"
 
@@ -404,15 +404,15 @@ msgstr "URL"
 msgid "Unable to communicate with OSTree"
 msgstr "No es pot comunicar amb OSTree"
 
-#: src/ostree.jsx:554
+#: src/ostree.jsx:556
 msgid "Unpin"
 msgstr ""
 
-#: src/ostree.jsx:455
+#: src/ostree.jsx:457
 msgid "Update"
 msgstr "Actualitza"
 
-#: src/ostree.jsx:585
+#: src/ostree.jsx:587
 #, fuzzy
 #| msgid "Updates Available"
 msgid "Update available"
@@ -424,11 +424,11 @@ msgstr "Actualitzacions disponibles"
 msgid "Update available: $0"
 msgstr "Actualitzacions disponibles"
 
-#: src/ostree.jsx:196
+#: src/ostree.jsx:198
 msgid "Updates"
 msgstr "Actualitzacions"
 
-#: src/ostree.jsx:403
+#: src/ostree.jsx:405
 msgid "Updating"
 msgstr "S'està actualitzant"
 
@@ -436,21 +436,21 @@ msgstr "S'està actualitzant"
 msgid "Use trusted GPG key"
 msgstr "Utilitza una clau GPG de confiança"
 
-#: src/ostree.jsx:253
+#: src/ostree.jsx:255
 #, fuzzy
 #| msgid "Validating key"
 msgid "Validity"
 msgstr "S'està validant la clau"
 
-#: src/ostree.jsx:217 src/ostree.jsx:306
+#: src/ostree.jsx:219 src/ostree.jsx:308
 msgid "Version"
 msgstr "Versió"
 
-#: src/ostree.jsx:245
+#: src/ostree.jsx:247
 msgid "When"
 msgstr "Quan"
 
-#: src/ostree.jsx:422
+#: src/ostree.jsx:424
 msgid "view more..."
 msgstr ""
 
