@@ -12,16 +12,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-01 03:52+0000\n"
-"PO-Revision-Date: 2025-05-05 07:41+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/de/>\n"
+"PO-Revision-Date: 2025-07-08 08:43+0000\n"
+"Last-Translator: Robert Simai <robert.simai@suse.com>\n"
+"Language-Team: German <https://translate.fedoraproject.org/projects/cockpit/"
+"cockpit-ostree/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: src/ostree.jsx:388
 msgid "$0 and reboot"
@@ -316,7 +316,7 @@ msgstr "Status"
 
 #: src/deploymentModals.jsx:196
 msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
+msgstr "Ersatz von Paketen, die üblicherweise in einem OS-Build vorhanden sind"
 
 #: src/ostree.jsx:110 src/ostree.jsx:591
 msgid "System is up to date"
