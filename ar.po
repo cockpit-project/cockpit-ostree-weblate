@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-09 03:47+0000\n"
-"PO-Revision-Date: 2025-07-01 03:45+0000\n"
-"Last-Translator: عمّار عبدالله <ammar-dmour19@proton.me>\n"
+"PO-Revision-Date: 2025-07-18 07:19+0000\n"
+"Last-Translator: Abdullah Albaroty <albaroty@gmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/ar/>\n"
 "Language: ar\n"
@@ -272,7 +272,7 @@ msgstr "مستودع"
 
 #: src/deploymentModals.jsx:170 src/ostree.jsx:917
 msgid "Reset"
-msgstr "إعادة التعيين"
+msgstr "صفر"
 
 #: src/deploymentModals.jsx:206
 msgid "Reset to original state"
