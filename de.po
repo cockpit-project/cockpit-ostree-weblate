@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 03:52+0000\n"
-"PO-Revision-Date: 2025-07-09 15:08+0000\n"
-"Last-Translator: Robert Simai <robert.simai@suse.com>\n"
+"PO-Revision-Date: 2025-07-19 13:53+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/de/>\n"
 "Language: de\n"
@@ -87,7 +87,7 @@ msgstr "Verbinde zu OSTree"
 
 #: src/ostree.jsx:407
 msgid "Current"
-msgstr "Derzeit"
+msgstr "Aktuell"
 
 #: src/ostree.jsx:571
 msgid "Delete"
