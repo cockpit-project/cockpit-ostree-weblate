@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-11 03:19+0000\n"
-"PO-Revision-Date: 2025-06-02 17:18+0000\n"
+"PO-Revision-Date: 2025-10-17 09:54+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/cockpit-ostree/en_GB/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src/ostree.jsx:390
 msgid "$0 and reboot"
@@ -34,49 +34,49 @@ msgstr "Add another key"
 
 #: src/repositoryModals.jsx:172
 msgid "Add new repository"
-msgstr ""
+msgstr "Add new repository"
 
 #: src/ostree.jsx:665 src/repositoryModals.jsx:221
 msgid "Add repository"
-msgstr ""
+msgstr "Add repository"
 
 #: src/ostree.jsx:196
 msgid "Additions"
-msgstr ""
+msgstr "Additions"
 
 #: src/repositoryModals.jsx:311
 msgid "Begins with $0"
-msgstr ""
+msgstr "Begins with $0"
 
 #: src/ostree.jsx:320 src/ostree.jsx:704 src/repositoryModals.jsx:437
 msgid "Branch"
-msgstr ""
+msgstr "Branch"
 
 #: src/ostree.jsx:393 src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
 #: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
 #: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: src/ostree.jsx:803
 msgid "Checking for package updates..."
-msgstr ""
+msgstr "Checking for package updates..."
 
 #: src/ostree.jsx:833
 msgid "Checking for updates"
-msgstr ""
+msgstr "Checking for updates"
 
 #: src/ostree.jsx:911 src/deploymentModals.jsx:122
 msgid "Clean up"
-msgstr ""
+msgstr "Clean up"
 
 #: src/deploymentModals.jsx:80
 msgid "Clear cache and deployments"
-msgstr ""
+msgstr "Clear cache and deployments"
 
 #: src/ostree.jsx:420
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: src/ostree.jsx:141
 msgid "Connecting to OSTree"
