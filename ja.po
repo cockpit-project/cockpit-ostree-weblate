@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 03:19+0000\n"
+"POT-Creation-Date: 2025-10-17 03:25+0000\n"
 "PO-Revision-Date: 2018-02-22 05:00+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Japanese\n"
@@ -38,7 +38,7 @@ msgstr "別の鍵の追加"
 msgid "Add new repository"
 msgstr "- 新規リポジトリーの追加"
 
-#: src/ostree.jsx:665 src/repositoryModals.jsx:221
+#: src/repositoryModals.jsx:221 src/ostree.jsx:665
 #, fuzzy
 #| msgid "- Add New Repository"
 msgid "Add repository"
@@ -52,13 +52,13 @@ msgstr "追加"
 msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:320 src/ostree.jsx:704 src/repositoryModals.jsx:437
+#: src/repositoryModals.jsx:437 src/ostree.jsx:320 src/ostree.jsx:704
 msgid "Branch"
 msgstr ""
 
-#: src/ostree.jsx:393 src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
+#: src/deploymentModals.jsx:125 src/deploymentModals.jsx:209
 #: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
-#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460
+#: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460 src/ostree.jsx:393
 msgid "Cancel"
 msgstr "取り消し"
 
@@ -72,7 +72,7 @@ msgstr "更新の確認"
 msgid "Checking for updates"
 msgstr "更新の確認"
 
-#: src/ostree.jsx:911 src/deploymentModals.jsx:122
+#: src/deploymentModals.jsx:122 src/ostree.jsx:911
 msgid "Clean up"
 msgstr ""
 
@@ -110,7 +110,7 @@ msgstr "デプロイメントの理由"
 msgid "Downgrades"
 msgstr "ダウングレード"
 
-#: src/ostree.jsx:674 src/repositoryModals.jsx:277
+#: src/repositoryModals.jsx:277 src/ostree.jsx:674
 #, fuzzy
 #| msgid "Git Repository"
 msgid "Edit repository"
@@ -262,7 +262,7 @@ msgstr "有効な名前を提供してください"
 msgid "RPM repo metadata"
 msgstr "メタデータ"
 
-#: src/ostree.jsx:459 src/ostree.jsx:657 src/repositoryModals.jsx:454
+#: src/repositoryModals.jsx:454 src/ostree.jsx:459 src/ostree.jsx:657
 msgid "Rebase"
 msgstr ""
 
@@ -304,18 +304,18 @@ msgid ""
 "to its original state."
 msgstr ""
 
-#: src/ostree.jsx:684 src/repositoryModals.jsx:111
+#: src/repositoryModals.jsx:111 src/ostree.jsx:684
 #, fuzzy
 #| msgid "Repository"
 msgid "Remove repository"
 msgstr "リポジトリー"
 
-#: src/ostree.jsx:700 src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
-#: src/repositoryModals.jsx:430
+#: src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
+#: src/repositoryModals.jsx:430 src/ostree.jsx:700
 msgid "Repository"
 msgstr "リポジトリー"
 
-#: src/ostree.jsx:917 src/deploymentModals.jsx:170
+#: src/deploymentModals.jsx:170 src/ostree.jsx:917
 msgid "Reset"
 msgstr "リセット"
 
