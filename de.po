@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-17 03:25+0000\n"
-"PO-Revision-Date: 2025-07-19 13:53+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2025-10-26 10:53+0000\n"
+"Last-Translator: Nils Werner <nils@hey.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/de/>\n"
 "Language: de\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src/ostree.jsx:390
 msgid "$0 and reboot"
@@ -41,7 +41,7 @@ msgstr "Neues Repositorium hinzufügen"
 
 #: src/repositoryModals.jsx:221 src/ostree.jsx:665
 msgid "Add repository"
-msgstr "Repositorium hinzufügen"
+msgstr "Repository hinzufügen"
 
 #: src/ostree.jsx:196
 msgid "Additions"
@@ -103,7 +103,7 @@ msgstr "Herabstufungen"
 
 #: src/repositoryModals.jsx:277 src/ostree.jsx:674
 msgid "Edit repository"
-msgstr "Repositorium bearbeiten"
+msgstr "Repository bearbeiten"
 
 #: src/ostree.jsx:849
 msgid "Error loading remotes: $0"
