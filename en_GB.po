@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-26 03:34+0000\n"
-"PO-Revision-Date: 2025-10-17 09:54+0000\n"
+"PO-Revision-Date: 2025-10-28 12:46+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/cockpit-ostree/en_GB/>\n"
@@ -80,71 +80,71 @@ msgstr "Close"
 
 #: src/ostree.jsx:141
 msgid "Connecting to OSTree"
-msgstr ""
+msgstr "Connecting to OSTree"
 
 #: src/ostree.jsx:407
 msgid "Current"
-msgstr ""
+msgstr "Current"
 
 #: src/ostree.jsx:571
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: src/ostree.jsx:335 src/ostree.jsx:942
 msgid "Deployments and updates"
-msgstr ""
+msgstr "Deployments and updates"
 
 #: src/ostree.jsx:199
 msgid "Downgrades"
-msgstr ""
+msgstr "Downgrades"
 
 #: src/ostree.jsx:674 src/repositoryModals.jsx:277
 msgid "Edit repository"
-msgstr ""
+msgstr "Edit repository"
 
 #: src/ostree.jsx:849
 msgid "Error loading remotes: $0"
-msgstr ""
+msgstr "Error loading remotes: $0"
 
 #: src/ostree.jsx:238
 msgid "Expired signature"
-msgstr ""
+msgstr "Expired signature"
 
 #: src/ostree.jsx:423
 msgid "Failed"
-msgstr ""
+msgstr "Failed"
 
 #: src/ostree.jsx:302
 msgid "Failed to rebase deployment"
-msgstr ""
+msgstr "Failed to rebase deployment"
 
 #: src/ostree.jsx:281
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "Failed to roll back deployment"
 
 #: src/ostree.jsx:291
 msgid "Failed to upgrade deployment"
-msgstr ""
+msgstr "Failed to upgrade deployment"
 
 #: src/repositoryModals.jsx:314
 msgid "GPG public key"
-msgstr ""
+msgstr "GPG public key"
 
 #: src/ostree.jsx:238
 msgid "Good signature"
-msgstr ""
+msgstr "Good signature"
 
 #: src/ostree.jsx:238
 msgid "Invalid signature"
-msgstr ""
+msgstr "Invalid signature"
 
 #: src/repositoryModals.jsx:415
 msgid "Loading branches"
-msgstr ""
+msgstr "Loading branches"
 
 #: src/repositoryModals.jsx:176
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: src/ostree.jsx:430
 msgid "New"
