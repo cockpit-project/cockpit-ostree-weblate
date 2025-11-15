@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-28 03:33+0000\n"
-"PO-Revision-Date: 2025-08-28 17:53+0000\n"
-"Last-Translator: fangzheng <fz0000@sina.com>\n"
+"PO-Revision-Date: 2025-11-16 14:52+0000\n"
+"Last-Translator: Jesse Guo <jesseguotech@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/cockpit/cockpit-ostree/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #: src/ostree.jsx:390
 msgid "$0 and reboot"
@@ -112,7 +112,7 @@ msgstr "过期的签名"
 
 #: src/ostree.jsx:423
 msgid "Failed"
-msgstr "已失败"
+msgstr "失败"
 
 #: src/ostree.jsx:302
 msgid "Failed to rebase deployment"
