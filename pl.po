@@ -12,23 +12,23 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-16 03:40+0000\n"
-"PO-Revision-Date: 2024-06-14 18:36+0000\n"
-"Last-Translator: Wojciech Teichert <wojtekt99@gmail.com>\n"
-"Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit-"
-"ostree/main/pl/>\n"
+"PO-Revision-Date: 2025-12-15 01:11+0000\n"
+"Last-Translator: Jan Wroblewski <sdg36phci@mozmail.com>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit/"
+"cockpit-ostree/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #: src/ostree.jsx:390
 #, fuzzy
 #| msgid "Rebase and reboot"
 msgid "$0 and reboot"
-msgstr "Zaktualizuj i uruchom ponownie"
+msgstr "Zaktualizuj $0 i  uruchom ponownie."
 
 #: src/client.js:407
 msgid "$0 key ID"
@@ -75,14 +75,15 @@ msgid "Checking for updates"
 msgstr "Wyszukiwanie aktualizacji"
 
 #: src/ostree.jsx:911 src/deploymentModals.jsx:122
+#, fuzzy
 msgid "Clean up"
-msgstr ""
+msgstr "Wyczyść"
 
 #: src/deploymentModals.jsx:80
 #, fuzzy
 #| msgid "Failed to upgrade deployment"
 msgid "Clear cache and deployments"
-msgstr "Zaktualizowanie wersji wdrożenia się nie powiodło"
+msgstr "Aktualizacja nie  powiodła się. Wyczyść pamięć podręczną i wdrożenia"
 
 #: src/ostree.jsx:420
 msgid "Close"
