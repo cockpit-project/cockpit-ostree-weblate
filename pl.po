@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-14 03:51+0000\n"
-"PO-Revision-Date: 2025-12-15 01:11+0000\n"
+"PO-Revision-Date: 2025-12-16 18:23+0000\n"
 "Last-Translator: Jan Wroblewski <sdg36phci@mozmail.com>\n"
 "Language-Team: Polish <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/pl/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15\n"
 
 #: src/ostree.jsx:390
 #, fuzzy
@@ -247,11 +247,11 @@ msgstr "Metadane"
 
 #: src/ostree.jsx:459 src/ostree.jsx:657 src/repositoryModals.jsx:454
 msgid "Rebase"
-msgstr ""
+msgstr "Przenieś"
 
 #: src/repositoryModals.jsx:426
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "Zmień repozytorium i gałęzie"
 
 #: src/ostree.jsx:156
 msgid "Reconnect"
