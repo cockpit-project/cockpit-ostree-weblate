@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-24 03:48+0000\n"
-"PO-Revision-Date: 2025-12-24 17:58+0000\n"
+"PO-Revision-Date: 2025-12-25 06:52+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/id/>\n"
@@ -56,7 +56,7 @@ msgstr "Cabang"
 #: src/repositoryModals.jsx:132 src/repositoryModals.jsx:224
 #: src/repositoryModals.jsx:323 src/repositoryModals.jsx:460
 msgid "Cancel"
-msgstr "Batal"
+msgstr "Batalkan"
 
 #: src/ostree.jsx:803
 msgid "Checking for package updates..."
@@ -88,7 +88,7 @@ msgstr "Saat ini"
 
 #: src/ostree.jsx:571
 msgid "Delete"
-msgstr "Menghapus"
+msgstr "Hapus"
 
 #: src/ostree.jsx:335 src/ostree.jsx:942
 msgid "Deployments and updates"
