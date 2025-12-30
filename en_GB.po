@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-25 03:51+0000\n"
-"PO-Revision-Date: 2025-10-28 12:46+0000\n"
+"PO-Revision-Date: 2025-12-31 16:58+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/cockpit-ostree/en_GB/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: src/ostree.jsx:390
 msgid "$0 and reboot"
@@ -148,15 +148,15 @@ msgstr "Name"
 
 #: src/ostree.jsx:430
 msgid "New"
-msgstr ""
+msgstr "New"
 
 #: src/ostree.jsx:755
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "No OSTree deployments found"
 
 #: src/remotes.js:99
 msgid "No configuration data found"
-msgstr ""
+msgstr "No configuration data found"
 
 #: src/ostree.jsx:145
 msgid "No deployments"
