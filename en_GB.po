@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-31 03:51+0000\n"
-"PO-Revision-Date: 2025-12-31 16:58+0000\n"
+"PO-Revision-Date: 2026-01-03 19:58+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/cockpit-ostree/en_GB/>\n"
@@ -160,232 +160,235 @@ msgstr "No configuration data found"
 
 #: src/ostree.jsx:145
 msgid "No deployments"
-msgstr ""
+msgstr "No deployments"
 
 #: src/ostree.jsx:262
 msgid "No signature available"
-msgstr ""
+msgstr "No signature available"
 
 #: src/ostree.jsx:781
 msgid "Not authorized to update software on this system"
-msgstr ""
+msgstr "Not authorised to update software on this system"
 
 #: src/client.js:500 src/client.js:564
 msgid "OS $0 not found"
-msgstr ""
+msgstr "OS $0 not found"
 
 #: src/ostree.jsx:783
 msgid "OSTree is not available on this system"
-msgstr ""
+msgstr "OSTree is not available on this system"
 
 #: src/ostree.jsx:695
 msgid "OSTree source"
-msgstr ""
+msgstr "OSTree source"
 
 #: src/ostree.jsx:215
 msgid "Operating system"
-msgstr ""
+msgstr "Operating system"
 
 #: src/ostree.jsx:227
 msgid "Origin"
-msgstr ""
+msgstr "Origin"
 
 #: src/ostree.jsx:516
 msgid "Packages"
-msgstr ""
+msgstr "Packages"
 
 #: src/deploymentModals.jsx:189
 msgid "Packages which have been added to the system"
-msgstr ""
+msgstr "Packages which have been added to the system"
 
 #: src/deploymentModals.jsx:101
 msgid "Pending deployment"
-msgstr ""
+msgstr "Pending deployment"
 
 #: src/ostree.jsx:556
 msgid "Pin"
-msgstr ""
+msgstr "Pin"
 
 #: src/ostree.jsx:409
 msgid "Pinned"
-msgstr ""
+msgstr "Pinned"
 
 #: src/repositoryModals.jsx:201
 msgid "Please provide a valid URL"
-msgstr ""
+msgstr "Please provide a valid URL"
 
 #: src/repositoryModals.jsx:187
 msgid "Please provide a valid name"
-msgstr ""
+msgstr "Please provide a valid name"
 
 #: src/deploymentModals.jsx:95
 msgid "RPM repo metadata"
-msgstr ""
+msgstr "RPM repo metadata"
 
 #: src/ostree.jsx:459 src/ostree.jsx:657 src/repositoryModals.jsx:454
 msgid "Rebase"
-msgstr ""
+msgstr "Rebase"
 
 #: src/repositoryModals.jsx:426
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "Rebase repository and branch"
 
 #: src/ostree.jsx:156
 msgid "Reconnect"
-msgstr ""
+msgstr "Reconnect"
 
 #: src/ostree.jsx:223
 msgid "Released"
-msgstr ""
+msgstr "Released"
 
 #: src/ostree.jsx:197
 msgid "Removals"
-msgstr ""
+msgstr "Removals"
 
 #: src/repositoryModals.jsx:129
 msgid "Remove"
-msgstr ""
+msgstr "Remove"
 
 #: src/deploymentModals.jsx:184
 msgid "Remove overlays"
-msgstr ""
+msgstr "Remove overlays"
 
 #: src/deploymentModals.jsx:191
 msgid "Remove overrides"
-msgstr ""
+msgstr "Remove overrides"
 
 #: src/deploymentModals.jsx:181
 msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
 
 #: src/ostree.jsx:684 src/repositoryModals.jsx:111
 msgid "Remove repository"
-msgstr ""
+msgstr "Remove repository"
 
 #: src/ostree.jsx:700 src/repositoryModals.jsx:116 src/repositoryModals.jsx:281
 #: src/repositoryModals.jsx:430
 msgid "Repository"
-msgstr ""
+msgstr "Repository"
 
 #: src/ostree.jsx:917 src/deploymentModals.jsx:170
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: src/deploymentModals.jsx:206
 msgid "Reset to original state"
-msgstr ""
+msgstr "Reset to original state"
 
 #: src/ostree.jsx:458
 msgid "Roll back"
-msgstr ""
+msgstr "Roll back"
 
 #: src/deploymentModals.jsx:107
 msgid "Rollback deployment"
-msgstr ""
+msgstr "Rollback deployment"
 
 #: src/repositoryModals.jsx:320
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: src/repositoryModals.jsx:204
 msgid "Security"
-msgstr ""
+msgstr "Security"
 
 #: src/ostree.jsx:521
 msgid "Signatures"
-msgstr ""
+msgstr "Signatures"
 
 #: src/ostree.jsx:243
 msgid "Signed by"
-msgstr ""
+msgstr "Signed by"
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
+msgstr "Software updates"
 
 #: src/ostree.jsx:312 src/ostree.jsx:618
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: src/deploymentModals.jsx:196
 msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
+msgstr "Substitutions of packages normally included in an OS build"
 
 #: src/ostree.jsx:110 src/ostree.jsx:593
 msgid "System is up to date"
-msgstr ""
+msgstr "System is up to date"
 
 #: src/ostree.jsx:439 src/ostree.jsx:445 src/ostree.jsx:451
 msgid "System will rebase to $0, updated $1."
-msgstr ""
+msgstr "System will rebase to $0, updated $1."
 
 #: src/deploymentModals.jsx:89
 msgid "Temporary files"
-msgstr ""
+msgstr "Temporary files"
 
 #: src/ostree.jsx:179
 msgid ""
 "This deployment contains the same packages as your currently booted system"
 msgstr ""
+"This deployment contains the same packages as your currently booted system"
 
 #: src/ostree.jsx:316
 msgid "Time"
-msgstr ""
+msgstr "Time"
 
 #: src/ostree.jsx:511
 msgid "Tree"
-msgstr ""
+msgstr "Tree"
 
 #: src/repositoryModals.jsx:190 src/repositoryModals.jsx:291
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/ostree.jsx:143
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "Unable to communicate with OSTree"
 
 #: src/ostree.jsx:556
 msgid "Unpin"
-msgstr ""
+msgstr "Unpin"
 
 #: src/ostree.jsx:457
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: src/ostree.jsx:587
 msgid "Update available"
-msgstr ""
+msgstr "Update available"
 
 #: src/ostree.jsx:116
 msgid "Update available: $0"
-msgstr ""
+msgstr "Update available: $0"
 
 #: src/ostree.jsx:198
 msgid "Updates"
-msgstr ""
+msgstr "Updates"
 
 #: src/ostree.jsx:405
 msgid "Updating"
-msgstr ""
+msgstr "Updating"
 
 #: src/repositoryModals.jsx:209 src/repositoryModals.jsx:300
 msgid "Use trusted GPG key"
-msgstr ""
+msgstr "Use trusted GPG key"
 
 #: src/ostree.jsx:255
 msgid "Validity"
-msgstr ""
+msgstr "Validity"
 
 #: src/ostree.jsx:219 src/ostree.jsx:308
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: src/ostree.jsx:247
 msgid "When"
-msgstr ""
+msgstr "When"
 
 #: src/ostree.jsx:424
 msgid "view more..."
-msgstr ""
+msgstr "view more..."
