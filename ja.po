@@ -6,21 +6,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-27 04:02+0000\n"
-"PO-Revision-Date: 2018-02-22 05:00+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Japanese\n"
+"PO-Revision-Date: 2026-01-29 11:54+0000\n"
+"Last-Translator: Kohei Takahashi <flast@flast.jp>\n"
+"Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
+"cockpit/cockpit-ostree/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Zanata 4.4.5\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: src/ostree.jsx:390
-#, fuzzy
-#| msgid "Rebase and Reboot"
 msgid "$0 and reboot"
-msgstr "リベースおよび再起動"
+msgstr "$0 して再起動"
 
 #: src/client.js:407
 msgid "$0 key ID"
@@ -33,16 +32,12 @@ msgid "Add another key"
 msgstr "別の鍵の追加"
 
 #: src/repositoryModals.jsx:172
-#, fuzzy
-#| msgid "- Add New Repository"
 msgid "Add new repository"
-msgstr "- 新規リポジトリーの追加"
+msgstr "新規リポジトリーの追加"
 
 #: src/ostree.jsx:665 src/repositoryModals.jsx:221
-#, fuzzy
-#| msgid "- Add New Repository"
 msgid "Add repository"
-msgstr "- 新規リポジトリーの追加"
+msgstr "リポジトリーの追加"
 
 #: src/ostree.jsx:196
 msgid "Additions"
@@ -419,10 +414,8 @@ msgid "Update available"
 msgstr "利用できません"
 
 #: src/ostree.jsx:116
-#, fuzzy
-#| msgid "Not available"
 msgid "Update available: $0"
-msgstr "利用できません"
+msgstr "アップデートがあります: $0"
 
 #: src/ostree.jsx:198
 msgid "Updates"
