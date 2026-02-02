@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-31 04:18+0000\n"
-"PO-Revision-Date: 2026-01-29 11:54+0000\n"
+"PO-Revision-Date: 2026-02-03 13:58+0000\n"
 "Last-Translator: Kohei Takahashi <flast@flast.jp>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/ja/>\n"
@@ -72,10 +72,8 @@ msgid "Clean up"
 msgstr ""
 
 #: src/deploymentModals.jsx:80
-#, fuzzy
-#| msgid "Available Updates"
 msgid "Clear cache and deployments"
-msgstr "利用可能なアップデート"
+msgstr "キャッシュとデプロイメントの削除"
 
 #: src/ostree.jsx:420
 msgid "Close"
@@ -142,16 +140,12 @@ msgid "Failed to upgrade deployment"
 msgstr "利用可能なアップデート"
 
 #: src/repositoryModals.jsx:314
-#, fuzzy
-#| msgid "Public Key"
 msgid "GPG public key"
-msgstr "公開鍵"
+msgstr "GPG公開鍵"
 
 #: src/ostree.jsx:238
-#, fuzzy
-#| msgid "Good Signature"
 msgid "Good signature"
-msgstr "優れた署名"
+msgstr "有効な署名"
 
 #: src/ostree.jsx:238
 #, fuzzy
