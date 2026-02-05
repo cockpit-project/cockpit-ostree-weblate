@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-03 04:28+0000\n"
 "PO-Revision-Date: 2026-02-06 14:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Priit Jõerüüt "
+"<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/et/>\n"
 "Language: et\n"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: src/ostree.jsx:312 src/ostree.jsx:618
 msgid "Status"
-msgstr "Olek"
+msgstr "Seisund"
 
 #: src/deploymentModals.jsx:196
 msgid "Substitutions of packages normally included in an OS build"
