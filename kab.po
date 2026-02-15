@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-15 04:45+0000\n"
-"PO-Revision-Date: 2026-02-15 20:58+0000\n"
+"PO-Revision-Date: 2026-02-16 21:58+0000\n"
 "Last-Translator: Massii Aqvayli <massiin@proton.me>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/kab/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
@@ -72,7 +72,7 @@ msgstr "Sfeḍ"
 
 #: src/deploymentModals.jsx:67
 msgid "Clear cache and deployments"
-msgstr ""
+msgstr "Sfeḍ tazarkatut akked isrusuyen"
 
 #: src/ostree.jsx:407
 msgid "Close"
@@ -92,7 +92,7 @@ msgstr "Kkes"
 
 #: src/ostree.jsx:322 src/ostree.jsx:929
 msgid "Deployments and updates"
-msgstr ""
+msgstr "Isrusuyen akked yileqman"
 
 #: src/ostree.jsx:186
 msgid "Downgrades"
@@ -116,15 +116,15 @@ msgstr "Yecceḍ"
 
 #: src/ostree.jsx:289
 msgid "Failed to rebase deployment"
-msgstr ""
+msgstr "Ur yeddi ara alszadur n usrusu"
 
 #: src/ostree.jsx:268
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "Ur yeddi ara tuɣalin ɣer deffir n usrusu"
 
 #: src/ostree.jsx:278
 msgid "Failed to upgrade deployment"
-msgstr ""
+msgstr "Ur yeddi ara usali uleqqem n usrusu"
 
 #: src/repositoryModals.jsx:301
 msgid "GPG public key"
@@ -152,7 +152,7 @@ msgstr "Amaynut"
 
 #: src/ostree.jsx:742
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "Ulac isrusuyen OSTree yettwafen"
 
 #: src/remotes.js:86
 msgid "No configuration data found"
@@ -160,7 +160,7 @@ msgstr "Ulac isefka n twila yettwafen"
 
 #: src/ostree.jsx:132
 msgid "No deployments"
-msgstr ""
+msgstr "Ulac isrusuyen"
 
 #: src/ostree.jsx:249
 msgid "No signature available"
@@ -176,31 +176,31 @@ msgstr "Anagraw n wammud $0 ur yettwaf ara"
 
 #: src/ostree.jsx:770
 msgid "OSTree is not available on this system"
-msgstr ""
+msgstr "OSTree ur yelli ara deg unagraw-a"
 
 #: src/ostree.jsx:682
 msgid "OSTree source"
-msgstr ""
+msgstr "Aɣbalu OSTree"
 
 #: src/ostree.jsx:202
 msgid "Operating system"
-msgstr ""
+msgstr "Anagraw n wammud"
 
 #: src/ostree.jsx:214
 msgid "Origin"
-msgstr ""
+msgstr "Aɣbalu"
 
 #: src/ostree.jsx:503
 msgid "Packages"
-msgstr ""
+msgstr "Ikemmusen"
 
 #: src/deploymentModals.jsx:176
 msgid "Packages which have been added to the system"
-msgstr ""
+msgstr "Ikemmusen i yettwarennan ɣer unagraw"
 
 #: src/deploymentModals.jsx:88
 msgid "Pending deployment"
-msgstr ""
+msgstr "Asrusu deg uraǧu"
 
 #: src/ostree.jsx:543
 msgid "Pin"
@@ -212,27 +212,27 @@ msgstr ""
 
 #: src/repositoryModals.jsx:188
 msgid "Please provide a valid URL"
-msgstr ""
+msgstr "Ttxil-k·m, mudd-d tansa URL tameɣtut"
 
 #: src/repositoryModals.jsx:174
 msgid "Please provide a valid name"
-msgstr ""
+msgstr "Ttxil-k·m, mudd-d isem ameɣtu"
 
 #: src/deploymentModals.jsx:82
 msgid "RPM repo metadata"
-msgstr ""
+msgstr "Iɣefisefka n ukufi RPM"
 
 #: src/ostree.jsx:446 src/ostree.jsx:644 src/repositoryModals.jsx:441
 msgid "Rebase"
-msgstr ""
+msgstr "Alszadur"
 
 #: src/repositoryModals.jsx:413
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "Alszadur akufi d ufurk"
 
 #: src/ostree.jsx:143
 msgid "Reconnect"
-msgstr ""
+msgstr "Ales tuqqna"
 
 #: src/ostree.jsx:210
 msgid "Released"
@@ -240,19 +240,19 @@ msgstr ""
 
 #: src/ostree.jsx:184
 msgid "Removals"
-msgstr ""
+msgstr "Itekkes"
 
 #: src/repositoryModals.jsx:116
 msgid "Remove"
-msgstr ""
+msgstr "Kkes"
 
 #: src/deploymentModals.jsx:171
 msgid "Remove overlays"
-msgstr ""
+msgstr "Kkes tudiliwin"
 
 #: src/deploymentModals.jsx:178
 msgid "Remove overrides"
-msgstr ""
+msgstr "Kkes iḥettemen"
 
 #: src/deploymentModals.jsx:168
 msgid ""
@@ -262,52 +262,52 @@ msgstr ""
 
 #: src/ostree.jsx:671 src/repositoryModals.jsx:98
 msgid "Remove repository"
-msgstr ""
+msgstr "Kkes akufi"
 
 #: src/ostree.jsx:687 src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
 #: src/repositoryModals.jsx:417
 msgid "Repository"
-msgstr ""
+msgstr "akufi"
 
 #: src/ostree.jsx:904 src/deploymentModals.jsx:157
 msgid "Reset"
-msgstr ""
+msgstr "Ales awennez"
 
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
-msgstr ""
+msgstr "Ales awennez ɣer waddad aneṣli"
 
 #: src/ostree.jsx:445
 msgid "Roll back"
-msgstr ""
+msgstr "Tuɣalin ɣer deffir"
 
 #: src/deploymentModals.jsx:94
 msgid "Rollback deployment"
-msgstr ""
+msgstr "Taɣalin ɣer deffir n usrusu"
 
 #: src/repositoryModals.jsx:307
 msgid "Save"
-msgstr ""
+msgstr "Sekles"
 
 #: src/repositoryModals.jsx:191
 msgid "Security"
-msgstr ""
+msgstr "Taɣellist"
 
 #: src/ostree.jsx:508
 msgid "Signatures"
-msgstr ""
+msgstr "Izmal"
 
 #: src/ostree.jsx:230
 msgid "Signed by"
-msgstr ""
+msgstr "Yettwazmel sɣur"
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
+msgstr "Ileqman n useɣẓan"
 
 #: src/ostree.jsx:299 src/ostree.jsx:605
 msgid "Status"
-msgstr ""
+msgstr "Addad"
 
 #: src/deploymentModals.jsx:183
 msgid "Substitutions of packages normally included in an OS build"
@@ -315,7 +315,7 @@ msgstr ""
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
-msgstr ""
+msgstr "Anagraw yettwaleqqem"
 
 #: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
 msgid "System will rebase to $0, updated $1."
