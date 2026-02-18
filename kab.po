@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-16 04:50+0000\n"
-"PO-Revision-Date: 2026-02-16 21:58+0000\n"
+"PO-Revision-Date: 2026-02-19 22:58+0000\n"
 "Last-Translator: Massii Aqvayli <massiin@proton.me>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/kab/>\n"
@@ -236,7 +236,7 @@ msgstr "Ales tuqqna"
 
 #: src/ostree.jsx:210
 msgid "Released"
-msgstr ""
+msgstr "ittwaserreḥ"
 
 #: src/ostree.jsx:184
 msgid "Removals"
@@ -259,6 +259,8 @@ msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr ""
+"Kkes timerniwin neɣ isemselsiyen n ikemmusen iwakken ad d-yuɣal waddad-agi "
+"amiran n usrusu ɣer waddad-is aneṣli."
 
 #: src/ostree.jsx:671 src/repositoryModals.jsx:98
 msgid "Remove repository"
@@ -311,7 +313,7 @@ msgstr "Addad"
 
 #: src/deploymentModals.jsx:183
 msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
+msgstr "Isemselsiyen n yikemmusen yewwi-d ddan-d deg Unagraw n Wammud"
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
@@ -319,32 +321,32 @@ msgstr "Anagraw yettwaleqqem"
 
 #: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
 msgid "System will rebase to $0, updated $1."
-msgstr ""
+msgstr "Anagraw ad yalszadur ɣer $0, yettwaleqqem $1."
 
 #: src/deploymentModals.jsx:76
 msgid "Temporary files"
-msgstr ""
+msgstr "Ifuyla iskudanen"
 
 #: src/ostree.jsx:166
 msgid ""
 "This deployment contains the same packages as your currently booted system"
-msgstr ""
+msgstr "Asrusa-agi yegber kifkif ikemmusen akk d unagraw-ik·im amiran"
 
 #: src/ostree.jsx:303
 msgid "Time"
-msgstr ""
+msgstr "Akud"
 
 #: src/ostree.jsx:498
 msgid "Tree"
-msgstr ""
+msgstr "Aseklu"
 
 #: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
 msgid "URL"
-msgstr ""
+msgstr "Tansa URL"
 
 #: src/ostree.jsx:130
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "Ur yezmir ara ad imseɣwal akked OSTree"
 
 #: src/ostree.jsx:543
 msgid "Unpin"
@@ -352,23 +354,23 @@ msgstr ""
 
 #: src/ostree.jsx:444
 msgid "Update"
-msgstr ""
+msgstr "Mucceḍ"
 
 #: src/ostree.jsx:574
 msgid "Update available"
-msgstr ""
+msgstr "Lqem n umucceḍ yewjed"
 
 #: src/ostree.jsx:103
 msgid "Update available: $0"
-msgstr ""
+msgstr "Lqem n umucceḍ yewjed: $0"
 
 #: src/ostree.jsx:185
 msgid "Updates"
-msgstr ""
+msgstr "Ileqman umucceḍ"
 
 #: src/ostree.jsx:392
 msgid "Updating"
-msgstr ""
+msgstr "Amucceḍ"
 
 #: src/repositoryModals.jsx:196 src/repositoryModals.jsx:287
 msgid "Use trusted GPG key"
@@ -376,16 +378,16 @@ msgstr ""
 
 #: src/ostree.jsx:242
 msgid "Validity"
-msgstr ""
+msgstr "Aɣbal"
 
 #: src/ostree.jsx:206 src/ostree.jsx:295
 msgid "Version"
-msgstr ""
+msgstr "Lqem"
 
 #: src/ostree.jsx:234
 msgid "When"
-msgstr ""
+msgstr "Melmi"
 
 #: src/ostree.jsx:411
 msgid "view more..."
-msgstr ""
+msgstr "ẓer ugar…"
