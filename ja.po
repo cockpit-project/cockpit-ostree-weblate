@@ -7,7 +7,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-19 04:33+0000\n"
 "PO-Revision-Date: 2026-02-23 03:58+0000\n"
-"Last-Translator: Kohei Takahashi <flast@flast.jp>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/ja/>\n"
 "Language: ja\n"
@@ -341,8 +342,6 @@ msgid "Signed by"
 msgstr "署名者"
 
 #: src/index.html:22 src/manifest.json:0
-#, fuzzy
-#| msgid "Software Updates"
 msgid "Software updates"
 msgstr "ソフトウェア更新"
 
