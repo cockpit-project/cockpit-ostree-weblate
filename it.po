@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-08 05:02+0000\n"
-"PO-Revision-Date: 2025-06-01 11:33+0000\n"
-"Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
+"PO-Revision-Date: 2026-04-09 13:58+0000\n"
+"Last-Translator: Ali Ciloqlu <ali.ciloqlu@murena.io>\n"
 "Language-Team: Italian <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/it/>\n"
 "Language: it\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
@@ -96,7 +96,7 @@ msgstr "Distribuzioni e aggiornamenti"
 
 #: src/ostree.jsx:186
 msgid "Downgrades"
-msgstr "Downgrades"
+msgstr "Declassamenti"
 
 #: src/repositoryModals.jsx:264 src/ostree.jsx:661
 msgid "Edit repository"
@@ -281,7 +281,7 @@ msgstr "Ripristina lo stato originale"
 
 #: src/ostree.jsx:445
 msgid "Roll back"
-msgstr "Roll back"
+msgstr "Ripristino"
 
 #: src/deploymentModals.jsx:94
 msgid "Rollback deployment"
