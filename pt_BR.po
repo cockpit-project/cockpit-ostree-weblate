@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-08 05:02+0000\n"
+"POT-Creation-Date: 2026-04-09 04:59+0000\n"
 "PO-Revision-Date: 2025-03-28 01:05+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
@@ -54,9 +54,9 @@ msgstr "Começa com $0"
 msgid "Branch"
 msgstr "Ramo"
 
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
 #: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196 src/ostree.jsx:380
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
 msgid "Cancel"
 msgstr "Cancelar"
 
