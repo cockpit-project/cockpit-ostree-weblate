@@ -10,7 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-10 05:15+0000\n"
 "PO-Revision-Date: 2026-04-10 19:40+0000\n"
-"Last-Translator: Udayraj Bal <udayrajb@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Marathi <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/mr/>\n"
 "Language: mr\n"
@@ -56,7 +57,7 @@ msgstr ""
 #: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
 #: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करा"
 
 #: src/ostree.jsx:790
 msgid "Checking for package updates..."
@@ -76,7 +77,7 @@ msgstr ""
 
 #: src/ostree.jsx:407
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 #: src/ostree.jsx:128
 msgid "Connecting to OSTree"
@@ -84,11 +85,11 @@ msgstr ""
 
 #: src/ostree.jsx:394
 msgid "Current"
-msgstr ""
+msgstr "सध्या"
 
 #: src/ostree.jsx:558
 msgid "Delete"
-msgstr ""
+msgstr "नष्ट करा"
 
 #: src/ostree.jsx:322 src/ostree.jsx:929
 msgid "Deployments and updates"
@@ -112,7 +113,7 @@ msgstr ""
 
 #: src/ostree.jsx:410
 msgid "Failed"
-msgstr ""
+msgstr "अपयशी"
 
 #: src/ostree.jsx:289
 msgid "Failed to rebase deployment"
@@ -144,7 +145,7 @@ msgstr ""
 
 #: src/repositoryModals.jsx:163
 msgid "Name"
-msgstr ""
+msgstr "नाव"
 
 #: src/ostree.jsx:417
 msgid "New"
@@ -184,7 +185,7 @@ msgstr ""
 
 #: src/ostree.jsx:202
 msgid "Operating system"
-msgstr ""
+msgstr "कार्यप्रणाली: %s"
 
 #: src/ostree.jsx:214
 msgid "Origin"
@@ -192,7 +193,7 @@ msgstr ""
 
 #: src/ostree.jsx:503
 msgid "Packages"
-msgstr ""
+msgstr "# संकुल"
 
 #: src/deploymentModals.jsx:176
 msgid "Packages which have been added to the system"
@@ -232,7 +233,7 @@ msgstr ""
 
 #: src/ostree.jsx:143
 msgid "Reconnect"
-msgstr ""
+msgstr "जोडणी करा"
 
 #: src/ostree.jsx:210
 msgid "Released"
@@ -244,7 +245,7 @@ msgstr ""
 
 #: src/repositoryModals.jsx:116
 msgid "Remove"
-msgstr ""
+msgstr "काढून टाका"
 
 #: src/deploymentModals.jsx:171
 msgid "Remove overlays"
@@ -271,7 +272,7 @@ msgstr ""
 
 #: src/deploymentModals.jsx:157 src/ostree.jsx:904
 msgid "Reset"
-msgstr ""
+msgstr "स्वच्छ करा"
 
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
@@ -287,11 +288,11 @@ msgstr ""
 
 #: src/repositoryModals.jsx:307
 msgid "Save"
-msgstr ""
+msgstr "साठवा"
 
 #: src/repositoryModals.jsx:191
 msgid "Security"
-msgstr ""
+msgstr "सुरक्षा"
 
 #: src/ostree.jsx:508
 msgid "Signatures"
@@ -307,7 +308,7 @@ msgstr ""
 
 #: src/ostree.jsx:299 src/ostree.jsx:605
 msgid "Status"
-msgstr ""
+msgstr "स्थिती"
 
 #: src/deploymentModals.jsx:183
 msgid "Substitutions of packages normally included in an OS build"
@@ -380,7 +381,7 @@ msgstr ""
 
 #: src/ostree.jsx:206 src/ostree.jsx:295
 msgid "Version"
-msgstr ""
+msgstr "आवृत्ती"
 
 #: src/ostree.jsx:234
 msgid "When"
