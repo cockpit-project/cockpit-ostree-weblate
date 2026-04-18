@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-10 05:15+0000\n"
-"PO-Revision-Date: 2026-02-06 14:58+0000\n"
+"PO-Revision-Date: 2026-04-19 15:58+0000\n"
 "Last-Translator: Priit Jõerüüt "
 "<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.17\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
@@ -292,7 +292,7 @@ msgstr "Salvesta"
 
 #: src/repositoryModals.jsx:191
 msgid "Security"
-msgstr ""
+msgstr "Turvalisus"
 
 #: src/ostree.jsx:508
 msgid "Signatures"
