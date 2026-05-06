@@ -9,382 +9,384 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-05 05:31+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-07 03:59+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://translate.fedoraproject.org/projects/cockpit/"
+"cockpit-ostree/lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Cockpit manifest2po\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
-msgstr ""
+msgstr "$0 ແລະ ເລີ່ມລະບົບໃໝ່"
 
 #: src/client.js:411
 msgid "$0 key ID"
-msgstr ""
+msgstr "ໄອດີກະແຈ $0"
 
 #: src/repositoryModals.jsx:296
 msgid "Add another key"
-msgstr ""
+msgstr "ເພີ່ມກະແຈອື່ນ"
 
 #: src/repositoryModals.jsx:159
 msgid "Add new repository"
-msgstr ""
+msgstr "ເພີ່ມຄັງເກັບຊອບແວໃໝ່"
 
 #: src/repositoryModals.jsx:208 src/ostree.jsx:652
 msgid "Add repository"
-msgstr ""
+msgstr "ເພີ່ມຄັງເກັບຊອບແວ"
 
 #: src/ostree.jsx:183
 msgid "Additions"
-msgstr ""
+msgstr "ສ່ວນເພີ່ມ"
 
 #: src/repositoryModals.jsx:298
 msgid "Begins with $0"
-msgstr ""
+msgstr "ເລີ່ມຕົ້ນດ້ວຍ $0"
 
 #: src/repositoryModals.jsx:424 src/ostree.jsx:307 src/ostree.jsx:691
 msgid "Branch"
-msgstr ""
+msgstr "ສາຂາ"
 
 #: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
 #: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
 #: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
 msgid "Cancel"
-msgstr ""
+msgstr "ຍົກເລີກ"
 
 #: src/ostree.jsx:790
 msgid "Checking for package updates..."
-msgstr ""
+msgstr "ກຳລັງກວດສອບການອັບເດດແພັກເກດ..."
 
 #: src/ostree.jsx:820
 msgid "Checking for updates"
-msgstr ""
+msgstr "ກຳລັງກວດສອບການອັບເດດ"
 
 #: src/deploymentModals.jsx:109 src/ostree.jsx:898
 msgid "Clean up"
-msgstr ""
+msgstr "ລ້າງຂໍ້ມູນ"
 
 #: src/deploymentModals.jsx:67
 msgid "Clear cache and deployments"
-msgstr ""
+msgstr "ລ້າງແຄຊ໌ ແລະ ການຕິດຕັ້ງ"
 
 #: src/ostree.jsx:407
 msgid "Close"
-msgstr ""
+msgstr "ປິດ"
 
 #: src/ostree.jsx:128
 msgid "Connecting to OSTree"
-msgstr ""
+msgstr "ກຳລັງເຊື່ອມຕໍ່ຫາ OSTree"
 
 #: src/ostree.jsx:394
 msgid "Current"
-msgstr ""
+msgstr "ປັດຈຸບັນ"
 
 #: src/ostree.jsx:558
 msgid "Delete"
-msgstr ""
+msgstr "ລຶບ"
 
 #: src/ostree.jsx:322 src/ostree.jsx:929
 msgid "Deployments and updates"
-msgstr ""
+msgstr "ການຕິດຕັ້ງ ແລະ ການອັບເດດ"
 
 #: src/ostree.jsx:186
 msgid "Downgrades"
-msgstr ""
+msgstr "ການຫຼຸດເວີຊັນ"
 
 #: src/repositoryModals.jsx:264 src/ostree.jsx:661
 msgid "Edit repository"
-msgstr ""
+msgstr "ແກ້ໄຂຄັງເກັບຊອບແວ"
 
 #: src/ostree.jsx:836
 msgid "Error loading remotes: $0"
-msgstr ""
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການໂຫຼດແຫຼ່ງຂໍ້ມູນໄລຍະໄກ: $0"
 
 #: src/ostree.jsx:225
 msgid "Expired signature"
-msgstr ""
+msgstr "ລາຍເຊັນໝົດອາຍຸ"
 
 #: src/ostree.jsx:410
 msgid "Failed"
-msgstr ""
+msgstr "ຫຼົ້ມເຫຼວ"
 
 #: src/ostree.jsx:289
 msgid "Failed to rebase deployment"
-msgstr ""
+msgstr "ການປ່ຽນຖານ (rebase) ການຕິດຕັ້ງຫຼົ້ມເຫຼວ"
 
 #: src/ostree.jsx:268
 msgid "Failed to roll back deployment"
-msgstr ""
+msgstr "ການຍ້ອນກັບການຕິດຕັ້ງຫຼົ້ມເຫຼວ"
 
 #: src/ostree.jsx:278
 msgid "Failed to upgrade deployment"
-msgstr ""
+msgstr "ການອັບເກຣດການຕິດຕັ້ງຫຼົ້ມເຫຼວ"
 
 #: src/repositoryModals.jsx:301
 msgid "GPG public key"
-msgstr ""
+msgstr "ກະແຈສາທາລະນະ GPG"
 
 #: src/ostree.jsx:225
 msgid "Good signature"
-msgstr ""
+msgstr "ລາຍເຊັນຖືກຕ້ອງ"
 
 #: src/ostree.jsx:225
 msgid "Invalid signature"
-msgstr ""
+msgstr "ລາຍເຊັນບໍ່ຖືກຕ້ອງ"
 
 #: src/repositoryModals.jsx:402
 msgid "Loading branches"
-msgstr ""
+msgstr "ກຳລັງໂຫຼດສາຂາ"
 
 #: src/repositoryModals.jsx:163
 msgid "Name"
-msgstr ""
+msgstr "ຊື່"
 
 #: src/ostree.jsx:417
 msgid "New"
-msgstr ""
+msgstr "ໃໝ່"
 
 #: src/ostree.jsx:742
 msgid "No OSTree deployments found"
-msgstr ""
+msgstr "ບໍ່ພົບການຕິດຕັ້ງ OSTree"
 
 #: src/remotes.js:86
 msgid "No configuration data found"
-msgstr ""
+msgstr "ບໍ່ພົບຂໍ້ມູນການຕັ້ງຄ່າ"
 
 #: src/ostree.jsx:132
 msgid "No deployments"
-msgstr ""
+msgstr "ບໍ່ມີການຕິດຕັ້ງ"
 
 #: src/ostree.jsx:249
 msgid "No signature available"
-msgstr ""
+msgstr "ບໍ່ມີລາຍເຊັນ"
 
 #: src/ostree.jsx:768
 msgid "Not authorized to update software on this system"
-msgstr ""
+msgstr "ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ອັບເດດຊອບແວໃນລະບົບນີ້"
 
 #: src/client.js:504 src/client.js:568
 msgid "OS $0 not found"
-msgstr ""
+msgstr "ບໍ່ພົບລະບົບປະຕິບັດການ $0"
 
 #: src/ostree.jsx:770
 msgid "OSTree is not available on this system"
-msgstr ""
+msgstr "ບໍ່ມີ OSTree ໃນລະບົບນີ້"
 
 #: src/ostree.jsx:682
 msgid "OSTree source"
-msgstr ""
+msgstr "ແຫຼ່ງຂໍ້ມູນ OSTree"
 
 #: src/ostree.jsx:202
 msgid "Operating system"
-msgstr ""
+msgstr "ລະບົບປະຕິບັດການ"
 
 #: src/ostree.jsx:214
 msgid "Origin"
-msgstr ""
+msgstr "ຕົ້ນກຳເນີດ"
 
 #: src/ostree.jsx:503
 msgid "Packages"
-msgstr ""
+msgstr "ແພັກເກດ"
 
 #: src/deploymentModals.jsx:176
 msgid "Packages which have been added to the system"
-msgstr ""
+msgstr "ແພັກເກດທີ່ຖືກເພີ່ມເຂົ້າໃນລະບົບ"
 
 #: src/deploymentModals.jsx:88
 msgid "Pending deployment"
-msgstr ""
+msgstr "ການຕິດຕັ້ງທີ່ພວມລໍຖ້າ"
 
 #: src/ostree.jsx:543
 msgid "Pin"
-msgstr ""
+msgstr "Pin"
 
 #: src/ostree.jsx:396
 msgid "Pinned"
-msgstr ""
+msgstr "Pinned"
 
 #: src/repositoryModals.jsx:188
 msgid "Please provide a valid URL"
-msgstr ""
+msgstr "Please provide a valid URL"
 
 #: src/repositoryModals.jsx:174
 msgid "Please provide a valid name"
-msgstr ""
+msgstr "Please provide a valid name"
 
 #: src/deploymentModals.jsx:82
 msgid "RPM repo metadata"
-msgstr ""
+msgstr "ຂໍ້ມູນເມຕາຂອງຄັງ RPM"
 
 #: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
 msgid "Rebase"
-msgstr ""
+msgstr "ປ່ຽນຖານ (Rebase)"
 
 #: src/repositoryModals.jsx:413
 msgid "Rebase repository and branch"
-msgstr ""
+msgstr "ປ່ຽນຖານຄັງເກັບຊອບແວ ແລະ ສາຂາ"
 
 #: src/ostree.jsx:143
 msgid "Reconnect"
-msgstr ""
+msgstr "ເຊື່ອມຕໍ່ຄືນໃໝ່"
 
 #: src/ostree.jsx:210
 msgid "Released"
-msgstr ""
+msgstr "ເຜີຍແຜ່ແລ້ວ"
 
 #: src/ostree.jsx:184
 msgid "Removals"
-msgstr ""
+msgstr "ສ່ວນທີ່ຖືກລຶບ"
 
 #: src/repositoryModals.jsx:116
 msgid "Remove"
-msgstr ""
+msgstr "ລຶບອອກ"
 
 #: src/deploymentModals.jsx:171
 msgid "Remove overlays"
-msgstr ""
+msgstr "ລຶບສ່ວນທັບຊ້ອນ (overlays) ອອກ"
 
 #: src/deploymentModals.jsx:178
 msgid "Remove overrides"
-msgstr ""
+msgstr "ລຶບສ່ວນທີ່ຂຽນທັບ (overrides) ອອກ"
 
 #: src/deploymentModals.jsx:168
 msgid ""
 "Remove package additions or substitutions to return the current deployment "
 "to its original state."
 msgstr ""
+"ລຶບສ່ວນເພີ່ມ ຫຼື ສ່ວນທີ່ປ່ຽນແທນຂອງແພັກເກດ ເພື່ອເຮັດໃຫ້ການຕິດຕັ້ງປັດຈຸບັນກັບຄືນສູ່ສະພາບເດີມ."
 
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
 msgid "Remove repository"
-msgstr ""
+msgstr "ລຶບຄັງເກັບຊອບແວອອກ"
 
 #: src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
 #: src/repositoryModals.jsx:417 src/ostree.jsx:687
 msgid "Repository"
-msgstr ""
+msgstr "ຄັງເກັບຊອບແວ"
 
 #: src/deploymentModals.jsx:157 src/ostree.jsx:904
 msgid "Reset"
-msgstr ""
+msgstr "ຣີເຊັດ (Reset)"
 
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
-msgstr ""
+msgstr "ຣີເຊັດເປັນສະພາບເດີມ"
 
 #: src/ostree.jsx:445
 msgid "Roll back"
-msgstr ""
+msgstr "ຍ້ອນກັບ"
 
 #: src/deploymentModals.jsx:94
 msgid "Rollback deployment"
-msgstr ""
+msgstr "ຍ້ອນກັບການຕິດຕັ້ງ"
 
 #: src/repositoryModals.jsx:307
 msgid "Save"
-msgstr ""
+msgstr "ບັນທຶກ"
 
 #: src/repositoryModals.jsx:191
 msgid "Security"
-msgstr ""
+msgstr "ຄວາມປອດໄພ"
 
 #: src/ostree.jsx:508
 msgid "Signatures"
-msgstr ""
+msgstr "ລາຍເຊັນ"
 
 #: src/ostree.jsx:230
 msgid "Signed by"
-msgstr ""
+msgstr "ເຊັນໂດຍ"
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
+msgstr "ການອັບເດດຊອບແວ"
 
 #: src/ostree.jsx:299 src/ostree.jsx:605
 msgid "Status"
-msgstr ""
+msgstr "ສະຖານະ"
 
 #: src/deploymentModals.jsx:183
 msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
+msgstr "ການປ່ຽນແທນແພັກເກດທີ່ມັກຈະລວມຢູ່ໃນການສ້າງລະບົບປະຕິບັດການ"
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
-msgstr ""
+msgstr "ລະບົບເປັນເວີຊັນຫຼ້າສຸດແລ້ວ"
 
 #: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
 msgid "System will rebase to $0, updated $1."
-msgstr ""
+msgstr "ລະບົບຈະປ່ຽນຖານໄປເປັນ $0, ອັບເດດເມື່ອ $1."
 
 #: src/deploymentModals.jsx:76
 msgid "Temporary files"
-msgstr ""
+msgstr "ໄຟລ໌ຊົ່ວຄາວ"
 
 #: src/ostree.jsx:166
 msgid ""
 "This deployment contains the same packages as your currently booted system"
-msgstr ""
+msgstr "ການຕິດຕັ້ງນີ້ມີແພັກເກດດຽວກັນກັບລະບົບທີ່ທ່ານກຳລັງເປີດໃຊ້ຢູ່"
 
 #: src/ostree.jsx:303
 msgid "Time"
-msgstr ""
+msgstr "ເວລາ"
 
 #: src/ostree.jsx:498
 msgid "Tree"
-msgstr ""
+msgstr "ໂຄງສ້າງ (Tree)"
 
 #: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/ostree.jsx:130
 msgid "Unable to communicate with OSTree"
-msgstr ""
+msgstr "ບໍ່ສາມາດຕິດຕໍ່ສື່ສານກັບ OSTree ໄດ້"
 
 #: src/ostree.jsx:543
 msgid "Unpin"
-msgstr ""
+msgstr "ຖອນການປັກໝຸດ"
 
 #: src/ostree.jsx:444
 msgid "Update"
-msgstr ""
+msgstr "ອັບເດດ"
 
 #: src/ostree.jsx:574
 msgid "Update available"
-msgstr ""
+msgstr "ມີເວີຊັນໃໝ່ໃຫ້ອັບເດດ"
 
 #: src/ostree.jsx:103
 msgid "Update available: $0"
-msgstr ""
+msgstr "ມີເວີຊັນໃໝ່ໃຫ້ອັບເດດ: $0"
 
 #: src/ostree.jsx:185
 msgid "Updates"
-msgstr ""
+msgstr "ການອັບເດດ"
 
 #: src/ostree.jsx:392
 msgid "Updating"
-msgstr ""
+msgstr "ກຳລັງອັບເດດ"
 
 #: src/repositoryModals.jsx:196 src/repositoryModals.jsx:287
 msgid "Use trusted GPG key"
-msgstr ""
+msgstr "ໃຊ້ກະແຈ GPG ທີ່ເຊື່ອຖືໄດ້"
 
 #: src/ostree.jsx:242
 msgid "Validity"
-msgstr ""
+msgstr "ຄວາມຖືກຕ້ອງ"
 
 #: src/ostree.jsx:206 src/ostree.jsx:295
 msgid "Version"
-msgstr ""
+msgstr "ເວີຊັນ"
 
 #: src/ostree.jsx:234
 msgid "When"
-msgstr ""
+msgstr "ເມື່ອໃດ"
 
 #: src/ostree.jsx:411
 msgid "view more..."
-msgstr ""
+msgstr "ເບິ່ງເພີ່ມເຕີມ..."
