@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-06 05:45+0000\n"
-"PO-Revision-Date: 2025-07-01 04:07+0000\n"
+"PO-Revision-Date: 2026-05-17 07:00+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/uk/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
@@ -112,7 +112,7 @@ msgstr "Застарілий підпис"
 
 #: src/ostree.jsx:410
 msgid "Failed"
-msgstr "Помилка"
+msgstr "Не вдалося"
 
 #: src/ostree.jsx:289
 msgid "Failed to rebase deployment"
