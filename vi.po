@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-06 06:56+0000\n"
-"PO-Revision-Date: 2026-07-06 16:55+0000\n"
+"PO-Revision-Date: 2026-07-09 07:17+0000\n"
 "Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/vi/>\n"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: src/ostree.jsx:558
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 #: src/ostree.jsx:322 src/ostree.jsx:929
 msgid "Deployments and updates"
