@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-27 13:06+0000\n"
-"PO-Revision-Date: 2025-05-16 21:59+0000\n"
-"Last-Translator: Luna Jernberg <bittin@reimu.nl>\n"
+"PO-Revision-Date: 2026-09-17 17:17+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/cockpit/"
 "cockpit-ostree/sv/>\n"
 "Language: sv\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 #: src/ostree.jsx:377
 msgid "$0 and reboot"
@@ -104,7 +104,7 @@ msgstr "Redigera förråd"
 
 #: src/ostree.jsx:836
 msgid "Error loading remotes: $0"
-msgstr "Fel vid laddning av fjärrr: $0"
+msgstr "Fel vid laddning av fjärranslutningar: $0"
 
 #: src/ostree.jsx:225
 msgid "Expired signature"
@@ -352,7 +352,7 @@ msgstr "Kan inte kommunicera med OSTree"
 
 #: src/ostree.jsx:543
 msgid "Unpin"
-msgstr "Avfäst"
+msgstr "Ta bort fästning"
 
 #: src/ostree.jsx:444
 msgid "Update"
