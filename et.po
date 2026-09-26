@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-17 07:59+0000\n"
 "PO-Revision-Date: 2026-09-27 15:17+0000\n"
-"Last-Translator: Priit Jõerüüt "
-"<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
 "cockpit/cockpit-ostree/et/>\n"
 "Language: et\n"
@@ -381,7 +381,7 @@ msgstr ""
 
 #: src/ostree.jsx:206 src/ostree.jsx:295
 msgid "Version"
-msgstr ""
+msgstr "Versioon"
 
 #: src/ostree.jsx:234
 msgid "When"
