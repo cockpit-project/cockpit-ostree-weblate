@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-27 08:34+0000\n"
+"POT-Creation-Date: 2026-10-22 07:58+0000\n"
 "PO-Revision-Date: 2025-10-28 12:46+0000\n"
 "Last-Translator: Eli Drechsler <elidrechsler@outlook.com>\n"
 "Language-Team: Dutch <https://translate.fedoraproject.org/projects/cockpit/"
@@ -15,59 +15,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.13.3\n"
 
-#: src/ostree.jsx:377
-#, fuzzy
-#| msgid "Rebase and reboot"
-msgid "$0 and reboot"
-msgstr "Wisselen en opnieuw opstarten"
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr "$0 sleutel-ID"
-
-#: src/repositoryModals.jsx:296
-msgid "Add another key"
-msgstr "Nog een sleutel toevoegen"
-
-#: src/repositoryModals.jsx:159
-msgid "Add new repository"
-msgstr "Voeg nieuwe repository toe"
-
-#: src/repositoryModals.jsx:208 src/ostree.jsx:652
-#, fuzzy
-#| msgid "Add new repository"
-msgid "Add repository"
-msgstr "Voeg nieuwe repository toe"
-
-#: src/ostree.jsx:183
-msgid "Additions"
-msgstr "Toevoegingen"
-
-#: src/repositoryModals.jsx:298
-msgid "Begins with $0"
-msgstr "Begint met $0"
-
-#: src/repositoryModals.jsx:424 src/ostree.jsx:307 src/ostree.jsx:691
-msgid "Branch"
-msgstr "Tak"
-
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-msgid "Cancel"
-msgstr "Annuleren"
-
-#: src/ostree.jsx:790
-msgid "Checking for package updates..."
-msgstr "Controleren op updates..."
-
-#: src/ostree.jsx:820
-msgid "Checking for updates"
-msgstr "Controleren op updates"
-
-#: src/ostree.jsx:898 src/deploymentModals.jsx:109
-msgid "Clean up"
-msgstr ""
+#: src/index.html:22 src/manifest.json:0
+msgid "Software updates"
+msgstr "Software updates"
 
 #: src/deploymentModals.jsx:67
 #, fuzzy
@@ -75,51 +25,157 @@ msgstr ""
 msgid "Clear cache and deployments"
 msgstr "Kan de implementatie niet upgraden"
 
-#: src/ostree.jsx:407
-msgid "Close"
-msgstr "Sluiten"
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr ""
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr ""
+
+#: src/deploymentModals.jsx:88
+#, fuzzy
+#| msgid "No deployments"
+msgid "Pending deployment"
+msgstr "Geen implementaties"
+
+#: src/deploymentModals.jsx:94
+#, fuzzy
+#| msgid "Failed to roll back deployment"
+msgid "Rollback deployment"
+msgstr "Kan de implementatie niet ongedaan maken"
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr ""
+
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196 src/ostree.jsx:380
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr ""
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+
+#: src/deploymentModals.jsx:171
+#, fuzzy
+#| msgid "Removals"
+msgid "Remove overlays"
+msgstr "Verwijderingen"
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr ""
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr ""
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr ""
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr ""
+
+#: src/ostree.jsx:97 src/ostree.jsx:580
+msgid "System is up to date"
+msgstr "Systeem is up-to-date"
+
+#: src/ostree.jsx:103
+msgid "Update available: $0"
+msgstr "Update beschikbaar: $0"
 
 #: src/ostree.jsx:128
 msgid "Connecting to OSTree"
 msgstr "Verbinden met OSTree"
 
-#: src/ostree.jsx:394
-msgid "Current"
-msgstr "Huidig"
+#: src/ostree.jsx:130
+msgid "Unable to communicate with OSTree"
+msgstr "Kan niet communiceren met OSTree"
 
-#: src/ostree.jsx:558
-msgid "Delete"
-msgstr "Verwijderen"
+#: src/ostree.jsx:132
+msgid "No deployments"
+msgstr "Geen implementaties"
 
-#: src/ostree.jsx:322 src/ostree.jsx:929
-msgid "Deployments and updates"
-msgstr "Implementaties en updates"
+#: src/ostree.jsx:143
+msgid "Reconnect"
+msgstr "Opnieuw verbinden"
+
+#: src/ostree.jsx:166
+msgid ""
+"This deployment contains the same packages as your currently booted system"
+msgstr ""
+"Deze implementatie bevat dezelfde pakketten als je huidig opgestarte systeem"
+
+#: src/ostree.jsx:183
+msgid "Additions"
+msgstr "Toevoegingen"
+
+#: src/ostree.jsx:184
+msgid "Removals"
+msgstr "Verwijderingen"
+
+#: src/ostree.jsx:185
+msgid "Updates"
+msgstr "Updates"
 
 #: src/ostree.jsx:186
 msgid "Downgrades"
 msgstr "Degraderen"
 
-#: src/repositoryModals.jsx:264 src/ostree.jsx:661
-#, fuzzy
-#| msgid "Add new repository"
-msgid "Edit repository"
-msgstr "Voeg nieuwe repository toe"
+#: src/ostree.jsx:202
+msgid "Operating system"
+msgstr "Besturingssysteem"
 
-#: src/ostree.jsx:836
-msgid "Error loading remotes: $0"
-msgstr "Fout bij het laden van remotes: $0"
+#: src/ostree.jsx:206 src/ostree.jsx:295
+msgid "Version"
+msgstr "Versie"
+
+#: src/ostree.jsx:210
+msgid "Released"
+msgstr "Vrijgegeven"
+
+#: src/ostree.jsx:214
+msgid "Origin"
+msgstr "Oorsprong"
+
+#: src/ostree.jsx:225
+msgid "Good signature"
+msgstr "Goede handtekening"
 
 #: src/ostree.jsx:225
 msgid "Expired signature"
 msgstr "Verlopen handtekening"
 
-#: src/ostree.jsx:410
-msgid "Failed"
-msgstr "Mislukt"
+#: src/ostree.jsx:225
+msgid "Invalid signature"
+msgstr "Ongeldige handtekening"
 
-#: src/ostree.jsx:289
-msgid "Failed to rebase deployment"
-msgstr "Kan de implementatie niet opnieuw baseren"
+#: src/ostree.jsx:230
+msgid "Signed by"
+msgstr "Ondertekend door"
+
+#: src/ostree.jsx:234
+msgid "When"
+msgstr "Wanneer"
+
+#: src/ostree.jsx:242
+msgid "Validity"
+msgstr "Geldigheid"
+
+#: src/ostree.jsx:249
+msgid "No signature available"
+msgstr "Geen handtekening beschikbaar"
 
 #: src/ostree.jsx:268
 msgid "Failed to roll back deployment"
@@ -129,196 +185,9 @@ msgstr "Kan de implementatie niet ongedaan maken"
 msgid "Failed to upgrade deployment"
 msgstr "Kan de implementatie niet upgraden"
 
-#: src/repositoryModals.jsx:301
-msgid "GPG public key"
-msgstr "GPG openbare sleutel"
-
-#: src/ostree.jsx:225
-msgid "Good signature"
-msgstr "Goede handtekening"
-
-#: src/ostree.jsx:225
-msgid "Invalid signature"
-msgstr "Ongeldige handtekening"
-
-#: src/repositoryModals.jsx:402
-msgid "Loading branches"
-msgstr ""
-
-#: src/repositoryModals.jsx:163
-msgid "Name"
-msgstr "Naam"
-
-#: src/ostree.jsx:417
-msgid "New"
-msgstr ""
-
-#: src/ostree.jsx:742
-msgid "No OSTree deployments found"
-msgstr "Geen OSTree-implementaties gevonden"
-
-#: src/remotes.js:86
-msgid "No configuration data found"
-msgstr "Geen configuratiedata gevonden"
-
-#: src/ostree.jsx:132
-msgid "No deployments"
-msgstr "Geen implementaties"
-
-#: src/ostree.jsx:249
-msgid "No signature available"
-msgstr "Geen handtekening beschikbaar"
-
-#: src/ostree.jsx:768
-msgid "Not authorized to update software on this system"
-msgstr "Niet geautoriseerd om software op dit systeem bij te werken"
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
-msgstr "OS $0 niet gevonden"
-
-#: src/ostree.jsx:770
-msgid "OSTree is not available on this system"
-msgstr "OSTree is niet beschikbaar op dit systeem"
-
-#: src/ostree.jsx:682
-msgid "OSTree source"
-msgstr ""
-
-#: src/ostree.jsx:202
-msgid "Operating system"
-msgstr "Besturingssysteem"
-
-#: src/ostree.jsx:214
-msgid "Origin"
-msgstr "Oorsprong"
-
-#: src/ostree.jsx:503
-msgid "Packages"
-msgstr "Pakketten"
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr ""
-
-#: src/deploymentModals.jsx:88
-#, fuzzy
-#| msgid "No deployments"
-msgid "Pending deployment"
-msgstr "Geen implementaties"
-
-#: src/ostree.jsx:543
-msgid "Pin"
-msgstr ""
-
-#: src/ostree.jsx:396
-msgid "Pinned"
-msgstr ""
-
-#: src/repositoryModals.jsx:188
-msgid "Please provide a valid URL"
-msgstr "Geef een geldige URL op"
-
-#: src/repositoryModals.jsx:174
-msgid "Please provide a valid name"
-msgstr "Geef een geldige naam op"
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr ""
-
-#: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
-msgid "Rebase"
-msgstr ""
-
-#: src/repositoryModals.jsx:413
-msgid "Rebase repository and branch"
-msgstr ""
-
-#: src/ostree.jsx:143
-msgid "Reconnect"
-msgstr "Opnieuw verbinden"
-
-#: src/ostree.jsx:210
-msgid "Released"
-msgstr "Vrijgegeven"
-
-#: src/ostree.jsx:184
-msgid "Removals"
-msgstr "Verwijderingen"
-
-#: src/repositoryModals.jsx:116
-#, fuzzy
-#| msgid "Removals"
-msgid "Remove"
-msgstr "Verwijderingen"
-
-#: src/deploymentModals.jsx:171
-#, fuzzy
-#| msgid "Removals"
-msgid "Remove overlays"
-msgstr "Verwijderingen"
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr ""
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-
-#: src/repositoryModals.jsx:98 src/ostree.jsx:671
-#, fuzzy
-#| msgid "Repository"
-msgid "Remove repository"
-msgstr "Repository"
-
-#: src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
-#: src/repositoryModals.jsx:417 src/ostree.jsx:687
-msgid "Repository"
-msgstr "Repository"
-
-#: src/ostree.jsx:904 src/deploymentModals.jsx:157
-msgid "Reset"
-msgstr ""
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
-msgstr ""
-
-#: src/ostree.jsx:445
-#, fuzzy
-#| msgid "Roll back and reboot"
-msgid "Roll back"
-msgstr "Terugdraaien en opnieuw opstarten"
-
-#: src/deploymentModals.jsx:94
-#, fuzzy
-#| msgid "Failed to roll back deployment"
-msgid "Rollback deployment"
-msgstr "Kan de implementatie niet ongedaan maken"
-
-#: src/repositoryModals.jsx:307
-msgid "Save"
-msgstr ""
-
-#: src/repositoryModals.jsx:191
-msgid "Security"
-msgstr ""
-
-#: src/ostree.jsx:508
-msgid "Signatures"
-msgstr "Handtekeningen"
-
-#: src/ostree.jsx:230
-msgid "Signed by"
-msgstr "Ondertekend door"
-
-#: src/index.html:22 src/manifest.json:0
-msgid "Software updates"
-msgstr "Software updates"
+#: src/ostree.jsx:289
+msgid "Failed to rebase deployment"
+msgstr "Kan de implementatie niet opnieuw baseren"
 
 #: src/ostree.jsx:299 src/ostree.jsx:605
 #, fuzzy
@@ -326,46 +195,54 @@ msgstr "Software updates"
 msgid "Status"
 msgstr "Toestand"
 
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
-
-#: src/ostree.jsx:97 src/ostree.jsx:580
-msgid "System is up to date"
-msgstr "Systeem is up-to-date"
-
-#: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
-msgid "System will rebase to $0, updated $1."
-msgstr ""
-
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
-msgstr ""
-
-#: src/ostree.jsx:166
-msgid ""
-"This deployment contains the same packages as your currently booted system"
-msgstr ""
-"Deze implementatie bevat dezelfde pakketten als je huidig opgestarte systeem"
-
 #: src/ostree.jsx:303
 msgid "Time"
 msgstr ""
 
-#: src/ostree.jsx:498
-msgid "Tree"
-msgstr "Boom"
+#: src/ostree.jsx:307 src/ostree.jsx:691 src/repositoryModals.jsx:424
+msgid "Branch"
+msgstr "Tak"
 
-#: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
-msgid "URL"
-msgstr "URL"
+#: src/ostree.jsx:322 src/ostree.jsx:929
+msgid "Deployments and updates"
+msgstr "Implementaties en updates"
 
-#: src/ostree.jsx:130
-msgid "Unable to communicate with OSTree"
-msgstr "Kan niet communiceren met OSTree"
+#: src/ostree.jsx:377
+#, fuzzy
+#| msgid "Rebase and reboot"
+msgid "$0 and reboot"
+msgstr "Wisselen en opnieuw opstarten"
 
-#: src/ostree.jsx:543
-msgid "Unpin"
+#: src/ostree.jsx:392
+msgid "Updating"
+msgstr "Vernieuwen"
+
+#: src/ostree.jsx:394
+msgid "Current"
+msgstr "Huidig"
+
+#: src/ostree.jsx:396
+msgid "Pinned"
+msgstr ""
+
+#: src/ostree.jsx:407
+msgid "Close"
+msgstr "Sluiten"
+
+#: src/ostree.jsx:410
+msgid "Failed"
+msgstr "Mislukt"
+
+#: src/ostree.jsx:411
+msgid "view more..."
+msgstr "bekijk meer..."
+
+#: src/ostree.jsx:417
+msgid "New"
+msgstr ""
+
+#: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
+msgid "System will rebase to $0, updated $1."
 msgstr ""
 
 #: src/ostree.jsx:444
@@ -374,43 +251,166 @@ msgstr ""
 msgid "Update"
 msgstr "Updates"
 
+#: src/ostree.jsx:445
+#, fuzzy
+#| msgid "Roll back and reboot"
+msgid "Roll back"
+msgstr "Terugdraaien en opnieuw opstarten"
+
+#: src/ostree.jsx:446 src/ostree.jsx:644 src/repositoryModals.jsx:441
+msgid "Rebase"
+msgstr ""
+
+#: src/ostree.jsx:498
+msgid "Tree"
+msgstr "Boom"
+
+#: src/ostree.jsx:503
+msgid "Packages"
+msgstr "Pakketten"
+
+#: src/ostree.jsx:508
+msgid "Signatures"
+msgstr "Handtekeningen"
+
+#: src/ostree.jsx:543
+msgid "Unpin"
+msgstr ""
+
+#: src/ostree.jsx:543
+msgid "Pin"
+msgstr ""
+
+#: src/ostree.jsx:558
+msgid "Delete"
+msgstr "Verwijderen"
+
 #: src/ostree.jsx:574
 #, fuzzy
 #| msgid "Update available: $0"
 msgid "Update available"
 msgstr "Update beschikbaar: $0"
 
-#: src/ostree.jsx:103
-msgid "Update available: $0"
-msgstr "Update beschikbaar: $0"
+#: src/ostree.jsx:652 src/repositoryModals.jsx:208
+#, fuzzy
+#| msgid "Add new repository"
+msgid "Add repository"
+msgstr "Voeg nieuwe repository toe"
 
-#: src/ostree.jsx:185
-msgid "Updates"
-msgstr "Updates"
+#: src/ostree.jsx:661 src/repositoryModals.jsx:264
+#, fuzzy
+#| msgid "Add new repository"
+msgid "Edit repository"
+msgstr "Voeg nieuwe repository toe"
 
-#: src/ostree.jsx:392
-msgid "Updating"
-msgstr "Vernieuwen"
+#: src/ostree.jsx:671 src/repositoryModals.jsx:98
+#, fuzzy
+#| msgid "Repository"
+msgid "Remove repository"
+msgstr "Repository"
+
+#: src/ostree.jsx:682
+msgid "OSTree source"
+msgstr ""
+
+#: src/ostree.jsx:687 src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
+#: src/repositoryModals.jsx:417
+msgid "Repository"
+msgstr "Repository"
+
+#: src/ostree.jsx:742
+msgid "No OSTree deployments found"
+msgstr "Geen OSTree-implementaties gevonden"
+
+#: src/ostree.jsx:768
+msgid "Not authorized to update software on this system"
+msgstr "Niet geautoriseerd om software op dit systeem bij te werken"
+
+#: src/ostree.jsx:770
+msgid "OSTree is not available on this system"
+msgstr "OSTree is niet beschikbaar op dit systeem"
+
+#: src/ostree.jsx:790
+msgid "Checking for package updates..."
+msgstr "Controleren op updates..."
+
+#: src/ostree.jsx:820
+msgid "Checking for updates"
+msgstr "Controleren op updates"
+
+#: src/ostree.jsx:836
+msgid "Error loading remotes: $0"
+msgstr "Fout bij het laden van remotes: $0"
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr "$0 sleutel-ID"
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
+msgstr "OS $0 niet gevonden"
+
+#: src/remotes.js:86
+msgid "No configuration data found"
+msgstr "Geen configuratiedata gevonden"
+
+#: src/repositoryModals.jsx:116
+#, fuzzy
+#| msgid "Removals"
+msgid "Remove"
+msgstr "Verwijderingen"
+
+#: src/repositoryModals.jsx:159
+msgid "Add new repository"
+msgstr "Voeg nieuwe repository toe"
+
+#: src/repositoryModals.jsx:163
+msgid "Name"
+msgstr "Naam"
+
+#: src/repositoryModals.jsx:174
+msgid "Please provide a valid name"
+msgstr "Geef een geldige naam op"
+
+#: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
+msgid "URL"
+msgstr "URL"
+
+#: src/repositoryModals.jsx:188
+msgid "Please provide a valid URL"
+msgstr "Geef een geldige URL op"
+
+#: src/repositoryModals.jsx:191
+msgid "Security"
+msgstr ""
 
 #: src/repositoryModals.jsx:196 src/repositoryModals.jsx:287
 msgid "Use trusted GPG key"
 msgstr "Gebruik vertrouwde GPG-sleutel"
 
-#: src/ostree.jsx:242
-msgid "Validity"
-msgstr "Geldigheid"
+#: src/repositoryModals.jsx:296
+msgid "Add another key"
+msgstr "Nog een sleutel toevoegen"
 
-#: src/ostree.jsx:206 src/ostree.jsx:295
-msgid "Version"
-msgstr "Versie"
+#: src/repositoryModals.jsx:298
+msgid "Begins with $0"
+msgstr "Begint met $0"
 
-#: src/ostree.jsx:234
-msgid "When"
-msgstr "Wanneer"
+#: src/repositoryModals.jsx:301
+msgid "GPG public key"
+msgstr "GPG openbare sleutel"
 
-#: src/ostree.jsx:411
-msgid "view more..."
-msgstr "bekijk meer..."
+#: src/repositoryModals.jsx:307
+msgid "Save"
+msgstr ""
+
+#: src/repositoryModals.jsx:402
+msgid "Loading branches"
+msgstr ""
+
+#: src/repositoryModals.jsx:413
+msgid "Rebase repository and branch"
+msgstr ""
 
 #~ msgid "Receiving delta parts"
 #~ msgstr "Deltaonderdelen ontvangen"

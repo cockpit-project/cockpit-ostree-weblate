@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-27 08:34+0000\n"
+"POT-Creation-Date: 2026-10-22 07:58+0000\n"
 "PO-Revision-Date: 2024-07-13 13:38+0000\n"
 "Last-Translator: Jose Riha <jose1711@gmail.com>\n"
 "Language-Team: Slovak <https://translate.fedoraproject.org/projects/cockpit-"
@@ -20,58 +20,8 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 5.6.2\n"
 
-#: src/ostree.jsx:377
-msgid "$0 and reboot"
-msgstr "$0 a reštartovať"
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr "Identifikátor kľúča $0"
-
-#: src/repositoryModals.jsx:296
-msgid "Add another key"
-msgstr "Pridať ďalší kľúč"
-
-#: src/repositoryModals.jsx:159
-msgid "Add new repository"
-msgstr "Pridať nový repozitár"
-
-#: src/repositoryModals.jsx:208 src/ostree.jsx:652
-#, fuzzy
-#| msgid "- Add New Repository"
-msgid "Add repository"
-msgstr "- Pridať nový repozitár"
-
-#: src/ostree.jsx:183
-msgid "Additions"
-msgstr ""
-
-#: src/repositoryModals.jsx:298
-msgid "Begins with $0"
-msgstr ""
-
-#: src/repositoryModals.jsx:424 src/ostree.jsx:307 src/ostree.jsx:691
-msgid "Branch"
-msgstr ""
-
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-msgid "Cancel"
-msgstr "Zrušiť"
-
-#: src/ostree.jsx:790
-#, fuzzy
-#| msgid "Checking for updates"
-msgid "Checking for package updates..."
-msgstr "Kontrolovanie aktualizácií"
-
-#: src/ostree.jsx:820
-msgid "Checking for updates"
-msgstr "Kontrolovanie aktualizácií"
-
-#: src/ostree.jsx:898 src/deploymentModals.jsx:109
-msgid "Clean up"
+#: src/index.html:22 src/manifest.json:0
+msgid "Software updates"
 msgstr ""
 
 #: src/deploymentModals.jsx:67
@@ -80,39 +30,136 @@ msgstr ""
 msgid "Clear cache and deployments"
 msgstr "Žiadne nasadenia"
 
-#: src/ostree.jsx:407
-msgid "Close"
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr ""
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr ""
+
+#: src/deploymentModals.jsx:88
+#, fuzzy
+#| msgid "No Deployments"
+msgid "Pending deployment"
+msgstr "Žiadne nasadenia"
+
+#: src/deploymentModals.jsx:94
+#, fuzzy
+#| msgid "No Deployments"
+msgid "Rollback deployment"
+msgstr "Žiadne nasadenia"
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr ""
+
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196 src/ostree.jsx:380
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr ""
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+
+#: src/deploymentModals.jsx:171
+msgid "Remove overlays"
+msgstr ""
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr ""
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr ""
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr ""
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr ""
+
+#: src/ostree.jsx:97 src/ostree.jsx:580
+msgid "System is up to date"
+msgstr ""
+
+#: src/ostree.jsx:103
+msgid "Update available: $0"
 msgstr ""
 
 #: src/ostree.jsx:128
 msgid "Connecting to OSTree"
 msgstr "Pripájam sa k OSTree"
 
-#: src/ostree.jsx:394
-msgid "Current"
+#: src/ostree.jsx:130
+msgid "Unable to communicate with OSTree"
 msgstr ""
 
-#: src/ostree.jsx:558
-msgid "Delete"
-msgstr "Zmazať"
+#: src/ostree.jsx:132
+#, fuzzy
+#| msgid "No Deployments"
+msgid "No deployments"
+msgstr "Žiadne nasadenia"
 
-#: src/ostree.jsx:322 src/ostree.jsx:929
-msgid "Deployments and updates"
+#: src/ostree.jsx:143
+msgid "Reconnect"
+msgstr "Znovu pripojiť"
+
+#: src/ostree.jsx:166
+msgid ""
+"This deployment contains the same packages as your currently booted system"
+msgstr ""
+
+#: src/ostree.jsx:183
+msgid "Additions"
+msgstr ""
+
+#: src/ostree.jsx:184
+msgid "Removals"
+msgstr ""
+
+#: src/ostree.jsx:185
+msgid "Updates"
 msgstr ""
 
 #: src/ostree.jsx:186
 msgid "Downgrades"
 msgstr ""
 
-#: src/repositoryModals.jsx:264 src/ostree.jsx:661
+#: src/ostree.jsx:202
 #, fuzzy
-#| msgid "- Add New Repository"
-msgid "Edit repository"
-msgstr "- Pridať nový repozitár"
+#| msgid "Operating System"
+msgid "Operating system"
+msgstr "Operačný systém"
 
-#: src/ostree.jsx:836
-msgid "Error loading remotes: $0"
-msgstr ""
+#: src/ostree.jsx:206 src/ostree.jsx:295
+msgid "Version"
+msgstr "Verzia"
+
+#: src/ostree.jsx:210
+msgid "Released"
+msgstr "Vydaný"
+
+#: src/ostree.jsx:214
+msgid "Origin"
+msgstr "Pôvod"
+
+#: src/ostree.jsx:225
+#, fuzzy
+#| msgid "Good Signature"
+msgid "Good signature"
+msgstr "Dobrý podpis"
 
 #: src/ostree.jsx:225
 #, fuzzy
@@ -120,15 +167,29 @@ msgstr ""
 msgid "Expired signature"
 msgstr "Vypršaný podpis"
 
-#: src/ostree.jsx:410
-msgid "Failed"
+#: src/ostree.jsx:225
+#, fuzzy
+#| msgid "Invalid Signature"
+msgid "Invalid signature"
+msgstr "Nesprávny podpis"
+
+#: src/ostree.jsx:230
+msgid "Signed by"
 msgstr ""
 
-#: src/ostree.jsx:289
+#: src/ostree.jsx:234
+msgid "When"
+msgstr ""
+
+#: src/ostree.jsx:242
+msgid "Validity"
+msgstr ""
+
+#: src/ostree.jsx:249
 #, fuzzy
-#| msgid "No Deployments"
-msgid "Failed to rebase deployment"
-msgstr "Žiadne nasadenia"
+#| msgid "No signature avaliable"
+msgid "No signature available"
+msgstr "Žiadne dostupné podpisy"
 
 #: src/ostree.jsx:268
 msgid "Failed to roll back deployment"
@@ -140,204 +201,11 @@ msgstr ""
 msgid "Failed to upgrade deployment"
 msgstr "Žiadne nasadenia"
 
-#: src/repositoryModals.jsx:301
-msgid "GPG public key"
-msgstr ""
-
-#: src/ostree.jsx:225
-#, fuzzy
-#| msgid "Good Signature"
-msgid "Good signature"
-msgstr "Dobrý podpis"
-
-#: src/ostree.jsx:225
-#, fuzzy
-#| msgid "Invalid Signature"
-msgid "Invalid signature"
-msgstr "Nesprávny podpis"
-
-#: src/repositoryModals.jsx:402
-msgid "Loading branches"
-msgstr ""
-
-#: src/repositoryModals.jsx:163
-msgid "Name"
-msgstr "Názov"
-
-#: src/ostree.jsx:417
-msgid "New"
-msgstr ""
-
-#: src/ostree.jsx:742
-msgid "No OSTree deployments found"
-msgstr "Neboli nájdené žiadne nasadenia OSTee"
-
-#: src/remotes.js:86
-msgid "No configuration data found"
-msgstr "Neboli nájdené žiadne konfiguračné dáta"
-
-#: src/ostree.jsx:132
+#: src/ostree.jsx:289
 #, fuzzy
 #| msgid "No Deployments"
-msgid "No deployments"
+msgid "Failed to rebase deployment"
 msgstr "Žiadne nasadenia"
-
-#: src/ostree.jsx:249
-#, fuzzy
-#| msgid "No signature avaliable"
-msgid "No signature available"
-msgstr "Žiadne dostupné podpisy"
-
-#: src/ostree.jsx:768
-msgid "Not authorized to update software on this system"
-msgstr ""
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
-msgstr ""
-
-#: src/ostree.jsx:770
-msgid "OSTree is not available on this system"
-msgstr "OSTree nie je dostupný na tomto systéme"
-
-#: src/ostree.jsx:682
-msgid "OSTree source"
-msgstr ""
-
-#: src/ostree.jsx:202
-#, fuzzy
-#| msgid "Operating System"
-msgid "Operating system"
-msgstr "Operačný systém"
-
-#: src/ostree.jsx:214
-msgid "Origin"
-msgstr "Pôvod"
-
-#: src/ostree.jsx:503
-msgid "Packages"
-msgstr "Balíky"
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr ""
-
-#: src/deploymentModals.jsx:88
-#, fuzzy
-#| msgid "No Deployments"
-msgid "Pending deployment"
-msgstr "Žiadne nasadenia"
-
-#: src/ostree.jsx:543
-msgid "Pin"
-msgstr ""
-
-#: src/ostree.jsx:396
-msgid "Pinned"
-msgstr ""
-
-#: src/repositoryModals.jsx:188
-msgid "Please provide a valid URL"
-msgstr ""
-
-#: src/repositoryModals.jsx:174
-msgid "Please provide a valid name"
-msgstr ""
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr ""
-
-#: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
-msgid "Rebase"
-msgstr ""
-
-#: src/repositoryModals.jsx:413
-msgid "Rebase repository and branch"
-msgstr ""
-
-#: src/ostree.jsx:143
-msgid "Reconnect"
-msgstr "Znovu pripojiť"
-
-#: src/ostree.jsx:210
-msgid "Released"
-msgstr "Vydaný"
-
-#: src/ostree.jsx:184
-msgid "Removals"
-msgstr ""
-
-#: src/repositoryModals.jsx:116
-msgid "Remove"
-msgstr ""
-
-#: src/deploymentModals.jsx:171
-msgid "Remove overlays"
-msgstr ""
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr ""
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-
-#: src/repositoryModals.jsx:98 src/ostree.jsx:671
-#, fuzzy
-#| msgid "Change Repository"
-msgid "Remove repository"
-msgstr "Zmeniť repozitár"
-
-#: src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
-#: src/repositoryModals.jsx:417 src/ostree.jsx:687
-#, fuzzy
-#| msgid "Change Repository"
-msgid "Repository"
-msgstr "Zmeniť repozitár"
-
-#: src/ostree.jsx:904 src/deploymentModals.jsx:157
-msgid "Reset"
-msgstr ""
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
-msgstr ""
-
-#: src/ostree.jsx:445
-msgid "Roll back"
-msgstr ""
-
-#: src/deploymentModals.jsx:94
-#, fuzzy
-#| msgid "No Deployments"
-msgid "Rollback deployment"
-msgstr "Žiadne nasadenia"
-
-#: src/repositoryModals.jsx:307
-msgid "Save"
-msgstr ""
-
-#: src/repositoryModals.jsx:191
-msgid "Security"
-msgstr ""
-
-#: src/ostree.jsx:508
-#, fuzzy
-#| msgid "Signature"
-msgid "Signatures"
-msgstr "Podpis"
-
-#: src/ostree.jsx:230
-msgid "Signed by"
-msgstr ""
-
-#: src/index.html:22 src/manifest.json:0
-msgid "Software updates"
-msgstr ""
 
 #: src/ostree.jsx:299 src/ostree.jsx:605
 #, fuzzy
@@ -345,50 +213,91 @@ msgstr ""
 msgid "Status"
 msgstr "Stav"
 
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
+#: src/ostree.jsx:303
+msgid "Time"
 msgstr ""
 
-#: src/ostree.jsx:97 src/ostree.jsx:580
-msgid "System is up to date"
+#: src/ostree.jsx:307 src/ostree.jsx:691 src/repositoryModals.jsx:424
+msgid "Branch"
+msgstr ""
+
+#: src/ostree.jsx:322 src/ostree.jsx:929
+msgid "Deployments and updates"
+msgstr ""
+
+#: src/ostree.jsx:377
+msgid "$0 and reboot"
+msgstr "$0 a reštartovať"
+
+#: src/ostree.jsx:392
+msgid "Updating"
+msgstr ""
+
+#: src/ostree.jsx:394
+msgid "Current"
+msgstr ""
+
+#: src/ostree.jsx:396
+msgid "Pinned"
+msgstr ""
+
+#: src/ostree.jsx:407
+msgid "Close"
+msgstr ""
+
+#: src/ostree.jsx:410
+msgid "Failed"
+msgstr ""
+
+#: src/ostree.jsx:411
+msgid "view more..."
+msgstr ""
+
+#: src/ostree.jsx:417
+msgid "New"
 msgstr ""
 
 #: src/ostree.jsx:426 src/ostree.jsx:432 src/ostree.jsx:438
 msgid "System will rebase to $0, updated $1."
 msgstr ""
 
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
+#: src/ostree.jsx:444
+msgid "Update"
 msgstr ""
 
-#: src/ostree.jsx:166
-msgid ""
-"This deployment contains the same packages as your currently booted system"
+#: src/ostree.jsx:445
+msgid "Roll back"
 msgstr ""
 
-#: src/ostree.jsx:303
-msgid "Time"
+#: src/ostree.jsx:446 src/ostree.jsx:644 src/repositoryModals.jsx:441
+msgid "Rebase"
 msgstr ""
 
 #: src/ostree.jsx:498
 msgid "Tree"
 msgstr "Strom"
 
-#: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
-msgid "URL"
-msgstr "URL"
+#: src/ostree.jsx:503
+msgid "Packages"
+msgstr "Balíky"
 
-#: src/ostree.jsx:130
-msgid "Unable to communicate with OSTree"
-msgstr ""
+#: src/ostree.jsx:508
+#, fuzzy
+#| msgid "Signature"
+msgid "Signatures"
+msgstr "Podpis"
 
 #: src/ostree.jsx:543
 msgid "Unpin"
 msgstr ""
 
-#: src/ostree.jsx:444
-msgid "Update"
+#: src/ostree.jsx:543
+msgid "Pin"
 msgstr ""
+
+#: src/ostree.jsx:558
+msgid "Delete"
+msgstr "Zmazať"
 
 #: src/ostree.jsx:574
 #, fuzzy
@@ -396,36 +305,127 @@ msgstr ""
 msgid "Update available"
 msgstr "Žiadne dostupné podpisy"
 
-#: src/ostree.jsx:103
-msgid "Update available: $0"
+#: src/ostree.jsx:652 src/repositoryModals.jsx:208
+#, fuzzy
+#| msgid "- Add New Repository"
+msgid "Add repository"
+msgstr "- Pridať nový repozitár"
+
+#: src/ostree.jsx:661 src/repositoryModals.jsx:264
+#, fuzzy
+#| msgid "- Add New Repository"
+msgid "Edit repository"
+msgstr "- Pridať nový repozitár"
+
+#: src/ostree.jsx:671 src/repositoryModals.jsx:98
+#, fuzzy
+#| msgid "Change Repository"
+msgid "Remove repository"
+msgstr "Zmeniť repozitár"
+
+#: src/ostree.jsx:682
+msgid "OSTree source"
 msgstr ""
 
-#: src/ostree.jsx:185
-msgid "Updates"
+#: src/ostree.jsx:687 src/repositoryModals.jsx:103 src/repositoryModals.jsx:268
+#: src/repositoryModals.jsx:417
+#, fuzzy
+#| msgid "Change Repository"
+msgid "Repository"
+msgstr "Zmeniť repozitár"
+
+#: src/ostree.jsx:742
+msgid "No OSTree deployments found"
+msgstr "Neboli nájdené žiadne nasadenia OSTee"
+
+#: src/ostree.jsx:768
+msgid "Not authorized to update software on this system"
 msgstr ""
 
-#: src/ostree.jsx:392
-msgid "Updating"
+#: src/ostree.jsx:770
+msgid "OSTree is not available on this system"
+msgstr "OSTree nie je dostupný na tomto systéme"
+
+#: src/ostree.jsx:790
+#, fuzzy
+#| msgid "Checking for updates"
+msgid "Checking for package updates..."
+msgstr "Kontrolovanie aktualizácií"
+
+#: src/ostree.jsx:820
+msgid "Checking for updates"
+msgstr "Kontrolovanie aktualizácií"
+
+#: src/ostree.jsx:836
+msgid "Error loading remotes: $0"
+msgstr ""
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr "Identifikátor kľúča $0"
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
+msgstr ""
+
+#: src/remotes.js:86
+msgid "No configuration data found"
+msgstr "Neboli nájdené žiadne konfiguračné dáta"
+
+#: src/repositoryModals.jsx:116
+msgid "Remove"
+msgstr ""
+
+#: src/repositoryModals.jsx:159
+msgid "Add new repository"
+msgstr "Pridať nový repozitár"
+
+#: src/repositoryModals.jsx:163
+msgid "Name"
+msgstr "Názov"
+
+#: src/repositoryModals.jsx:174
+msgid "Please provide a valid name"
+msgstr ""
+
+#: src/repositoryModals.jsx:177 src/repositoryModals.jsx:278
+msgid "URL"
+msgstr "URL"
+
+#: src/repositoryModals.jsx:188
+msgid "Please provide a valid URL"
+msgstr ""
+
+#: src/repositoryModals.jsx:191
+msgid "Security"
 msgstr ""
 
 #: src/repositoryModals.jsx:196 src/repositoryModals.jsx:287
 msgid "Use trusted GPG key"
 msgstr ""
 
-#: src/ostree.jsx:242
-msgid "Validity"
+#: src/repositoryModals.jsx:296
+msgid "Add another key"
+msgstr "Pridať ďalší kľúč"
+
+#: src/repositoryModals.jsx:298
+msgid "Begins with $0"
 msgstr ""
 
-#: src/ostree.jsx:206 src/ostree.jsx:295
-msgid "Version"
-msgstr "Verzia"
-
-#: src/ostree.jsx:234
-msgid "When"
+#: src/repositoryModals.jsx:301
+msgid "GPG public key"
 msgstr ""
 
-#: src/ostree.jsx:411
-msgid "view more..."
+#: src/repositoryModals.jsx:307
+msgid "Save"
+msgstr ""
+
+#: src/repositoryModals.jsx:402
+msgid "Loading branches"
+msgstr ""
+
+#: src/repositoryModals.jsx:413
+msgid "Rebase repository and branch"
 msgstr ""
 
 #~ msgid "Scanning metadata"
