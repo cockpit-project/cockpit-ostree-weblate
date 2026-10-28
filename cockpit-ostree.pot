@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 08:24+0000\n"
+"POT-Creation-Date: 2026-10-28 09:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,14 +19,6 @@ msgstr ""
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr ""
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
 msgstr ""
 
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
@@ -385,4 +377,12 @@ msgstr ""
 
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
+msgstr ""
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr ""
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
 msgstr ""
