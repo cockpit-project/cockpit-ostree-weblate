@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-25 07:50+0000\n"
+"POT-Creation-Date: 2026-11-03 10:07+0000\n"
 "PO-Revision-Date: 2026-11-04 11:18+0000\n"
 "Last-Translator: David Medina <dmedinacpnl@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/cockpit/"
@@ -24,14 +24,6 @@ msgstr ""
 #| msgid "Software Updates"
 msgid "Software updates"
 msgstr "Actualitzacions"
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr ""
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
-msgstr "SO $0 no trobat"
 
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
 #, fuzzy
@@ -450,6 +442,14 @@ msgstr ""
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
 msgstr ""
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr ""
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
+msgstr "SO $0 no trobat"
 
 #~ msgid "Receiving delta parts"
 #~ msgstr "S'estan rebent les parts de deltes"

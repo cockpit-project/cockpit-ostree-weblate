@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-25 07:50+0000\n"
+"POT-Creation-Date: 2026-11-03 10:07+0000\n"
 "PO-Revision-Date: 2024-07-13 13:38+0000\n"
 "Last-Translator: Jose Riha <jose1711@gmail.com>\n"
 "Language-Team: Slovak <https://translate.fedoraproject.org/projects/cockpit-"
@@ -22,14 +22,6 @@ msgstr ""
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr "Identifikátor kľúča $0"
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
 msgstr ""
 
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
@@ -426,6 +418,14 @@ msgstr ""
 
 #: src/deploymentModals.jsx:193
 msgid "Reset to original state"
+msgstr ""
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr "Identifikátor kľúča $0"
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
 msgstr ""
 
 #~ msgid "Scanning metadata"
