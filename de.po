@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 10:07+0000\n"
+"POT-Creation-Date: 2026-11-20 10:33+0000\n"
 "PO-Revision-Date: 2025-10-26 10:53+0000\n"
 "Last-Translator: Nils Werner <nils@hey.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit/"
@@ -27,6 +27,76 @@ msgstr ""
 msgid "Software updates"
 msgstr "Software-Aktualisierungen"
 
+#: src/deploymentModals.jsx:67
+msgid "Clear cache and deployments"
+msgstr "Cache und Bereitstellungen löschen"
+
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr "Temporäre Dateien"
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr "RPM-Repo-Metadaten"
+
+#: src/deploymentModals.jsx:88
+msgid "Pending deployment"
+msgstr "Ausstehende Bereitstellung"
+
+#: src/deploymentModals.jsx:94
+msgid "Rollback deployment"
+msgstr "Bereitstellung zurückrollen"
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr "Bereinigen"
+
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+"Paketerweiterungen oder -ersetzungen entfernen, um die aktuelle "
+"Bereitstellung wieder in den ursprünglichen Zustand zu versetzen."
+
+#: src/deploymentModals.jsx:171
+msgid "Remove overlays"
+msgstr "Überlagerungen entfernen"
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr "Pakete, die zum System hinzugefügt wurden"
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr "Überschreibungen entfernen"
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr "Ersatz von Paketen, die üblicherweise in einem OS-Build vorhanden sind"
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr "In den ursprünglichen Zustand zurücksetzen"
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr "$0 Schlüssel-ID"
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
+msgstr "OS $0 nicht gefunden"
+
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
 msgid "Remove repository"
 msgstr "Repositorium entfernen"
@@ -39,12 +109,6 @@ msgstr "Paketquelle"
 #: src/repositoryModals.jsx:116
 msgid "Remove"
 msgstr "Entfernen"
-
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-msgid "Cancel"
-msgstr "Abbrechen"
 
 #: src/repositoryModals.jsx:159
 msgid "Add new repository"
@@ -113,10 +177,6 @@ msgstr "Zweig"
 #: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
 msgid "Rebase"
 msgstr "Umbasieren"
-
-#: src/remotes.js:86
-msgid "No configuration data found"
-msgstr "Keine Konfigurationsdaten gefunden"
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
@@ -333,69 +393,9 @@ msgstr "Auf Aktualisierungen wird geprüft"
 msgid "Error loading remotes: $0"
 msgstr "Fehler beim Laden der Remotes: $0"
 
-#: src/ostree.jsx:898 src/deploymentModals.jsx:109
-msgid "Clean up"
-msgstr "Bereinigen"
-
-#: src/ostree.jsx:904 src/deploymentModals.jsx:157
-msgid "Reset"
-msgstr "Zurücksetzen"
-
-#: src/deploymentModals.jsx:67
-msgid "Clear cache and deployments"
-msgstr "Cache und Bereitstellungen löschen"
-
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
-msgstr "Temporäre Dateien"
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr "RPM-Repo-Metadaten"
-
-#: src/deploymentModals.jsx:88
-msgid "Pending deployment"
-msgstr "Ausstehende Bereitstellung"
-
-#: src/deploymentModals.jsx:94
-msgid "Rollback deployment"
-msgstr "Bereitstellung zurückrollen"
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-"Paketerweiterungen oder -ersetzungen entfernen, um die aktuelle "
-"Bereitstellung wieder in den ursprünglichen Zustand zu versetzen."
-
-#: src/deploymentModals.jsx:171
-msgid "Remove overlays"
-msgstr "Überlagerungen entfernen"
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr "Pakete, die zum System hinzugefügt wurden"
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr "Überschreibungen entfernen"
-
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
-msgstr "Ersatz von Paketen, die üblicherweise in einem OS-Build vorhanden sind"
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
-msgstr "In den ursprünglichen Zustand zurücksetzen"
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr "$0 Schlüssel-ID"
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
-msgstr "OS $0 nicht gefunden"
+#: src/remotes.js:86
+msgid "No configuration data found"
+msgstr "Keine Konfigurationsdaten gefunden"
 
 #~ msgid "Receiving delta parts"
 #~ msgstr "Empfange Delta-Teile"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 10:07+0000\n"
+"POT-Creation-Date: 2026-11-20 10:33+0000\n"
 "PO-Revision-Date: 2026-02-01 02:58+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
@@ -24,6 +24,76 @@ msgstr ""
 msgid "Software updates"
 msgstr "Pembaruan perangkat lunak"
 
+#: src/deploymentModals.jsx:67
+msgid "Clear cache and deployments"
+msgstr "Menghapus cache dan penerapan"
+
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr "Berkas-berkas sementara"
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr "Metadata repo RPM"
+
+#: src/deploymentModals.jsx:88
+msgid "Pending deployment"
+msgstr "Penerapan yang tertunda"
+
+#: src/deploymentModals.jsx:94
+msgid "Rollback deployment"
+msgstr "Kembalikan penerapan"
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr "Bersihkan"
+
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
+msgid "Cancel"
+msgstr "Batal"
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr "Atur ulang"
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+"Menghapus penambahan atau penggantian paket untuk mengembalikan penerapan "
+"saat ini ke kondisi semula."
+
+#: src/deploymentModals.jsx:171
+msgid "Remove overlays"
+msgstr "Menghapus hamparan"
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr "Paket yang telah ditambahkan ke sistem"
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr "Menghapus penimpaan"
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr "Penggantian paket yang biasanya disertakan dalam pembuatan OS"
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr "Mengatur ulang ke kondisi semula"
+
+#: src/client.js:411
+msgid "$0 key ID"
+msgstr "ID kunci $0"
+
+#: src/client.js:504 src/client.js:568
+msgid "OS $0 not found"
+msgstr "OS $0 tidak ditemukan"
+
 #: src/repositoryModals.jsx:98 src/ostree.jsx:671
 msgid "Remove repository"
 msgstr "Menghapus repositori"
@@ -36,12 +106,6 @@ msgstr "Repositori"
 #: src/repositoryModals.jsx:116
 msgid "Remove"
 msgstr "Menghapus"
-
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-msgid "Cancel"
-msgstr "Batal"
 
 #: src/repositoryModals.jsx:159
 msgid "Add new repository"
@@ -110,10 +174,6 @@ msgstr "Cabang"
 #: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
 msgid "Rebase"
 msgstr "Rebase"
-
-#: src/remotes.js:86
-msgid "No configuration data found"
-msgstr "Tidak ada data konfigurasi yang ditemukan"
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
@@ -328,69 +388,9 @@ msgstr "Memeriksa pembaruan"
 msgid "Error loading remotes: $0"
 msgstr "Kesalahan memuat remote: $0"
 
-#: src/ostree.jsx:898 src/deploymentModals.jsx:109
-msgid "Clean up"
-msgstr "Bersihkan"
-
-#: src/ostree.jsx:904 src/deploymentModals.jsx:157
-msgid "Reset"
-msgstr "Atur ulang"
-
-#: src/deploymentModals.jsx:67
-msgid "Clear cache and deployments"
-msgstr "Menghapus cache dan penerapan"
-
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
-msgstr "Berkas-berkas sementara"
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr "Metadata repo RPM"
-
-#: src/deploymentModals.jsx:88
-msgid "Pending deployment"
-msgstr "Penerapan yang tertunda"
-
-#: src/deploymentModals.jsx:94
-msgid "Rollback deployment"
-msgstr "Kembalikan penerapan"
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-"Menghapus penambahan atau penggantian paket untuk mengembalikan penerapan "
-"saat ini ke kondisi semula."
-
-#: src/deploymentModals.jsx:171
-msgid "Remove overlays"
-msgstr "Menghapus hamparan"
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr "Paket yang telah ditambahkan ke sistem"
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr "Menghapus penimpaan"
-
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
-msgstr "Penggantian paket yang biasanya disertakan dalam pembuatan OS"
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
-msgstr "Mengatur ulang ke kondisi semula"
-
-#: src/client.js:411
-msgid "$0 key ID"
-msgstr "ID kunci $0"
-
-#: src/client.js:504 src/client.js:568
-msgid "OS $0 not found"
-msgstr "OS $0 tidak ditemukan"
+#: src/remotes.js:86
+msgid "No configuration data found"
+msgstr "Tidak ada data konfigurasi yang ditemukan"
 
 #~ msgid "Receiving delta parts"
 #~ msgstr "Menerima bagian delta"
