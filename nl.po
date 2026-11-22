@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 10:33+0000\n"
+"POT-Creation-Date: 2026-11-22 10:20+0000\n"
 "PO-Revision-Date: 2025-10-28 12:46+0000\n"
 "Last-Translator: Eli Drechsler <elidrechsler@outlook.com>\n"
 "Language-Team: Dutch <https://translate.fedoraproject.org/projects/cockpit/"
@@ -18,74 +18,6 @@ msgstr ""
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
 msgstr "Software updates"
-
-#: src/deploymentModals.jsx:67
-#, fuzzy
-#| msgid "Failed to upgrade deployment"
-msgid "Clear cache and deployments"
-msgstr "Kan de implementatie niet upgraden"
-
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
-msgstr ""
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr ""
-
-#: src/deploymentModals.jsx:88
-#, fuzzy
-#| msgid "No deployments"
-msgid "Pending deployment"
-msgstr "Geen implementaties"
-
-#: src/deploymentModals.jsx:94
-#, fuzzy
-#| msgid "Failed to roll back deployment"
-msgid "Rollback deployment"
-msgstr "Kan de implementatie niet ongedaan maken"
-
-#: src/deploymentModals.jsx:109 src/ostree.jsx:898
-msgid "Clean up"
-msgstr ""
-
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-msgid "Cancel"
-msgstr "Annuleren"
-
-#: src/deploymentModals.jsx:157 src/ostree.jsx:904
-msgid "Reset"
-msgstr ""
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-
-#: src/deploymentModals.jsx:171
-#, fuzzy
-#| msgid "Removals"
-msgid "Remove overlays"
-msgstr "Verwijderingen"
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr ""
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr ""
-
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
-msgstr ""
 
 #: src/client.js:411
 msgid "$0 key ID"
@@ -111,6 +43,12 @@ msgstr "Repository"
 #| msgid "Removals"
 msgid "Remove"
 msgstr "Verwijderingen"
+
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196 src/ostree.jsx:380
+msgid "Cancel"
+msgstr "Annuleren"
 
 #: src/repositoryModals.jsx:159
 msgid "Add new repository"
@@ -183,6 +121,72 @@ msgstr "Tak"
 #: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
 msgid "Rebase"
 msgstr ""
+
+#: src/deploymentModals.jsx:67
+#, fuzzy
+#| msgid "Failed to upgrade deployment"
+msgid "Clear cache and deployments"
+msgstr "Kan de implementatie niet upgraden"
+
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr ""
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr ""
+
+#: src/deploymentModals.jsx:88
+#, fuzzy
+#| msgid "No deployments"
+msgid "Pending deployment"
+msgstr "Geen implementaties"
+
+#: src/deploymentModals.jsx:94
+#, fuzzy
+#| msgid "Failed to roll back deployment"
+msgid "Rollback deployment"
+msgstr "Kan de implementatie niet ongedaan maken"
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr ""
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr ""
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+
+#: src/deploymentModals.jsx:171
+#, fuzzy
+#| msgid "Removals"
+msgid "Remove overlays"
+msgstr "Verwijderingen"
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr ""
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr ""
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr ""
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr ""
+
+#: src/remotes.js:86
+msgid "No configuration data found"
+msgstr "Geen configuratiedata gevonden"
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
 msgid "System is up to date"
@@ -407,10 +411,6 @@ msgstr "Controleren op updates"
 #: src/ostree.jsx:836
 msgid "Error loading remotes: $0"
 msgstr "Fout bij het laden van remotes: $0"
-
-#: src/remotes.js:86
-msgid "No configuration data found"
-msgstr "Geen configuratiedata gevonden"
 
 #~ msgid "Receiving delta parts"
 #~ msgstr "Deltaonderdelen ontvangen"

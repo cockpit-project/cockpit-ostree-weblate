@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 10:33+0000\n"
+"POT-Creation-Date: 2026-11-22 10:20+0000\n"
 "PO-Revision-Date: 2026-07-09 07:17+0000\n"
 "Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
@@ -22,66 +22,6 @@ msgstr ""
 
 #: src/index.html:22 src/manifest.json:0
 msgid "Software updates"
-msgstr ""
-
-#: src/deploymentModals.jsx:67
-msgid "Clear cache and deployments"
-msgstr ""
-
-#: src/deploymentModals.jsx:76
-msgid "Temporary files"
-msgstr ""
-
-#: src/deploymentModals.jsx:82
-msgid "RPM repo metadata"
-msgstr ""
-
-#: src/deploymentModals.jsx:88
-msgid "Pending deployment"
-msgstr ""
-
-#: src/deploymentModals.jsx:94
-msgid "Rollback deployment"
-msgstr ""
-
-#: src/deploymentModals.jsx:109 src/ostree.jsx:898
-msgid "Clean up"
-msgstr ""
-
-#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196
-#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
-#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447 src/ostree.jsx:380
-msgid "Cancel"
-msgstr "Hủy bỏ"
-
-#: src/deploymentModals.jsx:157 src/ostree.jsx:904
-msgid "Reset"
-msgstr ""
-
-#: src/deploymentModals.jsx:168
-msgid ""
-"Remove package additions or substitutions to return the current deployment "
-"to its original state."
-msgstr ""
-
-#: src/deploymentModals.jsx:171
-msgid "Remove overlays"
-msgstr ""
-
-#: src/deploymentModals.jsx:176
-msgid "Packages which have been added to the system"
-msgstr ""
-
-#: src/deploymentModals.jsx:178
-msgid "Remove overrides"
-msgstr ""
-
-#: src/deploymentModals.jsx:183
-msgid "Substitutions of packages normally included in an OS build"
-msgstr ""
-
-#: src/deploymentModals.jsx:193
-msgid "Reset to original state"
 msgstr ""
 
 #: src/client.js:411
@@ -104,6 +44,12 @@ msgstr ""
 #: src/repositoryModals.jsx:116
 msgid "Remove"
 msgstr ""
+
+#: src/repositoryModals.jsx:119 src/repositoryModals.jsx:211
+#: src/repositoryModals.jsx:310 src/repositoryModals.jsx:447
+#: src/deploymentModals.jsx:112 src/deploymentModals.jsx:196 src/ostree.jsx:380
+msgid "Cancel"
+msgstr "Hủy bỏ"
 
 #: src/repositoryModals.jsx:159
 msgid "Add new repository"
@@ -171,6 +117,64 @@ msgstr ""
 
 #: src/repositoryModals.jsx:441 src/ostree.jsx:446 src/ostree.jsx:644
 msgid "Rebase"
+msgstr ""
+
+#: src/deploymentModals.jsx:67
+msgid "Clear cache and deployments"
+msgstr ""
+
+#: src/deploymentModals.jsx:76
+msgid "Temporary files"
+msgstr ""
+
+#: src/deploymentModals.jsx:82
+msgid "RPM repo metadata"
+msgstr ""
+
+#: src/deploymentModals.jsx:88
+msgid "Pending deployment"
+msgstr ""
+
+#: src/deploymentModals.jsx:94
+msgid "Rollback deployment"
+msgstr ""
+
+#: src/deploymentModals.jsx:109 src/ostree.jsx:898
+msgid "Clean up"
+msgstr ""
+
+#: src/deploymentModals.jsx:157 src/ostree.jsx:904
+msgid "Reset"
+msgstr ""
+
+#: src/deploymentModals.jsx:168
+msgid ""
+"Remove package additions or substitutions to return the current deployment "
+"to its original state."
+msgstr ""
+
+#: src/deploymentModals.jsx:171
+msgid "Remove overlays"
+msgstr ""
+
+#: src/deploymentModals.jsx:176
+msgid "Packages which have been added to the system"
+msgstr ""
+
+#: src/deploymentModals.jsx:178
+msgid "Remove overrides"
+msgstr ""
+
+#: src/deploymentModals.jsx:183
+msgid "Substitutions of packages normally included in an OS build"
+msgstr ""
+
+#: src/deploymentModals.jsx:193
+msgid "Reset to original state"
+msgstr ""
+
+#: src/remotes.js:86
+msgid "No configuration data found"
 msgstr ""
 
 #: src/ostree.jsx:97 src/ostree.jsx:580
@@ -384,8 +388,4 @@ msgstr ""
 
 #: src/ostree.jsx:836
 msgid "Error loading remotes: $0"
-msgstr ""
-
-#: src/remotes.js:86
-msgid "No configuration data found"
 msgstr ""
